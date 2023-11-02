@@ -6,12 +6,12 @@
    <elementGuidId>9417acab-fa8d-4009-b05c-ba9e6118f618</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>svg.icon-icon-5Yc</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='success'])[1]//*[name()='svg'][1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Secret Sales UK'])[1]/following::*[name()='svg'][1]</value>
+         <key>CSS</key>
+         <value>button.button-button-34E.Button-button-3NM.Button-buttonReset-2Yb > span.icon-root-XQD > svg.icon-icon-5Yc</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>1a35f082-f176-4d3e-93a7-96be4ab4dadb</webElementGuid>
+      <webElementGuid>a93a2c91-6497-4fb9-8a04-4914b3996f7d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +30,23 @@
       <name>xmlns</name>
       <type>Main</type>
       <value>http://www.w3.org/2000/svg</value>
-      <webElementGuid>ddd7daed-d7d2-4ccd-a43b-a398dce58d35</webElementGuid>
+      <webElementGuid>12766b1d-5ae4-4536-add6-1ebe8b72c514</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>width</name>
       <type>Main</type>
-      <value>24</value>
-      <webElementGuid>b487f21a-d2ca-4bf7-aace-257e453aebcf</webElementGuid>
+      <value>14</value>
+      <webElementGuid>edc5bb53-211f-4142-90c7-83d336f55b3a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>height</name>
       <type>Main</type>
-      <value>24</value>
-      <webElementGuid>40155de4-933c-49d5-b1cb-97b6f2b35d59</webElementGuid>
+      <value>14</value>
+      <webElementGuid>ff50bb8b-1f1a-4edb-8886-37f14f1addc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 24 24</value>
-      <webElementGuid>882b420b-7ebd-4dc0-b22d-8a9853e1d35e</webElementGuid>
+      <webElementGuid>681c9b7a-63ec-4ff7-8ad6-bf1699c34ca2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>fill</name>
       <type>Main</type>
       <value>none</value>
-      <webElementGuid>193f6bc0-b306-4479-afe2-4bb31f1b6726</webElementGuid>
+      <webElementGuid>f5b8f903-8500-44ca-a8b3-87a953c847f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>stroke</name>
       <type>Main</type>
       <value>currentColor</value>
-      <webElementGuid>23481477-4cfe-4bc9-a4b4-9404039f3b90</webElementGuid>
+      <webElementGuid>abd64fed-54e8-496c-9b68-38fe6e763cc6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>stroke-width</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>58423fdc-fa10-44b4-ad0b-4a19433e8f90</webElementGuid>
+      <webElementGuid>259dcf20-a7b3-4af4-ad9c-d01fda2eb209</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>stroke-linecap</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>afe00441-a229-4f06-a564-424c6e1cf207</webElementGuid>
+      <webElementGuid>93789d85-86ad-4c40-8924-1057a649bb89</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>stroke-linejoin</name>
       <type>Main</type>
       <value>round</value>
-      <webElementGuid>44274568-9524-4ca3-a622-f8976389fc32</webElementGuid>
+      <webElementGuid>dd224c19-9527-4440-9607-e4f264a109e3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -102,18 +102,58 @@
       <name>class</name>
       <type>Main</type>
       <value>icon-icon-5Yc</value>
-      <webElementGuid>bcb40d63-9b2c-4f42-badf-cf3ae07c9961</webElementGuid>
+      <webElementGuid>070ea784-67e2-4207-9a22-b3318515e48d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/header[@class=&quot;header-root header-root-2P7&quot;]/div[@class=&quot;container header-content-BBd&quot;]/div[@class=&quot;header-actionsWrapper-1gF&quot;]/div[@class=&quot;header-store-nav header-primaryActions-2bB&quot;]/div[@class=&quot;visuallyHiddenFromDesktop&quot;]/button[@class=&quot;navTrigger-root-Yux clickable-root-2gB&quot;]/span[@class=&quot;icon-root-XQD&quot;]/svg[@class=&quot;icon-icon-5Yc&quot;]</value>
-      <webElementGuid>6bfdf325-dcf5-4886-aede-1242194f68f5</webElementGuid>
+      <value>id(&quot;toast-root&quot;)/div[@class=&quot;toast-root-3xB&quot;]/div[@class=&quot;toast-contentWrapper-mDK toast-successToast-19p&quot;]/div[@class=&quot;toast-mainWrapper-2OE&quot;]/div[@class=&quot;toast-heading-1Sz&quot;]/button[@class=&quot;button-button-34E Button-button-3NM Button-buttonReset-2Yb&quot;]/span[@class=&quot;icon-root-XQD&quot;]/svg[@class=&quot;icon-icon-5Yc&quot;]</value>
+      <webElementGuid>4abf3a05-2ea3-4ed8-80f8-756ee9c869de</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='success'])[1]//*[name()='svg'][1]</value>
+      <webElementGuid>a76a9570-e97a-4616-bc5e-e8ea23d9482c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='adidas TERREX'])[1]/following::*[name()='svg'][2]</value>
+      <webElementGuid>8ff5b1a5-7d02-443c-8be9-4aacafd0e725</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Logged in.'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>517ab82b-10ee-4eaa-9d20-755b505f802f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shopping bag'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>e96c197d-5c3b-4e50-bb42-cda97adf7189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='View Cookies Policy'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>96c2a76f-19b8-489f-be18-8563db6e2f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>

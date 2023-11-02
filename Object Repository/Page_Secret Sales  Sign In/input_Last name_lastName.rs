@@ -6,12 +6,12 @@
    <elementGuidId>cb03d70a-fbfa-47d6-a5fe-98afdfd99006</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#input15</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='input15']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#input15</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>63c429bf-21e8-4412-afec-65a1ba4795a0</webElementGuid>
+      <webElementGuid>44c331ee-db64-4862-b7ec-dfabf33ee92e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e046fa53-baf2-4082-ba68-562d542b02ff</webElementGuid>
+      <webElementGuid>b8df5b28-cd68-46f9-a1a3-d5e9b50f1cdd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter your last name</value>
-      <webElementGuid>c6bc5165-fb72-467a-ae0f-b8db13d6892e</webElementGuid>
+      <webElementGuid>a79e5451-9575-4e70-aaf3-68fd0eec73b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>lastName</value>
-      <webElementGuid>55ad86a5-daae-46b6-90b1-cba8c2ef98c2</webElementGuid>
+      <webElementGuid>0b9c1ef3-9035-4ea9-ad6b-f3aebbbc6beb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>input15</value>
-      <webElementGuid>da8de969-5fb2-403f-b146-ad99d985e8c6</webElementGuid>
+      <webElementGuid>a78b0ff4-8df1-4a19-ab0c-ff55ccdb5a1d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Last name *</value>
-      <webElementGuid>b82c53ca-2393-4343-9f78-5fdec32f4bf9</webElementGuid>
+      <webElementGuid>2d6ccf33-7374-4666-9d9a-2c722494e009</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>82b1836d-a46b-4206-afd1-a65aab82ef76</webElementGuid>
+      <webElementGuid>c53af271-a8b2-487d-ba6d-e14a55ee7329</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>2</value>
-      <webElementGuid>0ee283be-1476-42a7-a13a-148247b3da73</webElementGuid>
+      <webElementGuid>40c3afd4-336a-446f-84bb-c96bb458a2f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;input15&quot;)</value>
-      <webElementGuid>93bce792-3e77-48d0-9868-cf0725907872</webElementGuid>
+      <webElementGuid>27c414a5-62d2-404e-849b-41c8afc73e41</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='input15']</value>
-      <webElementGuid>16ac2c20-d20a-499b-a798-6344a81ed0e6</webElementGuid>
+      <webElementGuid>44dfffa7-410c-4c3c-9769-e568ae09058e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form7']/div/div[2]/div[5]/div/span/input</value>
-      <webElementGuid>b6e243b7-805f-4e98-ab3c-1ab84f68f269</webElementGuid>
+      <webElementGuid>20505759-1edd-4f2e-82c6-73f4db183a08</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[5]/div/span/input</value>
-      <webElementGuid>2b082718-e358-4f00-aac7-7a94d9d804b1</webElementGuid>
+      <webElementGuid>24cc99cc-8f30-47ba-a885-def52295235d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,6 +118,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Enter your last name' and @name = 'lastName' and @id = 'input15']</value>
-      <webElementGuid>03042e1e-f077-4985-b8fa-278d41c9677d</webElementGuid>
+      <webElementGuid>57a61488-7f98-4e3f-9410-858b0480190c</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

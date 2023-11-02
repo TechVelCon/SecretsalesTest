@@ -6,12 +6,12 @@
    <elementGuidId>984a4a9d-0edc-45f2-8ced-c19b027217b9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#9082fec0-c77b-43fd-b35b-702dae02a115</value>
+         <key>XPATH</key>
+         <value>//select[@id='ba0e3dfd-f766-4077-8144-55891177a8c5']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//select[@id='9082fec0-c77b-43fd-b35b-702dae02a115']</value>
+         <key>CSS</key>
+         <value>#ba0e3dfd-f766-4077-8144-55891177a8c5</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>32ea1b36-5ef9-4f0a-a645-fb5c32b52226</webElementGuid>
+      <webElementGuid>324e3e1a-d0de-4e1d-86ba-a37914d03421</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>class</name>
       <type>Main</type>
       <value>select-input-1lN Select-select-3Zm</value>
-      <webElementGuid>aa3e33ab-3db0-4eab-a09b-7999a0a03ba0</webElementGuid>
+      <webElementGuid>2f08f2c7-70dd-4e8a-9049-84f8e49d5422</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>9082fec0-c77b-43fd-b35b-702dae02a115</value>
-      <webElementGuid>1997ba47-7150-44a0-99bb-dabc37cd5f47</webElementGuid>
+      <value>ba0e3dfd-f766-4077-8144-55891177a8c5</value>
+      <webElementGuid>7cfbdbf0-7b82-45eb-90a0-ebcbef191138</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>quantity</value>
-      <webElementGuid>dc97978d-0228-445c-970e-680c170dddee</webElementGuid>
+      <webElementGuid>d18ff724-1f07-42c2-b1ca-9caad06c4606</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,18 +54,82 @@
       <name>text</name>
       <type>Main</type>
       <value>12345</value>
-      <webElementGuid>4ca6d9be-f302-40a2-9657-6d8d104f0208</webElementGuid>
+      <webElementGuid>beb4fee7-cbf9-47f1-b4be-c58c1a8dfbf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;9082fec0-c77b-43fd-b35b-702dae02a115&quot;)</value>
-      <webElementGuid>e2e0fb47-b394-41c2-9e3a-064be600c6c0</webElementGuid>
+      <value>id(&quot;ba0e3dfd-f766-4077-8144-55891177a8c5&quot;)</value>
+      <webElementGuid>e54c8780-e46d-4acc-bc12-7ed5406dd00f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//select[@id='ba0e3dfd-f766-4077-8144-55891177a8c5']</value>
+      <webElementGuid>ca2d1a47-fc51-4d88-b0b8-7dc316fe21f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div[3]/div/form/section/section/div[2]/div/span/span/select</value>
+      <webElementGuid>72cb2a63-22bb-45a3-87f0-b79c306bf29b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[1]/following::select[1]</value>
+      <webElementGuid>ac96c5a6-afcc-40d3-ad0a-d4309cdbba9f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/following::select[2]</value>
+      <webElementGuid>f226576b-737a-46ef-8528-9a514fcadda0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Bag'])[1]/preceding::select[1]</value>
+      <webElementGuid>f17bc11b-3aa9-4b48-bea8-1e7f94006469</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/preceding::select[1]</value>
+      <webElementGuid>104fe3dc-48e4-4de3-b9f9-82226bd0cf19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/span/span/select</value>
+      <webElementGuid>fce76652-fb4d-491b-bad1-52e18025c80c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'ba0e3dfd-f766-4077-8144-55891177a8c5' and @name = 'quantity' and (text() = '12345' or . = '12345')]</value>
+      <webElementGuid>85322228-9db4-4892-8382-75972e031dba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
@@ -85,40 +149,8 @@
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[1]/following::select[1]</value>
-      <webElementGuid>5fa81cbf-6f78-4aaf-b721-c223a92b81e0</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='size'])[1]/following::select[2]</value>
       <webElementGuid>cba551e1-7f5e-4d99-8bd5-66cbe9537c55</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Bag'])[1]/preceding::select[1]</value>
-      <webElementGuid>20f17bea-6d33-4bfa-9cd6-b69cd9af8603</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/preceding::select[1]</value>
-      <webElementGuid>4e611632-a8ba-461b-9d8f-bc8b6caad1cf</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//div[2]/div/span/span/select</value>
-      <webElementGuid>b270c022-865b-4ef1-b3f2-1c43be793ec2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

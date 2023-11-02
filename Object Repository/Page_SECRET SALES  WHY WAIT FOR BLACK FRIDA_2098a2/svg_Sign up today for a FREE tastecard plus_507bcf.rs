@@ -6,12 +6,12 @@
    <elementGuidId>74301076-de80-4bcd-9fbf-3c83422748d2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#closeIconSvg</value>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up today and get 15% off* plus...'])[1]/preceding::*[name()='svg'][1]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up today for a FREE tastecard plus...'])[1]/preceding::*[name()='svg'][1]</value>
+         <key>CSS</key>
+         <value>#closeIconSvg</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>eb7cfad3-71cc-4738-9a73-92d2b9837249</webElementGuid>
+      <webElementGuid>55c4b2b2-d274-43da-8e9d-66cfac0d7adf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>closeIconSvg</value>
-      <webElementGuid>cf3db260-d5d1-49a0-afa2-a7fa2e485d70</webElementGuid>
+      <webElementGuid>998161bb-a648-4541-93e7-a762932c4d84</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 45 45</value>
-      <webElementGuid>6626c367-6db1-4d4f-9ef8-6dc63dd33f01</webElementGuid>
+      <webElementGuid>1b4a1c40-0808-4aa4-a4c3-d2bbc4803d5d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>color</name>
       <type>Main</type>
       <value>#000000</value>
-      <webElementGuid>3802697f-8613-44dc-a0d1-99968982da0a</webElementGuid>
+      <webElementGuid>0bd554d6-893c-498d-93ec-5740db819b8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>6240b6e7-826e-4e29-8abb-a16c1f7539f3</webElementGuid>
+      <webElementGuid>1be352e2-a9e8-4689-a328-4cd5cc7f39de</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-oohciz</value>
-      <webElementGuid>b9facbb5-556c-41b0-8326-078eb6a79b35</webElementGuid>
+      <webElementGuid>32226db9-2eb8-40f6-a41b-e484a06e542d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;closeIconSvg&quot;)</value>
-      <webElementGuid>7b0e1e9d-d828-4d6a-8ef9-523a4a458002</webElementGuid>
+      <webElementGuid>67a484a3-1ddc-4061-83f3-54889ab675a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,15 +78,15 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_SECRET SALES  WHY WAIT FOR BLACK FRIDA_2098a2/iframe_concat(id(, , attentive_creative, , _24add5</value>
-      <webElementGuid>55ae2853-73b5-46df-ad81-e060e18915af</webElementGuid>
+      <webElementGuid>e35aa356-61b2-41db-b96d-7ad7e220b462</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up today for a FREE tastecard plus...'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>bf4e00a9-434b-4a46-a67e-ccfd98d6c8c0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up today and get 15% off* plus...'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>d40c5193-7bbe-418b-af1f-33c9a6dabf9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='✓ New brand launches'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>16c74376-a4aa-4291-8b03-4b557e89b1c5</webElementGuid>
+      <webElementGuid>bdafb025-13bf-4c54-88ed-4225d7b87db7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//svg[@id = 'closeIconSvg']</value>
-      <webElementGuid>37605c60-ce73-401b-a714-744e4b1ce706</webElementGuid>
+      <webElementGuid>a2dac92d-a851-4af7-ae7a-b0e337854d12</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up today for a FREE tastecard plus...'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>847fc26a-e6c0-4f4d-bc70-4a14caa20466</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

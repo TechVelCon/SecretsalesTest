@@ -6,12 +6,12 @@
    <elementGuidId>e4b4528e-8a0e-4610-a2ba-c135c00fee4d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//form[@id='form7']/div/div[2]/label[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>f62b7deb-aac1-4a6f-857f-3391b44aa818</webElementGuid>
+      <webElementGuid>08165085-1d3b-427b-b0ee-d3826418a8a6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>checkmark</value>
-      <webElementGuid>9bc7ac95-e0b1-48dd-90b3-1cd810e684af</webElementGuid>
+      <webElementGuid>bceb5434-9af0-4289-b949-65e429c21108</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;form7&quot;)/div[@class=&quot;o-form-content o-form-theme clearfix&quot;]/div[@class=&quot;o-form-fieldset-container&quot;]/label[@class=&quot;registration-panel__preferences-label&quot;]/span[@class=&quot;checkmark&quot;]</value>
-      <webElementGuid>e21aaf2f-04e8-40ee-9a89-2b42c525e091</webElementGuid>
+      <webElementGuid>fd0dca79-5c58-41fc-b79c-dd86d278d930</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form7']/div/div[2]/label[2]/span</value>
-      <webElementGuid>af89e2b3-c875-4bac-a8f4-e0fe041caf47</webElementGuid>
+      <webElementGuid>2fa993ae-ceb0-437f-98a1-90dfa8488acc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label[2]/span</value>
-      <webElementGuid>c246d5d0-e94b-4e57-a22f-388ecd555bfb</webElementGuid>
+      <webElementGuid>f000d5b2-25d9-4034-a0ad-448239178f72</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
