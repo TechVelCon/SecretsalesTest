@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>iframe</value>
-      <webElementGuid>932a5175-0340-4efa-8cf1-0aaf24e3207c</webElementGuid>
+      <webElementGuid>ee2f7921-9bf5-4645-8267-b75cb981c603</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>referrerpolicy</name>
       <type>Main</type>
       <value>origin</value>
-      <webElementGuid>55d108cf-e486-4d78-814f-3890052843cc</webElementGuid>
+      <webElementGuid>aac436d6-3ac8-4288-9e70-6b21f4d854a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>attentive_creative</value>
-      <webElementGuid>0da39fe7-3915-4b5b-9965-0eff2e524579</webElementGuid>
+      <webElementGuid>9e30e1e7-2fca-46cf-833d-303791ecd465</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Sign Up via Text for Offers</value>
-      <webElementGuid>218ab07f-f7be-404b-80ed-d97ff6407477</webElementGuid>
+      <webElementGuid>fa63bdbe-e5e3-4773-a245-4ccb2f0e4bc2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://creatives.attn.tv/creatives-dynamic/multiPage/index.html</value>
-      <webElementGuid>306a25a5-7192-416e-8553-b27bc2864d4c</webElementGuid>
+      <webElementGuid>fb704a72-18f5-469f-af87-2b856a253b86</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;attentive_creative&quot;)</value>
-      <webElementGuid>a937404d-02dc-469c-aab2-2b93bed11d08</webElementGuid>
+      <webElementGuid>df75b4ec-83e6-43fa-b0ce-000ebee16764</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//iframe[@id='attentive_creative']</value>
-      <webElementGuid>a02861b0-58a2-477a-8eaf-f4db31fa838b</webElementGuid>
+      <webElementGuid>a50f6eda-b167-4ad9-a643-1f557e7ddca8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,15 +78,15 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='attentive_overlay']/iframe</value>
-      <webElementGuid>795a30f8-7dd7-48eb-a126-5a9cbab321c9</webElementGuid>
+      <webElementGuid>e979a2f8-1671-4c84-9bc7-ff5843c8c600</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[9]/iframe</value>
-      <webElementGuid>c6ec6544-dbda-4d4f-a796-fd10773dff0a</webElementGuid>
+      <value>//div[8]/iframe</value>
+      <webElementGuid>8386f8fe-ac9c-4064-a94e-d47a6163ad07</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//iframe[@id = 'attentive_creative' and @title = 'Sign Up via Text for Offers' and @src = 'https://creatives.attn.tv/creatives-dynamic/multiPage/index.html']</value>
-      <webElementGuid>040dd86f-22b2-4054-975a-5df215879aaa</webElementGuid>
+      <webElementGuid>417c3713-56c3-49b0-afb9-3bcb55cb0547</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[9]/iframe</value>
+      <webElementGuid>c4aadc37-9bb6-4263-99f6-371403f7c51e</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

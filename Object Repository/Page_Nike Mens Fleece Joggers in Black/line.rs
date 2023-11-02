@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>line</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>line</value>
-      <webElementGuid>b068423d-b923-4137-88de-c29127ab1f57</webElementGuid>
+      <webElementGuid>854d777d-ef5b-4835-a313-c0498441a766</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>x1</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>8cd04171-d437-4f81-861a-ef8527f880de</webElementGuid>
+      <webElementGuid>d131335f-44ab-43b2-8c87-92829135c2ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,38 +38,38 @@
       <name>x2</name>
       <type>Main</type>
       <value>40</value>
-      <webElementGuid>495b5a85-89cf-4fdb-a043-198553b954d8</webElementGuid>
+      <webElementGuid>e6169a60-09dd-48f2-98f3-641029d9b9a2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y1</name>
       <type>Main</type>
-      <value>40</value>
-      <webElementGuid>fee4872b-6f51-4cb8-8db7-bb6ded651ada</webElementGuid>
+      <value>5</value>
+      <webElementGuid>9934c518-0b87-463f-a1c9-8eab12427158</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>y2</name>
       <type>Main</type>
-      <value>5</value>
-      <webElementGuid>8e884840-e5e8-4283-9325-479e92ef9149</webElementGuid>
+      <value>40</value>
+      <webElementGuid>6ae81d1e-54e9-472b-b356-1663af318f5c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;closeIconSvg&quot;)/line[2]</value>
-      <webElementGuid>88e58805-3d83-484b-804c-6b5ea3274bdc</webElementGuid>
+      <value>id(&quot;closeIconSvg&quot;)/line[1]</value>
+      <webElementGuid>e01d1dde-5c24-4995-81d6-d1311d38c820</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>ref_element</name>
       <type>Main</type>
-      <value>Object Repository/Page_Nike Mens Fleece Joggers in Black/iframe_concat(id(, , attentive_creative, , _24add5</value>
-      <webElementGuid>dadf5d38-dda0-4d5e-8559-af26dfa14d75</webElementGuid>
+      <value>Object Repository/iframe_concat(id(, , attentive_creative, , _24add5</value>
+      <webElementGuid>563327cb-1380-4ccb-b3b1-80285537d2af</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

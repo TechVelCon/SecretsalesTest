@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>button.cartTrigger-trigger-3Ke.clickable-root-2gB > div > div > svg.injected-svg > path:nth-of-type(2)</value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>79a94751-9af2-4d76-9daf-e6261074e6a1</webElementGuid>
+      <webElementGuid>c3e016dc-e4c0-44b0-9dfc-7ce2f6eea1c0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>d</name>
       <type>Main</type>
       <value>M4.17-3v-1.714C4.17-7.08 2.246-9-.125-9S-4.42-7.08-4.42-4.714V-3h-.859a1.72 1.72 0 0 0-1.718 1.714L-8 7.286A1.72 1.72 0 0 0-6.282 9H6.032A1.72 1.72 0 0 0 7.75 7.286L6.748-1.286A1.72 1.72 0 0 0 5.03-3H4.17zM2.538-3h-5.326v-1.714c0-1.466 1.194-2.657 2.663-2.657S2.538-6.18 2.538-4.714V-3h0z</value>
-      <webElementGuid>f045042e-7ddc-42d6-9789-60c9683b56e6</webElementGuid>
+      <webElementGuid>185eaf14-243f-4343-b3e3-429095121a95</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>fill-rule</name>
       <type>Main</type>
       <value>evenodd</value>
-      <webElementGuid>53509556-a460-4ac8-b9ee-2e2af1801c2f</webElementGuid>
+      <webElementGuid>3b1e9c34-6fc4-486c-a925-2fe843ca5db5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>vector-effect</name>
       <type>Main</type>
       <value>non-scaling-stroke</value>
-      <webElementGuid>2b7710e9-66bf-46b7-9988-79dee4e6d7bd</webElementGuid>
+      <webElementGuid>144625f8-32b7-4db6-9878-3694cc7994ee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,14 +54,22 @@
       <name>transform</name>
       <type>Main</type>
       <value>matrix(54.3262 0 0 54.3262 500.0001 500.0001)</value>
-      <webElementGuid>ff766ea2-323a-432c-8841-cd9b06f760e2</webElementGuid>
+      <webElementGuid>2610d4ac-992d-4b6f-9caf-f2347eb3f8f5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/header[@class=&quot;header-root header-root-2P7&quot;]/div[@class=&quot;container header-content-BBd&quot;]/div[@class=&quot;header-actionsWrapper-1gF&quot;]/div[@class=&quot;header-search-bar header-secondaryActions-1if&quot;]/div[@class=&quot;header-userIconsWrapper-1bS&quot;]/button[@class=&quot;mobile-mini-cart cartTrigger-link-1us cartTrigger-trigger-3Ke clickable-root-2gB&quot;]/div[1]/div[1]/svg[@class=&quot;injected-svg&quot;]/path[2]</value>
-      <webElementGuid>5d078117-6516-4cd5-a7a4-09378e74a9b8</webElementGuid>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/header[@class=&quot;header-root header-root-2P7&quot;]/div[@class=&quot;container header-content-BBd&quot;]/div[@class=&quot;header-actionsWrapper-1gF&quot;]/div[@class=&quot;header-search-bar header-secondaryActions-1if&quot;]/div[@class=&quot;header-userIconsWrapper-1bS&quot;]/div[@class=&quot;visuallyHiddenUntilDesktop&quot;]/div[@class=&quot;desktop-mini-cart&quot;]/button[@class=&quot;cartTrigger-trigger-3Ke clickable-root-2gB&quot;]/div[1]/div[1]/svg[@class=&quot;injected-svg&quot;]/path[2]</value>
+      <webElementGuid>4329f1b9-2da5-41d4-a7de-b1ccd517ce0d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#fff</value>
+      <webElementGuid>a04bfb40-97f3-4903-9450-46190005cda9</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

@@ -1,53 +1,44 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>button_Add to Bag</name>
+   <name>button_Added</name>
    <tag></tag>
-   <elementGuidId>89e8c004-0b06-4488-abd0-7189fa49c0ee</elementGuidId>
-   <imagePath></imagePath>
+   <elementGuidId>12c82def-8919-4960-aace-f07115f31f8f</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;product-full-detail-root container&quot;]/div[@class=&quot;grid productFullDetail-root-1o4&quot;]/div[@class=&quot;product-details-root col-span-12 col-span-5--tablet col-span-4--desktop&quot;]/form[1]/section[2]/button[@class=&quot;button-button-34E Button-button-3NM productFullDetail-cartActionsAdd-39t button-buttonPrimary-3TM Button-buttonPrimary-1JG&quot;][count(. | //button[@aria-disabled = 'false' and @class = 'button-button-34E Button-button-3NM productFullDetail-cartActionsAdd-39t button-buttonPrimary-3TM Button-buttonPrimary-1JG' and @type = 'submit' and @data-test-id = 'product-add-to-basket' and @priority = 'high' and (text() = 'Add to Bag' or . = 'Add to Bag')]) = count(//button[@aria-disabled = 'false' and @class = 'button-button-34E Button-button-3NM productFullDetail-cartActionsAdd-39t button-buttonPrimary-3TM Button-buttonPrimary-1JG' and @type = 'submit' and @data-test-id = 'product-add-to-basket' and @priority = 'high' and (text() = 'Add to Bag' or . = 'Add to Bag')])]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>button.button-button-34E.Button-button-3NM.productFullDetail-cartActionsAdd-39t.button-buttonPrimary-3TM.Button-buttonPrimary-1JG</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//*/text()[normalize-space(.)='Add to Bag']/parent::*</value>
+         <value>//button[@type='submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f11cd20a-bee3-4eb7-982a-a7ce2b34d6ab</webElementGuid>
+      <webElementGuid>7f4a35f7-b501-4dde-8611-86f16f3040bc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>12fbb6d8-07ed-4047-b28e-7cd461a21b18</webElementGuid>
+      <webElementGuid>d58bd50a-cd88-4f0a-a72a-9f541d195fb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
       <value>button-button-34E Button-button-3NM productFullDetail-cartActionsAdd-39t button-buttonPrimary-3TM Button-buttonPrimary-1JG</value>
-      <webElementGuid>2aff28d2-7388-4cc7-9517-a8e44f956bd7</webElementGuid>
+      <webElementGuid>f32e3250-0bf8-4a78-8555-4cfc9225e748</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -55,39 +46,39 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>8c4e2838-60a9-4c25-a084-03667383865c</webElementGuid>
+      <webElementGuid>145ec409-9999-482d-a3d2-7bbb27499209</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>data-test-id</name>
       <type>Main</type>
       <value>product-add-to-basket</value>
-      <webElementGuid>e235c835-6948-44b4-8918-59d435fd929a</webElementGuid>
+      <webElementGuid>2eee050d-98b9-4cde-ad05-84f35703c4b6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>priority</name>
       <type>Main</type>
       <value>high</value>
-      <webElementGuid>db9ec715-0f64-4828-902d-50b390fd29eb</webElementGuid>
+      <webElementGuid>e8a228fb-ec77-4f7e-a708-5891a9f89d6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Add to Bag</value>
-      <webElementGuid>20f9189c-ff05-41fe-9f7f-4be270f9ac88</webElementGuid>
+      <value>Added</value>
+      <webElementGuid>d7e3cc74-e1d4-42d2-b3d0-77a65cf42222</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;product-full-detail-root container&quot;]/div[@class=&quot;grid productFullDetail-root-1o4&quot;]/div[@class=&quot;product-details-root col-span-12 col-span-5--tablet col-span-4--desktop&quot;]/form[1]/section[2]/button[@class=&quot;button-button-34E Button-button-3NM productFullDetail-cartActionsAdd-39t button-buttonPrimary-3TM Button-buttonPrimary-1JG&quot;]</value>
-      <webElementGuid>d1aad102-dc4f-4683-94fe-6a60c90896c4</webElementGuid>
+      <webElementGuid>363b1aaa-8d95-45de-80ec-f995b097884b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -95,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>27b8ce1c-34d5-4a27-a523-6a9200147a00</webElementGuid>
+      <webElementGuid>0a3ab196-b073-4a57-86f9-fe28131a38ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -103,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div[2]/div/div[2]/div/form/section[2]/button</value>
-      <webElementGuid>5fd37aa3-656a-4d00-a54d-d9671d3636ce</webElementGuid>
+      <webElementGuid>070abce3-48a1-4de5-83de-248e216e74bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[1]/following::button[1]</value>
-      <webElementGuid>5638521a-af76-4ea5-b4de-01b7d0ed530b</webElementGuid>
+      <webElementGuid>fd842aa4-e268-415e-8ddb-706198223983</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -119,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/following::button[1]</value>
-      <webElementGuid>dac091eb-2ef8-4ee3-952e-96f937f891de</webElementGuid>
+      <webElementGuid>6cfeb4ae-33cb-47f0-84be-4a3367a0387e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -127,7 +118,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/preceding::button[1]</value>
-      <webElementGuid>94502822-05a3-4aad-a6d3-fd90dd5e7fe1</webElementGuid>
+      <webElementGuid>0aa7937d-52d6-46d6-bd00-93e166dd7808</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -135,15 +126,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOP 20+ SIMILAR STYLES'])[1]/preceding::button[1]</value>
-      <webElementGuid>a976fee2-168a-45eb-8764-656000d394c4</webElementGuid>
+      <webElementGuid>14429c72-256e-40af-800f-6f556b233f30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Add to Bag']/parent::*</value>
-      <webElementGuid>13eb5025-bad7-4b94-b3d6-d5775ca01f22</webElementGuid>
+      <value>//*/text()[normalize-space(.)='Added']/parent::*</value>
+      <webElementGuid>fe1bd7a9-59c9-4595-8860-68da7402148f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -151,30 +142,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//form/section[2]/button</value>
-      <webElementGuid>7dfa2b04-b359-4861-b24b-b6ba51c26355</webElementGuid>
+      <webElementGuid>f6588a4b-4301-4ee2-acac-c2b4ac063105</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'submit' and (text() = 'Add to Bag' or . = 'Add to Bag')]</value>
-      <webElementGuid>8f127c6a-1fb4-4de7-8499-f4dbc12a30b9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:idRelative</name>
-      <type>Main</type>
-      <value>//div[@id='root']/main/div[2]/div/div[3]/div/form/section[2]/button</value>
-      <webElementGuid>8bb62209-184e-4d3c-8adf-b91214e2cf85</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='size'])[1]/following::button[1]</value>
-      <webElementGuid>7f5aab5d-fbc8-4f90-8dd8-fdd90645fff1</webElementGuid>
+      <value>//button[@type = 'submit' and (text() = 'Added' or . = 'Added')]</value>
+      <webElementGuid>19b129dd-f988-426c-9e1b-68b3b2401d65</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
