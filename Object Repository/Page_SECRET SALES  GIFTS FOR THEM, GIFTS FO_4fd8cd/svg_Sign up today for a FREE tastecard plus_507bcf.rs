@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Sign up today for a FREE tastecard plus_507bcf</name>
+   <tag></tag>
+   <elementGuidId>3417c750-658a-490b-a1d5-197b8fc2397d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//svg[@id = 'closeIconSvg']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#closeIconSvg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>3ba93b1e-8a12-4e46-a0f3-349fe6ba6ec1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>closeIconSvg</value>
+      <webElementGuid>ebf59768-72b7-43ed-b08b-3da6161fd0cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 45 45</value>
+      <webElementGuid>6e9baaa7-bcc6-41d6-b243-c7f20e29ca2c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#000000</value>
+      <webElementGuid>1df21c20-912e-4ab1-b05a-d4714879b45e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a739cc00-7c26-4582-882b-683044d156fe</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-oohciz</value>
+      <webElementGuid>d121a63e-e5ff-468f-a869-ae8c27e47671</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;closeIconSvg&quot;)</value>
+      <webElementGuid>1c8b4a01-4b47-4a45-bc05-9820db1d2ceb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_SECRET SALES  GIFTS FOR THEM, GIFTS FO_4fd8cd/iframe_concat(id(, , attentive_creative, , _24add5</value>
+      <webElementGuid>5e449508-08e7-439f-a727-19696ac187bf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@id = 'closeIconSvg']</value>
+      <webElementGuid>9bfd3b20-36f9-4b34-9512-aaf420a13168</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up today and get 15% off* plus...'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>b5855b5f-7f5f-455f-bd15-7aadf829baac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✓ New brand launches'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>42279d87-cdf4-48b7-9728-f182ef322d17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign up today for a FREE tastecard plus...'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>de8b0413-a447-4a75-b13f-4bfd2ae1fd48</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
