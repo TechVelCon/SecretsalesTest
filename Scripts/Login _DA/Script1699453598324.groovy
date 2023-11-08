@@ -23,13 +23,13 @@ WebUI.navigateToUrl('https://www.secretsales.com/')
 
 WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/svg_Sign-up for 10 OFF  beat the Black Frid_14d0f6'))
 
-WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/a_Men'))
+WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/a_Sign in'))
 
-WebUI.click(findTestObject('Object Repository/Page_Mens Designer Clothing  Discount Desig_88b3da/a_Trousers'))
+WebUI.setText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Email Address_username'), 'teenble@hotmail.com')
 
-WebUI.click(findTestObject('Object Repository/Page_Trousers/button_Categories'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Password_password'), 'wSYNOlxD3GMRoRI8ED+3qQ==')
 
-WebUI.click(findTestObject('Object Repository/Page_Trousers/span_Leggings'))
+WebUI.click(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Password_okta-signin-submit'))
 
-WebUI.click(findTestObject('Object Repository/Page_Leggings/span_-37'))
+WebUI.closeBrowser()
 

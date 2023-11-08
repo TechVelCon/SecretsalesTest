@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>75c24568-8d42-40f1-ac0f-6114c358bbbf</webElementGuid>
+      <webElementGuid>d146094d-2b45-422f-8754-14574e51e594</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Sign Up</value>
-      <webElementGuid>eb300720-26e4-49f6-a5a9-f4de8d9760a4</webElementGuid>
+      <webElementGuid>c79ab07b-f483-46eb-b5a0-a134baeb8070</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Sign Up</value>
-      <webElementGuid>9c019ed1-c523-43da-b8c5-26afc0d6360f</webElementGuid>
+      <webElementGuid>d0d0b9bf-8649-4c6e-a898-66c8bc47fd10</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>class</name>
       <type>Main</type>
       <value>registration-link</value>
-      <webElementGuid>0a7435b1-7884-4004-876d-4aefd481709d</webElementGuid>
+      <webElementGuid>bfac02e7-0b50-40ef-beab-7b25d4aaadd9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/signin/register</value>
-      <webElementGuid>7882f8ef-e901-4ec6-91c7-78c6c9945314</webElementGuid>
+      <webElementGuid>12dc43e2-3900-4f1b-abbf-94acc9fd5078</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>text</name>
       <type>Main</type>
       <value>NEW TOSECRETSALES?</value>
-      <webElementGuid>de3f2c3d-5af3-4140-8e92-a95b9ab4ddaf</webElementGuid>
+      <webElementGuid>ce46845c-c9ed-44f1-8234-879332179754</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;okta-login-container&quot;)/div[@class=&quot;tabs&quot;]/div[@class=&quot;tab tab-login&quot;]/div[@class=&quot;registration-container&quot;]/div[@class=&quot;content-container&quot;]/a[@class=&quot;registration-link&quot;]</value>
-      <webElementGuid>0137dfb5-d7a7-496b-af94-1a1639106a45</webElementGuid>
+      <webElementGuid>c5862e2b-7a78-4ca6-a6c2-5ff4559465d6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='okta-login-container']/div/div[2]/div/div/a</value>
-      <webElementGuid>cbc0e3e6-d73f-49e5-83d4-250b3356ecc8</webElementGuid>
+      <webElementGuid>c7ebb6d6-9ae0-4417-aa5b-36d5a821c8fd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Don', &quot;'&quot;, 't have an account?')])[1]/following::a[1]</value>
-      <webElementGuid>a5b22ed6-fc02-4749-bc1e-791d888015b0</webElementGuid>
+      <webElementGuid>3eeafcac-c8fc-4e73-ad2c-9621472ace56</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='ALREADYREGISTERED?'])[1]/following::a[1]</value>
-      <webElementGuid>0f082882-4a75-49ab-9173-1e0a94bd1dad</webElementGuid>
+      <webElementGuid>81721248-5734-443f-ade2-01ab147c9973</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign in below with your email address.'])[1]/preceding::a[2]</value>
-      <webElementGuid>8e798323-30ac-4570-8616-035af7a95a00</webElementGuid>
+      <webElementGuid>ab582822-b007-4c76-98e9-93126515eaad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='NEW TO']/parent::*</value>
-      <webElementGuid>14c1b6ba-0422-41b1-8635-0bb8b1e0890b</webElementGuid>
+      <webElementGuid>801a7240-bdab-4987-81cc-36d5a6858259</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:href</name>
       <type>Main</type>
       <value>//a[contains(@href, '/signin/register')]</value>
-      <webElementGuid>9ddb31dd-4f73-444c-853a-95e4dd1bcd1d</webElementGuid>
+      <webElementGuid>de2ab050-8794-417e-a18b-13e4b9f41fbc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,7 +126,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/a</value>
-      <webElementGuid>ff133fbe-0178-4e52-9207-4cd4649749bd</webElementGuid>
+      <webElementGuid>d316171e-95e9-436a-b360-a6bc7feeb979</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,6 +134,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@title = 'Sign Up' and @href = '/signin/register' and (text() = 'NEW TOSECRETSALES?' or . = 'NEW TOSECRETSALES?')]</value>
-      <webElementGuid>a5fb987f-f24c-47f7-9fbe-f55ce96a7ea7</webElementGuid>
+      <webElementGuid>2c97c3cb-4943-42f3-a223-cd2822ac56bc</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

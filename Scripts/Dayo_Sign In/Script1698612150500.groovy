@@ -21,23 +21,29 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.secretsales.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  WHY WAIT FOR BLACK FRIDA_2098a2/svg_Sign up today for a FREE tastecard plus_507bcf'))
+WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/line'))
 
-WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  WHY WAIT FOR BLACK FRIDA_2098a2/a_Sign in'))
+WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/a_Sign in'))
 
 WebUI.click(findTestObject('Object Repository/Page_Secret Sales  Sign In/a_NEW TOSECRETSALES'))
 
-WebUI.setText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_First name_firstName'), 'Tola')
+WebUI.setText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_First name_firstName'), 'test100')
 
-WebUI.setText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Last name_lastName'), 'Ajayi')
+WebUI.setText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Last name_lastName'), 'Lead')
 
-WebUI.setText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Email Address_email'), 'Teeboy@outlook.com')
+WebUI.setText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Email Address_email'), 'test100@yahoo.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Password_password'), 'sBWJsejbA8lh+z9xnQhvtw==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Password_password'), 't949EbddE98gqpP9b5EO8w==')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Password_confirm-password'), 'sBWJsejbA8lh+z9xnQhvtw==')
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Password_confirm-password'), 't949EbddE98gqpP9b5EO8w==')
 
 WebUI.click(findTestObject('Object Repository/Page_Secret Sales  Sign In/span_Allow brands I purchase to email me fu_21f89b'))
 
 WebUI.click(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_indicates required field_button butto_1402ef'))
+
+WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/svg_success_icon-icon-5Yc'))
+
+WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/button_Sign out'))
+
+WebUI.closeBrowser()
 

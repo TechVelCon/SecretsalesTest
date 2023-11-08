@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>f1e172c9-f03f-43d0-ab26-d71410c5f2a5</webElementGuid>
+      <webElementGuid>04e6c84f-ce33-4df5-ae2d-34cf5565e3c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>60a51648-0a57-476b-aca1-95c92278d8e5</webElementGuid>
+      <webElementGuid>2ab622ed-781d-4840-af5b-65407314abee</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>aria-label</name>
       <type>Main</type>
       <value>Categories</value>
-      <webElementGuid>15d0d41a-1060-43a0-a322-693337061bd7</webElementGuid>
+      <webElementGuid>377c1bdd-c71f-4dd2-9cc4-ecc0591dd54c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>aria-expanded</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>16debb60-889c-4613-a6b0-50aa8e44c51b</webElementGuid>
+      <webElementGuid>e454637f-add5-426a-9a52-f07cc679e469</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-controls</name>
       <type>Main</type>
       <value>Categories</value>
-      <webElementGuid>0ad6d2e4-2624-490f-aae9-064087265318</webElementGuid>
+      <webElementGuid>0a78abff-c34d-437a-9db6-ca773a14fa50</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fredhopperFacets-button-f6L Expandable-button-1Cy</value>
-      <webElementGuid>58a206a5-3139-4a85-a610-f279b1cf98cb</webElementGuid>
+      <webElementGuid>9e03e9ea-7ccc-47f7-a799-d5f014e65a2e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Categories</value>
-      <webElementGuid>eca35e76-f33d-42ee-946f-44ac52cab81d</webElementGuid>
+      <webElementGuid>fd088958-3765-4c19-aba6-664ba55c4484</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;container fredhopper-fredhopper-3i4&quot;]/aside[@class=&quot;fredhopper-facets-1Oo visuallyHiddenUntilDesktop&quot;]/div[@class=&quot;fredhopper-facetsWrapper-1JE&quot;]/div[@class=&quot;Stack-stack-1rt Stack-stackSmall-1NU&quot;]/div[@class=&quot;fredhopper-facets-root fredhopperFacets-facetsList-1Gi&quot;]/div[@class=&quot;fredhopperFacets-expandable-cUj&quot;]/button[@class=&quot;fredhopperFacets-button-f6L Expandable-button-1Cy&quot;]</value>
-      <webElementGuid>df11f292-bf81-4f0d-b25e-412e5f051a75</webElementGuid>
+      <webElementGuid>7cbabc7a-d968-488f-826d-66371cb27ced</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>(//button[@type='button'])[9]</value>
-      <webElementGuid>02950682-57f9-4ce2-a14d-e0e6de49f748</webElementGuid>
+      <webElementGuid>86df5630-58c1-4815-9413-3c6cf2f591c0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,39 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div[2]/div/aside/div/div/div[2]/div/button</value>
-      <webElementGuid>acd84aa8-55ac-4391-ab0d-55e983386466</webElementGuid>
+      <webElementGuid>be4c5c91-1d30-479f-a300-5c0c1808496d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Superdry'])[4]/following::button[2]</value>
+      <webElementGuid>d6547f88-b00e-44f9-a9e1-705984461ac2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chinos'])[1]/preceding::button[1]</value>
+      <webElementGuid>14c0f2b8-b7d1-499c-9048-1c9ea339954d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div/div/div[2]/div/button</value>
+      <webElementGuid>6981e890-f725-472b-97b8-0efb91d40e43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Categories' or . = 'Categories')]</value>
+      <webElementGuid>f10357cd-a479-4f82-9ca5-b200b551dde8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -111,21 +143,5 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Chinos'])[2]/preceding::button[1]</value>
       <webElementGuid>b6e5174d-f436-40ac-bf65-0876cd0e7135</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//aside/div/div/div[2]/div/button</value>
-      <webElementGuid>62a3c00e-a379-4009-b417-d9a76bb6b983</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'Categories' or . = 'Categories')]</value>
-      <webElementGuid>f805360f-9fd7-48de-b498-cc7353df994a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
