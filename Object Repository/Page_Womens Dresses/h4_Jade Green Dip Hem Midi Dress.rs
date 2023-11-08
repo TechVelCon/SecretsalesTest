@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Jade Green Dip Hem Midi Dress</name>
+   <tag></tag>
+   <elementGuidId>1df43544-2a51-4c7c-ac94-b80c4117486e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div[4]/section[2]/div[2]/a[3]/div[2]/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>d840806a-e8a3-421a-93f1-41804a27b8ee</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fredhopperItem-productName-2tH</value>
+      <webElementGuid>5c82cbe5-2836-453f-b67d-cd8166fcb741</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Jade Green Dip Hem Midi Dress</value>
+      <webElementGuid>4a5de61f-6ec1-4330-82b3-99be52dfaa41</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;container fredhopper-fredhopper-3i4&quot;]/div[@class=&quot;fredhopper-content-boK&quot;]/section[2]/div[@class=&quot;fredhopper-item-list-root fredhopperItems-fredhopperItems-2di&quot;]/a[@class=&quot;fredhopper-item-root&quot;]/div[@class=&quot;Stack-stack-1rt fredhopperItem-meta-3F3 Stack-stackMedium-2TH&quot;]/div[1]/h4[@class=&quot;fredhopperItem-productName-2tH&quot;]</value>
+      <webElementGuid>f9f96c5a-cccb-4d56-9a1b-790af902b417</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div[4]/section[2]/div[2]/a[3]/div[2]/div/h4</value>
+      <webElementGuid>e4f4a605-c0b7-48d1-b4b9-33311e4374f7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£25.50'])[1]/following::h4[1]</value>
+      <webElementGuid>7d9318da-7183-41f2-97dd-4f48ed43b3c9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£85.00'])[1]/following::h4[1]</value>
+      <webElementGuid>2f17eed9-4120-40b0-bf72-150223b900c8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£36.99'])[1]/preceding::h4[1]</value>
+      <webElementGuid>176fc3a3-a245-4693-ac12-fe4c70c3fc56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£12.99'])[1]/preceding::h4[1]</value>
+      <webElementGuid>3880272d-b693-4d6e-909c-a261d0c24e01</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Jade Green Dip Hem Midi Dress']/parent::*</value>
+      <webElementGuid>a1f02636-2e23-4c53-8d04-0bb834cefd1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/div[2]/div/h4</value>
+      <webElementGuid>0ad56673-bb17-4e84-9066-10feabe135aa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Jade Green Dip Hem Midi Dress' or . = 'Jade Green Dip Hem Midi Dress')]</value>
+      <webElementGuid>a43498e7-2975-469d-8f52-f47c2ff469b5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

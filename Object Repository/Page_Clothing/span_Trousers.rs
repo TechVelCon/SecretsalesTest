@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>7669bb23-b131-4ab4-97eb-e115a3bb72a0</webElementGuid>
+      <webElementGuid>dbf813d3-0648-420a-8c33-23ae8bd49a9f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fredhopperFacets-fredhopperLabelText-2Ae</value>
-      <webElementGuid>c2cadfb5-c96b-4c29-8031-ad363f2fe8c4</webElementGuid>
+      <webElementGuid>5ddf77a5-1e00-4e12-9da4-2987d66f19fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Trousers</value>
-      <webElementGuid>c6ede99e-c903-40b6-8ae4-8362607d5571</webElementGuid>
+      <webElementGuid>931df46c-220e-47ea-bead-da315d11bf20</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;Categories&quot;)/div[@class=&quot;Stack-stack-1rt fredhopperFacets-contentChildren-15M Stack-stackSmall-1NU&quot;]/a[@class=&quot;Link-link-1RL fredhopperFacets-optionLink-3Rt fredhopperFacets-linkGray-z6M undefined&quot;]/label[@class=&quot;Inline-inline-1-W fredhopperFacets-fredhopperLabel-1-J Inline-inlineSmall-pBt Inline-alignItemsCenter-3Z5&quot;]/label[@class=&quot;Inline-inline-1-W fredhopperFacets-fredhopperLabel-1-J Inline-inlineSmall-pBt Inline-alignItemsCenter-3Z5&quot;]/span[@class=&quot;fredhopperFacets-fredhopperLabelText-2Ae&quot;]</value>
-      <webElementGuid>4862b545-45ae-423b-8d00-324b2936f324</webElementGuid>
+      <webElementGuid>a72ecb78-802f-47e3-8214-783bce59c015</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,55 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='Categories']/div/a[23]/label/label/span</value>
-      <webElementGuid>781e132c-61f1-44f1-9dc6-dc52f00a1e1d</webElementGuid>
+      <webElementGuid>4b6289ff-8c6a-4a81-a428-0197dcee8a8f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(820)'])[1]/following::span[1]</value>
+      <webElementGuid>570dea7d-e410-469d-8e3e-9a91b79857f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tracksuits'])[6]/following::span[2]</value>
+      <webElementGuid>3b9ba0fb-c72c-4fe5-96dd-857bf64e5974</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1554)'])[1]/preceding::span[1]</value>
+      <webElementGuid>0b8a5d6c-48bf-4900-8de7-9c886d5ff986</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='T-Shirts'])[6]/preceding::span[2]</value>
+      <webElementGuid>c4083b23-7ed4-430e-9ea1-d0448b9d951d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[23]/label/label/span</value>
+      <webElementGuid>5017473d-c212-463d-a2ba-2b8e5654891b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Trousers' or . = 'Trousers')]</value>
+      <webElementGuid>fa9b1fb8-3003-4a89-87af-17ef5bc4fbe9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -63,14 +111,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(856)'])[1]/following::span[1]</value>
       <webElementGuid>7bc28e7e-2908-4f10-b66a-5a47722cf055</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tracksuits'])[6]/following::span[2]</value>
-      <webElementGuid>aff5cfb3-cd52-41f1-9324-c1da007b39d0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,22 +127,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='T-Shirts'])[7]/preceding::span[2]</value>
       <webElementGuid>a5713f88-b3ba-4b1c-a8d9-0b4ae32b7cb1</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//a[23]/label/label/span</value>
-      <webElementGuid>9c6f8187-2cb0-4504-a8ca-d6fe4c17f8c4</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//span[(text() = 'Trousers' or . = 'Trousers')]</value>
-      <webElementGuid>b5896395-d09a-4143-a594-f4a40243b45f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

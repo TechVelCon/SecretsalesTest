@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_ASOS DESIGN all over metallic mosiac emb_135f43</name>
+   <tag></tag>
+   <elementGuidId>6f348fda-61c8-403c-b713-9cc854a8fc9d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div[4]/section[2]/div[2]/a/div[2]/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.fredhopperItem-productName-2tH</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>714eec2a-54d0-45c5-8913-4138eaca3a1d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fredhopperItem-productName-2tH</value>
+      <webElementGuid>d3352456-244e-41d2-ac0e-c909c7e4df29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>ASOS DESIGN all over metallic mosiac embellised mini shift dress in silver</value>
+      <webElementGuid>c422fdaa-6394-4c62-861c-af8a01deb9b4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;container fredhopper-fredhopper-3i4&quot;]/div[@class=&quot;fredhopper-content-boK&quot;]/section[2]/div[@class=&quot;fredhopper-item-list-root fredhopperItems-fredhopperItems-2di&quot;]/a[@class=&quot;fredhopper-item-root&quot;]/div[@class=&quot;Stack-stack-1rt fredhopperItem-meta-3F3 Stack-stackMedium-2TH&quot;]/div[1]/h4[@class=&quot;fredhopperItem-productName-2tH&quot;]</value>
+      <webElementGuid>d360c8a7-7749-4eb6-91cb-a6a90d7a22f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div[4]/section[2]/div[2]/a/div[2]/div/h4</value>
+      <webElementGuid>da3b0267-0116-4fe6-afee-a6bc105382c2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items 1 - 48 of 6231'])[2]/following::h4[1]</value>
+      <webElementGuid>5e8edd9d-aa86-41ce-b504-10136d938a2e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[2]/following::h4[1]</value>
+      <webElementGuid>de4ed0dc-881f-4ce7-ad0c-28bd697138ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£135.00'])[1]/preceding::h4[1]</value>
+      <webElementGuid>72a27d43-c935-40dc-9b85-4a33cff85e57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£20.25'])[1]/preceding::h4[1]</value>
+      <webElementGuid>ede71841-ef06-4cb3-b67a-925481bc2a72</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='ASOS DESIGN all over metallic mosiac embellised mini shift dress in silver']/parent::*</value>
+      <webElementGuid>5d0b0b59-1d72-45e6-8adf-0dd947028889</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h4</value>
+      <webElementGuid>89e7ace2-385c-4db6-b7b0-80b01b565198</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'ASOS DESIGN all over metallic mosiac embellised mini shift dress in silver' or . = 'ASOS DESIGN all over metallic mosiac embellised mini shift dress in silver')]</value>
+      <webElementGuid>b38e7032-3b7a-4500-a5c6-95259be43c49</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

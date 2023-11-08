@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Casablanca</name>
+   <tag></tag>
+   <elementGuidId>4fb8bbb6-8433-4490-b3c8-801b0592dc65</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div[2]/section/div[2]/a/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>p.fredhopperItem-brand-1mr</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>c948d743-ec52-4ed8-a5ad-a1a8e6cd3ec0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fredhopperItem-brand-1mr</value>
+      <webElementGuid>84835253-b27e-475d-9e56-195bf50a2ade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Casablanca</value>
+      <webElementGuid>c2f44fb7-6d30-426f-be75-d0310532b5d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;container fredhopper-fredhopper-3i4&quot;]/div[@class=&quot;fredhopper-content-boK&quot;]/section[1]/div[@class=&quot;fredhopper-item-list-root fredhopperItems-fredhopperItems-2di&quot;]/a[@class=&quot;fredhopper-item-root&quot;]/div[@class=&quot;Stack-stack-1rt fredhopperItem-meta-3F3 Stack-stackMedium-2TH&quot;]/div[1]/p[@class=&quot;fredhopperItem-brand-1mr&quot;]</value>
+      <webElementGuid>c9a31a9b-ac72-4509-b0ae-3e2f48a23ce4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div[2]/section/div[2]/a/div[2]/div/p</value>
+      <webElementGuid>8aaef2b2-c7a9-442d-a929-16cd98b51bfe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items 1 - 48 of 8083'])[2]/following::p[1]</value>
+      <webElementGuid>19a4c861-1810-478a-b798-db48f6c30e3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[2]/following::p[1]</value>
+      <webElementGuid>2aaee72f-57f6-4b7b-adbe-a8cc89467cb3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Casablanca Tennis Club T-shirt in Black'])[1]/preceding::p[1]</value>
+      <webElementGuid>db8a77ea-f057-45ef-aa61-82db8047b555</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£140.00'])[1]/preceding::p[1]</value>
+      <webElementGuid>febed112-6a3f-4470-8432-6c2dba0825b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//p</value>
+      <webElementGuid>ab6c9e15-18ca-42e2-bc97-42b1a5990524</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Casablanca' or . = 'Casablanca')]</value>
+      <webElementGuid>ce7e3f70-dab9-485b-bcf1-15ddfba75813</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>2af04a02-6cec-405e-80c7-d257cd10079e</webElementGuid>
+      <webElementGuid>fd782308-8b4c-4e79-9ddb-0f3f041bf27e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>select-input-1lN Select-select-3Zm</value>
-      <webElementGuid>395bc9cf-07c5-4bc0-a8fd-2aec35722e99</webElementGuid>
+      <webElementGuid>f073a043-884a-4a2c-a23b-dd8c8ab57027</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>size</value>
-      <webElementGuid>e074b5b0-029c-4ca6-a718-1fd953e6f4b6</webElementGuid>
+      <webElementGuid>b8fc9f0b-eb46-4e4c-8edb-863c1935b837</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>size</value>
-      <webElementGuid>b931dcad-ef75-4ea3-bdc9-b4785410ab09</webElementGuid>
+      <webElementGuid>c768bd3b-a32c-440c-ba9f-cfb9bd0b2d6c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Please select a sizeSmallMediumX-Large2XL</value>
-      <webElementGuid>b51902f7-6c4d-4824-ab31-7d38ef63ff1f</webElementGuid>
+      <webElementGuid>0cc77e4e-76dd-47c6-80e3-b755a23f86ed</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;size&quot;)</value>
-      <webElementGuid>a06c1cad-3cae-483b-841f-cc4880675076</webElementGuid>
+      <webElementGuid>e9aeb117-ddea-47c4-8983-e14c70215a37</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='size']</value>
-      <webElementGuid>e7281b6b-a32c-49f5-8d60-2bdc7c907487</webElementGuid>
+      <webElementGuid>edf9144b-b90d-4278-a2d2-5d8697eddc0b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div[2]/div/div[3]/div/form/section/section/div/div/span/span/select</value>
-      <webElementGuid>6bd1e735-2acc-41e6-84e9-587e2263502b</webElementGuid>
+      <webElementGuid>cb6ff019-3197-4285-bf31-b87f7ac22593</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/following::select[1]</value>
-      <webElementGuid>6e544376-5157-42e9-a671-e70861700ec1</webElementGuid>
+      <webElementGuid>dbb63cbf-8770-4964-8f9a-e7ae4d1c8708</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Calculate your size'])[1]/following::select[1]</value>
-      <webElementGuid>603e594c-a972-4ee4-ad16-c7d04b6ecd4a</webElementGuid>
+      <webElementGuid>242c9526-1760-46be-a599-72364c12b28f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[1]/preceding::select[1]</value>
-      <webElementGuid>270cfb8f-2dc7-424f-b5d5-33047eabbb9f</webElementGuid>
+      <webElementGuid>b7043b01-149d-40e3-8d5f-1605353ffab4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add to Bag'])[1]/preceding::select[2]</value>
-      <webElementGuid>9cb5b2a5-b0ab-4193-8226-f7fe43f21165</webElementGuid>
+      <webElementGuid>92d132b0-8e03-4d7e-94ab-05acb1b0b7f9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//select</value>
-      <webElementGuid>f71ab8c6-928f-43bd-ad20-0ee8d9d7eae2</webElementGuid>
+      <webElementGuid>9f471dcb-af33-43a7-b8a8-a55d0c8181d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//select[@id = 'size' and @name = 'size' and (text() = 'Please select a sizeSmallMediumX-Large2XL' or . = 'Please select a sizeSmallMediumX-Large2XL')]</value>
-      <webElementGuid>ae4133ce-6887-430b-aeac-9b8d74984ada</webElementGuid>
+      <webElementGuid>6fa95f52-9d91-4161-a42d-a2d7552117fe</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

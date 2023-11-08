@@ -21,28 +21,15 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.secretsales.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  WHY WAIT FOR BLACK FRIDA_2098a2/svg_Sign up today for a FREE tastecard plus_507bcf'))
+WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/svg_Sign-up for 10 OFF  beat the Black Frid_14d0f6'))
 
-WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  WHY WAIT FOR BLACK FRIDA_2098a2/a_Men'))
+WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/a_Sign in'))
 
-WebUI.click(findTestObject('Object Repository/Page_Mens Designer Clothing  Discount Desig_88b3da/img_Trusted by 11,000 on Trustpilot_left'))
+WebUI.setText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Email Address_username'), 'teenble@hotmail.com')
 
-WebUI.click(findTestObject('Object Repository/Page_Products/button_Categories'))
+WebUI.setEncryptedText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Password_password'), 'wSYNOlxD3GMRoRI8ED+3qQ==')
 
-WebUI.click(findTestObject('Object Repository/Page_Products/span_Clothing'))
-
-WebUI.click(findTestObject('Object Repository/Page_Clothing/span_Trousers'))
-
-WebUI.click(findTestObject('Object Repository/Page_Trousers/div_NikeNike Mens Fleece Joggers in Black'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_Nike Mens Fleece Joggers in Black/select_Please select a sizeSmallMediumLargeX-Large'), 
-    '295383', true)
-
-WebUI.click(findTestObject('Object Repository/Page_Nike Mens Fleece Joggers in Black/button_Add to Bag'))
-
-WebUI.click(findTestObject('Object Repository/Page_Nike Mens Fleece Joggers in Black/span_1'))
-
-WebUI.click(findTestObject('Object Repository/Page_Nike Mens Fleece Joggers in Black/button_Checkout'))
+WebUI.click(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Password_okta-signin-submit'))
 
 WebUI.closeBrowser()
 

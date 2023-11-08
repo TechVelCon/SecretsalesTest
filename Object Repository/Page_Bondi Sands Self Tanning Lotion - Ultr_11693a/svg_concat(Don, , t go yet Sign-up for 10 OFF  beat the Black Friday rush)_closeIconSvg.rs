@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_concat(Don, , t go yet Sign-up for 10 OFF  beat the Black Friday rush)_closeIconSvg</name>
+   <tag></tag>
+   <elementGuidId>200f9ee5-e740-4d7f-914f-57f4a611c25e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Don', &quot;'&quot;, 't go yet! Sign-up for 10% OFF + beat the Black Friday rush')])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#closeIconSvg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>43d06fc7-ef98-4a67-9788-75a5a73b68f8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>closeIconSvg</value>
+      <webElementGuid>334634d1-0e18-4b1f-9ac0-a5d6065e9fc8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 45 45</value>
+      <webElementGuid>fdd0a1c9-127c-45f1-a4b4-b7043e43bb01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#000000</value>
+      <webElementGuid>491e953d-442c-4e03-b345-cf46fbcab48c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>a5856e39-97ed-4aad-844f-8649cc25dd30</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-oohciz</value>
+      <webElementGuid>752a39f0-62ed-4db8-83c8-771f4870cf85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;closeIconSvg&quot;)</value>
+      <webElementGuid>62fd2461-553a-4ebc-a5f0-f5d6c5a86c7e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Bondi Sands Self Tanning Lotion - Ultr_11693a/iframe_concat(id(, , attentive_creative, , _24add5</value>
+      <webElementGuid>ca672f28-ec10-4ac6-b664-e9e9f4dbaa03</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Don', &quot;'&quot;, 't go yet! Sign-up for 10% OFF + beat the Black Friday rush')])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>c1fe8d8e-b82f-4106-8a15-cb68b3ab19f3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✓ Unmissable Black Friday deals'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>24404fe2-2db9-490f-aa5d-e92bb57436f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@id = 'closeIconSvg']</value>
+      <webElementGuid>f7628c50-91a0-42a0-a3e5-ace26fcc6c30</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

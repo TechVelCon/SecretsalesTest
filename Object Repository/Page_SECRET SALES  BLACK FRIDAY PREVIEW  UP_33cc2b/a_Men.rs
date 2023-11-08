@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/header/div[3]/div/div/nav/div/div/div/div/div/ul/li[4]/a</value>
+         <value>//div[@id='root']/aside[4]/div/div/div/div/div/ul/li[4]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>ul.c-navigation__categories > li:nth-of-type(4) > a.c-ev-attached</value>
+         <value>ul.c-mobile-nav__categories.js-mobile-nav-category > li:nth-of-type(4) > a.c-mobile-nav__nav-link</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,23 +22,23 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>af6ed7c3-01d9-4cdc-8caa-1097dcdcd6f8</webElementGuid>
+      <webElementGuid>a2c173ca-1f2f-432b-bdf7-e38e8c0be477</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://www.secretsales.com/shop/men/</value>
-      <webElementGuid>d3c3c4c0-3956-4f9d-812c-c0ead0d94e2d</webElementGuid>
+      <value>https://www.secretsales.com/shop/homeware/</value>
+      <webElementGuid>0ea34846-ea93-486f-b2b2-3a224190e1a3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>c-ev-attached</value>
-      <webElementGuid>fbb79e12-8444-4503-abd7-d9fbc2e33bd3</webElementGuid>
+      <value>c-mobile-nav__nav-link</value>
+      <webElementGuid>af5c8d02-4e98-4ac3-b21c-ab916525b5c7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,18 +46,170 @@
       <name>text</name>
       <type>Main</type>
       <value>Men</value>
-      <webElementGuid>77817258-4af7-4439-975a-9512d5863130</webElementGuid>
+      <webElementGuid>560e5039-af9a-44f6-9623-132fc3e9076a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/header[@class=&quot;header-root header-root-2P7&quot;]/div[@class=&quot;container header-content-BBd&quot;]/div[@class=&quot;header-actionsWrapper-1gF&quot;]/div[@class=&quot;header-store-nav header-primaryActions-2bB&quot;]/nav[@class=&quot;visuallyHiddenUntilDesktop&quot;]/div[@class=&quot;header-desktopNavWrapper-S9Y&quot;]/div[@class=&quot;c-navigation__categories&quot;]/div[@class=&quot;cmsBlock-content-_Ac&quot;]/div[1]/div[@class=&quot;html-root-2b-&quot;]/ul[@class=&quot;c-navigation__categories&quot;]/li[4]/a[@class=&quot;c-ev-attached&quot;]</value>
-      <webElementGuid>8f31c7e8-297d-4b26-9f90-159ddde21ef9</webElementGuid>
+      <value>id(&quot;root&quot;)/aside[@class=&quot;navigation-root_open-3KH navigation-root-3v2 navigation-exit-2Xc navigation-hidden-1Ft navigation-enter-1rs navigation-visible-1M_&quot;]/div[@class=&quot;navigation-body-1TM navigation-exit-2Xc navigation-visible-1M_&quot;]/div[1]/div[@class=&quot;cmsBlock-content-_Ac&quot;]/div[1]/div[@class=&quot;html-root-2b-&quot;]/ul[@class=&quot;c-mobile-nav__categories js-mobile-nav-category&quot;]/li[4]/a[@class=&quot;c-mobile-nav__nav-link&quot;]</value>
+      <webElementGuid>d3a0f54a-7d55-42a4-825f-bd907aac499e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/aside[4]/div/div/div/div/div/ul/li[4]/a</value>
+      <webElementGuid>ce561db1-d59f-46a0-8aa8-c0b8b862e9ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Men')])[8]</value>
+      <webElementGuid>6c5d09a1-cd07-4f1e-b1fd-433ad413bf93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Sunglasses Shop'])[2]/following::a[1]</value>
+      <webElementGuid>6493bf74-619d-4394-8e78-df431e0e5375</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The Curve Edit'])[2]/following::a[2]</value>
+      <webElementGuid>c1f428ec-7799-43b8-ac8f-07a78279a876</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Men'])[30]/preceding::a[2]</value>
+      <webElementGuid>0657c090-d033-4032-bb14-e2c203150f00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop All'])[36]/preceding::a[3]</value>
+      <webElementGuid>d58a6b6c-807e-4c50-81be-90dd99091380</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.secretsales.com/shop/homeware/')]</value>
+      <webElementGuid>4d537417-7673-4162-87b8-cede1b0f338e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside[4]/div/div/div/div/div/ul/li[4]/a</value>
+      <webElementGuid>31b63f78-0a12-4e0f-b428-a1242370db49</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.secretsales.com/shop/homeware/' and (text() = 'Men' or . = 'Men')]</value>
+      <webElementGuid>c9fae3d2-c9bf-414e-9b5a-3c12c12e9e22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/header/div[3]/div/div/nav/div/div/div/div/div/ul/li[3]/a</value>
+      <webElementGuid>11bb669a-fa2d-405b-9e8c-07cdc0ab919f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Men')])[2]</value>
+      <webElementGuid>8281b29a-27d5-4039-8dc4-d4204cbd1390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand A-Z'])[2]/following::a[2]</value>
+      <webElementGuid>3f93a347-6215-456a-85be-0bfb916a2edc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Topshop'])[1]/following::a[3]</value>
+      <webElementGuid>945aaffe-c545-428c-b41a-cbab2e0bee27</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clothing'])[2]/preceding::a[1]</value>
+      <webElementGuid>b793c52e-db84-4823-927c-c9bc5d6a7690</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Black Friday'])[5]/preceding::a[1]</value>
+      <webElementGuid>d32f9d25-8071-4eec-a281-4cd624a65bba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Men']/parent::*</value>
+      <webElementGuid>f9daeabb-cc5e-47cc-a52a-fa884088a832</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://www.secretsales.com/shop/men/')]</value>
+      <webElementGuid>d9533b4c-5666-45fc-964e-9dc187aefe44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/a</value>
+      <webElementGuid>fb5c881a-7a8a-4dff-810d-ab1130a83a8c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.secretsales.com/shop/men/' and (text() = 'Men' or . = 'Men')]</value>
+      <webElementGuid>f7179ccf-7726-4195-ace7-d159df3d9eb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
@@ -71,22 +223,6 @@
       <type>Main</type>
       <value>//a[contains(text(),'Men')]</value>
       <webElementGuid>96a7c9e8-ccdc-4310-a2d6-3bf3b31cb3cc</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand A-Z'])[2]/following::a[2]</value>
-      <webElementGuid>2588a0ab-901e-46a8-9ffa-2497d650fe47</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Topshop'])[1]/following::a[3]</value>
-      <webElementGuid>5dcbdc0a-7f7f-4ef0-b5b8-8b18aae49c05</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -107,25 +243,9 @@
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
-      <name>xpath:href</name>
-      <type>Main</type>
-      <value>//a[contains(@href, 'https://www.secretsales.com/shop/men/')]</value>
-      <webElementGuid>c09eb2ac-68f1-4ec7-8c76-e9e8f80ce850</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/a</value>
       <webElementGuid>e1ab66af-b91f-4269-8291-8f3fee257a36</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//a[@href = 'https://www.secretsales.com/shop/men/' and (text() = 'Men' or . = 'Men')]</value>
-      <webElementGuid>5cca703c-5056-4a71-8e92-9f16c37a31ae</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

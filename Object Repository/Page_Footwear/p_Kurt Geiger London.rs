@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Kurt Geiger London</name>
+   <tag></tag>
+   <elementGuidId>34f234a5-d2f8-4c1b-bde1-c995f5a95f39</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div[3]/section[2]/div[2]/a[2]/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>bc6de30d-760a-465f-ab32-f21504125523</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fredhopperItem-brand-1mr</value>
+      <webElementGuid>494cf8ca-bb02-4112-b288-af46e205a42d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Kurt Geiger London</value>
+      <webElementGuid>a10a30f0-7387-4a12-9847-fafe62344364</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;container fredhopper-fredhopper-3i4&quot;]/div[@class=&quot;fredhopper-content-boK&quot;]/section[2]/div[@class=&quot;fredhopper-item-list-root fredhopperItems-fredhopperItems-2di&quot;]/a[@class=&quot;fredhopper-item-root&quot;]/div[@class=&quot;Stack-stack-1rt fredhopperItem-meta-3F3 Stack-stackMedium-2TH&quot;]/div[1]/p[@class=&quot;fredhopperItem-brand-1mr&quot;]</value>
+      <webElementGuid>8587baea-2c47-4d1e-9205-245371895c30</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div[3]/section[2]/div[2]/a[2]/div[2]/div/p</value>
+      <webElementGuid>50b758a0-1774-48ee-b19c-a1f0efca8ae3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£89.99'])[1]/following::p[1]</value>
+      <webElementGuid>6a145bd7-85c4-4615-8f51-ae08a127bcef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£124.99'])[1]/following::p[1]</value>
+      <webElementGuid>f82dde68-050a-4d45-bf47-fbf7f38a4107</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kurt Geiger London Leather Lennon Sneakers'])[1]/preceding::p[1]</value>
+      <webElementGuid>cc8f0620-c87b-418b-90a0-9f86206d05a3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£149.00'])[1]/preceding::p[1]</value>
+      <webElementGuid>3c9e6501-440f-4e08-b04e-e2fabda31d89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div[2]/div/p</value>
+      <webElementGuid>2058d0ce-f0ed-42dc-b29a-bceb76300ca1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Kurt Geiger London' or . = 'Kurt Geiger London')]</value>
+      <webElementGuid>492fbc03-a9f0-460b-9cbc-3255360d5047</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

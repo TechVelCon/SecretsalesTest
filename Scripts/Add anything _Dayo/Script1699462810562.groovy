@@ -21,15 +21,25 @@ WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://www.secretsales.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/svg_Sign-up for 10 OFF  beat the Black Frid_14d0f6'))
+WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/svg_success_icon-icon-5Yc'))
 
-WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/a_Men'))
+WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/a_Black Friday'))
 
-WebUI.click(findTestObject('Object Repository/Page_Mens Designer Clothing  Discount Desig_88b3da/a_Trousers'))
+WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/a_Shop Women'))
 
-WebUI.click(findTestObject('Object Repository/Page_Trousers/button_Categories'))
+WebUI.click(findTestObject('Object Repository/Page_Products/p_ASOS DESIGN'))
 
-WebUI.click(findTestObject('Object Repository/Page_Trousers/span_Leggings'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_ASOS DESIGN all over metallic mosiac e_c7a1b6/select_Please select a size4 UK6 UK8 UK10 U_3ffa33'), 
+    '301097', true)
 
-WebUI.click(findTestObject('Object Repository/Page_Leggings/span_-37'))
+WebUI.selectOptionByValue(findTestObject('Object Repository/Page_ASOS DESIGN all over metallic mosiac e_c7a1b6/select_12345'), 
+    '2', true)
+
+WebUI.click(findTestObject('Object Repository/Page_ASOS DESIGN all over metallic mosiac e_c7a1b6/button_Add to Bag'))
+
+WebUI.click(findTestObject('Object Repository/Page_ASOS DESIGN all over metallic mosiac e_c7a1b6/path'))
+
+WebUI.click(findTestObject('Object Repository/Page_Shopping Bag/button_Proceed to Checkout'))
+
+WebUI.closeBrowser()
 

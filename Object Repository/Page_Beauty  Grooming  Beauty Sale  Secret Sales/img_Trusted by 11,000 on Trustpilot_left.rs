@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Trusted by 11,000 on Trustpilot_left</name>
+   <tag></tag>
+   <elementGuidId>c6e717d7-78ce-437d-8e3d-71ae4c6cdff9</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div[2]/div/div/div[2]/figure/a/picture/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>img.left</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>74201cda-f395-4a82-b25c-44980873a239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>left</value>
+      <webElementGuid>ff4e9d25-ff89-4818-a2ef-edc584cb43ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media.secretsales.com/wysiwyg/beautyslp-uk.jpg</value>
+      <webElementGuid>5b8f5213-6063-415b-8163-a328ebc76567</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Make up</value>
+      <webElementGuid>44a99667-df55-461e-80ca-c7ddd777f654</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;cms-root&quot;]/div[@class=&quot;row-contained-9Ys row-root-3E7&quot;]/div[1]/div[@class=&quot;html-root-2b- uxtracking-HERO1_shopnow&quot;]/figure[@class=&quot;full-width1&quot;]/a[1]/picture[1]/img[@class=&quot;left&quot;]</value>
+      <webElementGuid>36fabd84-9eb7-41c7-9e32-c846b79372d0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[2]/div/div/div[2]/figure/a/picture/img</value>
+      <webElementGuid>88d5d757-fc04-4536-a3be-f7142530dd2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Make up']</value>
+      <webElementGuid>19c84561-1e1e-4c2c-93bb-a36bae1630d3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//picture/img</value>
+      <webElementGuid>604c8435-7d29-469f-b747-b27c1430bc4c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://media.secretsales.com/wysiwyg/beautyslp-uk.jpg' and @alt = 'Make up']</value>
+      <webElementGuid>e06aa41e-0b44-45f9-8a59-7bd8ab3cefdd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Black Friday</name>
+   <tag></tag>
+   <elementGuidId>ba626e43-d466-4dd7-aa5b-d106b09ebd04</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/aside[4]/div/div/div/div/div/ul/li/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.c-mobile-nav__nav-link</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>34064aa9-7de2-4330-accb-777c352e4738</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-mobile-nav__nav-link</value>
+      <webElementGuid>f4ee9308-ff3b-4a0c-8a57-94dba962a18b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Black Friday</value>
+      <webElementGuid>3792896a-3ca6-4539-a055-c78f6cf9c187</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/aside[@class=&quot;navigation-root_open-3KH navigation-root-3v2 navigation-exit-2Xc navigation-hidden-1Ft navigation-enter-1rs navigation-visible-1M_&quot;]/div[@class=&quot;navigation-body-1TM navigation-exit-2Xc navigation-visible-1M_&quot;]/div[1]/div[@class=&quot;cmsBlock-content-_Ac&quot;]/div[1]/div[@class=&quot;html-root-2b-&quot;]/ul[@class=&quot;c-mobile-nav__categories js-mobile-nav-category&quot;]/li[1]/a[@class=&quot;c-mobile-nav__nav-link&quot;]</value>
+      <webElementGuid>3976f133-6c13-4431-8973-74768913dd67</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/aside[4]/div/div/div/div/div/ul/li/a</value>
+      <webElementGuid>b4c7a007-68e2-4ecd-b3a4-efb3651d6b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Black Friday')]</value>
+      <webElementGuid>6ef83c41-814f-4ad0-bedd-0130f0bbd2cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£ GBP'])[3]/following::a[1]</value>
+      <webElementGuid>3955d8f9-5d24-4403-9367-35e1805b049f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Register'])[1]/following::a[1]</value>
+      <webElementGuid>2ae0a744-3c69-4d3b-94a5-950a93c2413c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Black Friday'])[11]/preceding::a[2]</value>
+      <webElementGuid>be9f22d7-0e84-4afa-a6c6-b7441989fc90</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop All'])[28]/preceding::a[3]</value>
+      <webElementGuid>472220a2-e46a-4e30-aab9-885d4eb9f01d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside[4]/div/div/div/div/div/ul/li/a</value>
+      <webElementGuid>a6573864-9fe5-4bc3-b3ed-6cc6605011ac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[(text() = 'Black Friday' or . = 'Black Friday')]</value>
+      <webElementGuid>4aab263d-fa1c-4c71-91ea-fcd7cd04eb5c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

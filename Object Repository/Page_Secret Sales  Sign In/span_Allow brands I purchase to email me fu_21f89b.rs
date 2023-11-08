@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>4cdc6085-29a6-47fe-9b51-29b430f3b66b</webElementGuid>
+      <webElementGuid>2066e27e-b3b2-4136-ad2a-3724321fb0f1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>checkmark</value>
-      <webElementGuid>ea82a931-df52-4dca-9045-5d9a122fca44</webElementGuid>
+      <webElementGuid>4980f325-b764-4883-8854-849e7badcda6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;form7&quot;)/div[@class=&quot;o-form-content o-form-theme clearfix&quot;]/div[@class=&quot;o-form-fieldset-container&quot;]/label[@class=&quot;registration-panel__preferences-label&quot;]/span[@class=&quot;checkmark&quot;]</value>
-      <webElementGuid>3c765d46-9268-4e74-ab83-508422107391</webElementGuid>
+      <webElementGuid>a156789b-1156-4979-87f6-b6b31e5919e2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form7']/div/div[2]/label[2]/span</value>
-      <webElementGuid>e0445701-1dd5-4c35-a1a1-3c9d1442aa6f</webElementGuid>
+      <webElementGuid>47edd3a8-e02c-4057-9591-694a97db556c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label[2]/span</value>
-      <webElementGuid>99491f6b-2da7-4a42-8429-fc5833496445</webElementGuid>
+      <webElementGuid>d5bec341-ad44-4114-9f67-801545c85f23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form7']/div/div[2]/div[2]/div/span/span</value>
-      <webElementGuid>f2fd035f-bc5c-4ee8-92a1-7ad6dd9f0c2e</webElementGuid>
+      <webElementGuid>1d784ce8-c467-46b2-a99e-8c39d5c3014b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,6 +70,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/span</value>
-      <webElementGuid>fae6275e-8cdc-436d-80cd-b8db60f00900</webElementGuid>
+      <webElementGuid>2999626e-8f6c-4913-99ff-136867fb9e4a</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

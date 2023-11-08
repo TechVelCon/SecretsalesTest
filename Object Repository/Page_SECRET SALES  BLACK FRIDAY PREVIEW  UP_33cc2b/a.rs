@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a</name>
+   <tag></tag>
+   <elementGuidId>1fba68dc-da43-46f7-b4e7-0a84e5044ac3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div[3]/div/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.hero-mainlink.uxtracking_HPHERO > a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>276d2dc3-5b77-48c3-aeba-99baa4e04b73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/browse/products/shop-by/ssevent/black_friday/</value>
+      <webElementGuid>3458b855-85af-4741-a700-46299fa8a900</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;cms-root&quot;]/div[@class=&quot;row-root-3E7 mainhero-block&quot;]/div[@class=&quot;html-root-2b-&quot;]/div[@class=&quot;hero-mainlink uxtracking_HPHERO&quot;]/a[1]</value>
+      <webElementGuid>f88469dc-4bad-4c1e-900e-d5da51c5271f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[3]/div/div/div/a</value>
+      <webElementGuid>a7cdaac0-08c3-459b-9577-82749defdea5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/browse/products/shop-by/ssevent/black_friday/')])[6]</value>
+      <webElementGuid>32bdb5a9-d252-43e2-82f9-998387015492</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/a</value>
+      <webElementGuid>21ef2f03-1e52-4e00-9c48-63ebb8c466bf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/browse/products/shop-by/ssevent/black_friday/']</value>
+      <webElementGuid>dee5cb9e-7ee3-4207-967a-938f4ba14353</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -7,11 +7,11 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/header/div[3]/div/div/nav/div/div/div/div/div/ul/li[3]/div/div/div/div/div/div/div/ul/li[2]/ul/li/a</value>
+         <value>//div[@id='root']/main/header/div[3]/div/div/nav/div/div/div/div/div/ul/li[3]/div/div/div/div/div/div/div/ul/li[2]/ul/li[2]/a</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>li:nth-of-type(3) > div.c-navigation__flyout > div.o-region > div.o-region__inner > div.o-layout > div.o-layout__item.u-9-of-12 > div.o-layout.u-display-flex.u-flex-wrap > div.o-layout__item.u-3-of-12 > ul > li:nth-of-type(2) > ul > li > a.c-ev-attached</value>
+         <value>li:nth-of-type(3) > div.c-navigation__flyout > div.o-region > div.o-region__inner > div.o-layout > div.o-layout__item.u-9-of-12 > div.o-layout.u-display-flex.u-flex-wrap > div.o-layout__item.u-3-of-12 > ul > li:nth-of-type(2) > ul > li:nth-of-type(2) > a.c-ev-attached</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>8b8126df-74c0-48e1-845b-848fc175af4d</webElementGuid>
+      <webElementGuid>a4b06e7d-37bf-4747-ab84-6502cbfca4c4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>https://www.secretsales.com/clothing/shop-by/gender/gender_female,gender_unisex/</value>
-      <webElementGuid>6cd67627-6fda-4dad-b0e7-51fb4248cd1b</webElementGuid>
+      <value>https://www.secretsales.com/clothing/shop-by/gender/gender_male,gender_unisex/</value>
+      <webElementGuid>d5cc3d1b-542e-40d7-bd6a-348061a09c49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>c-ev-attached</value>
-      <webElementGuid>d44061d4-44c3-4d3d-9f98-2c1e268d70b1</webElementGuid>
+      <webElementGuid>311a9980-85a5-4e90-ba7b-08a030a0fb19</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,18 +46,90 @@
       <name>text</name>
       <type>Main</type>
       <value>Shop All</value>
-      <webElementGuid>cee277c7-b5a7-4acf-a9b6-22a570f385df</webElementGuid>
+      <webElementGuid>7beccd31-90e2-42c7-93a6-a12382f77cbd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/header[@class=&quot;header-root header-root-2P7&quot;]/div[@class=&quot;container header-content-BBd&quot;]/div[@class=&quot;header-actionsWrapper-1gF&quot;]/div[@class=&quot;header-store-nav header-primaryActions-2bB&quot;]/nav[@class=&quot;visuallyHiddenUntilDesktop&quot;]/div[@class=&quot;header-desktopNavWrapper-S9Y&quot;]/div[@class=&quot;c-navigation__categories&quot;]/div[@class=&quot;cmsBlock-content-_Ac&quot;]/div[1]/div[@class=&quot;html-root-2b-&quot;]/ul[@class=&quot;c-navigation__categories&quot;]/li[3]/div[@class=&quot;c-navigation__flyout&quot;]/div[@class=&quot;o-region&quot;]/div[@class=&quot;o-region__inner&quot;]/div[@class=&quot;o-layout&quot;]/div[@class=&quot;o-layout__item u-9-of-12&quot;]/div[@class=&quot;o-layout u-display-flex u-flex-wrap&quot;]/div[@class=&quot;o-layout__item u-3-of-12&quot;]/ul[1]/li[2]/ul[1]/li[1]/a[@class=&quot;c-ev-attached&quot;]</value>
-      <webElementGuid>4cc4d06d-eb2b-4eb9-a846-fe8a6a58f846</webElementGuid>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/header[@class=&quot;header-root header-root-2P7&quot;]/div[@class=&quot;container header-content-BBd&quot;]/div[@class=&quot;header-actionsWrapper-1gF&quot;]/div[@class=&quot;header-store-nav header-primaryActions-2bB&quot;]/nav[@class=&quot;visuallyHiddenUntilDesktop&quot;]/div[@class=&quot;header-desktopNavWrapper-S9Y&quot;]/div[@class=&quot;c-navigation__categories&quot;]/div[@class=&quot;cmsBlock-content-_Ac&quot;]/div[1]/div[@class=&quot;html-root-2b-&quot;]/ul[@class=&quot;c-navigation__categories&quot;]/li[3]/div[@class=&quot;c-navigation__flyout&quot;]/div[@class=&quot;o-region&quot;]/div[@class=&quot;o-region__inner&quot;]/div[@class=&quot;o-layout&quot;]/div[@class=&quot;o-layout__item u-9-of-12&quot;]/div[@class=&quot;o-layout u-display-flex u-flex-wrap&quot;]/div[@class=&quot;o-layout__item u-3-of-12&quot;]/ul[1]/li[2]/ul[1]/li[2]/a[@class=&quot;c-ev-attached&quot;]</value>
+      <webElementGuid>47d006c5-c3ec-42a7-a0a4-2bd0f3b91361</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/header/div[3]/div/div/nav/div/div/div/div/div/ul/li[3]/div/div/div/div/div/div/div/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>bfdbdd56-4d26-49c5-91af-9d02410fb0e3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Shop All')])[4]</value>
+      <webElementGuid>48dfe63d-d3e7-4895-baee-d2943a66edbd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Black Friday'])[5]/following::a[1]</value>
+      <webElementGuid>c9a1a594-b8ed-46e1-8bab-e504f441f390</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clothing'])[2]/following::a[2]</value>
+      <webElementGuid>e1872941-15d2-45a1-b96c-6a2181cf4214</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='New In'])[3]/preceding::a[1]</value>
+      <webElementGuid>c1147c9a-288b-4aaf-9563-690238d9bcaf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activewear'])[2]/preceding::a[2]</value>
+      <webElementGuid>9c717b17-df95-431a-bc4c-be9c2bfd0d15</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.secretsales.com/clothing/shop-by/gender/gender_male,gender_unisex/')])[2]</value>
+      <webElementGuid>2ee1cdaa-11b4-4187-8380-716ab1943898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/div/div/div/div/div/div/ul/li[2]/ul/li[2]/a</value>
+      <webElementGuid>7dc3fa52-fa50-406b-8150-12105604befc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.secretsales.com/clothing/shop-by/gender/gender_male,gender_unisex/' and (text() = 'Shop All' or . = 'Shop All')]</value>
+      <webElementGuid>31175aed-01bd-4665-ac1a-6f9206541cde</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>

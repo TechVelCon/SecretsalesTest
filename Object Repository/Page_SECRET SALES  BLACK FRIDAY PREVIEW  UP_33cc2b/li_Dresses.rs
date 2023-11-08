@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>li_Dresses</name>
+   <tag></tag>
+   <elementGuidId>f8ea1420-94fe-499b-834a-e0f06c7f80be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/header/div[3]/div/div/nav/div/div/div/div/div/ul/li[2]/div/div/div/div/div/div/div/ul/li[2]/ul/li[6]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>li:nth-of-type(2) > div.c-navigation__flyout > div.o-region > div.o-region__inner > div.o-layout > div.o-layout__item.u-9-of-12 > div.o-layout.u-display-flex.u-flex-wrap > div.o-layout__item.u-3-of-12 > ul > li:nth-of-type(2) > ul > li:nth-of-type(6)</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>li</value>
+      <webElementGuid>ea53877c-806f-407a-a208-12d31ad0ce00</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Dresses
+                                                </value>
+      <webElementGuid>72d87dec-6212-4e1f-8f4c-69a5272e535e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/header[@class=&quot;header-root header-root-2P7&quot;]/div[@class=&quot;container header-content-BBd&quot;]/div[@class=&quot;header-actionsWrapper-1gF&quot;]/div[@class=&quot;header-store-nav header-primaryActions-2bB&quot;]/nav[@class=&quot;visuallyHiddenUntilDesktop&quot;]/div[@class=&quot;header-desktopNavWrapper-S9Y&quot;]/div[@class=&quot;c-navigation__categories&quot;]/div[@class=&quot;cmsBlock-content-_Ac&quot;]/div[1]/div[@class=&quot;html-root-2b-&quot;]/ul[@class=&quot;c-navigation__categories&quot;]/li[2]/div[@class=&quot;c-navigation__flyout&quot;]/div[@class=&quot;o-region&quot;]/div[@class=&quot;o-region__inner&quot;]/div[@class=&quot;o-layout&quot;]/div[@class=&quot;o-layout__item u-9-of-12&quot;]/div[@class=&quot;o-layout u-display-flex u-flex-wrap&quot;]/div[@class=&quot;o-layout__item u-3-of-12&quot;]/ul[1]/li[2]/ul[1]/li[6]</value>
+      <webElementGuid>b21738d6-bcb7-4a35-8a8a-2d0a7a06ae25</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/header/div[3]/div/div/nav/div/div/div/div/div/ul/li[2]/div/div/div/div/div/div/div/ul/li[2]/ul/li[6]</value>
+      <webElementGuid>60f3ca94-c9d7-4428-ae67-1d8792e13955</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coats &amp; Jackets'])[1]/following::li[1]</value>
+      <webElementGuid>61900956-dda6-43ea-9a9b-43e6da3093a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activewear'])[1]/following::li[2]</value>
+      <webElementGuid>266020f3-13e1-4b01-be36-f22c7679e8de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fleeces'])[1]/preceding::li[1]</value>
+      <webElementGuid>48ba45be-c1ca-4473-8348-32ea156b8d8e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/div/div/div/div/div/div/div/ul/li[2]/ul/li[6]</value>
+      <webElementGuid>1aea9dee-4d47-421f-9b1f-9c88279dd654</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//li[(text() = '
+                                                    Dresses
+                                                ' or . = '
+                                                    Dresses
+                                                ')]</value>
+      <webElementGuid>ee1924f8-ad1d-41c3-a5dd-a7d4cdbd253b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

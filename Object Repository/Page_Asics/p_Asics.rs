@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>p_Asics</name>
+   <tag></tag>
+   <elementGuidId>d6ac2eb2-a807-49ab-8023-dde44269bade</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div[3]/section[2]/div[2]/a[2]/div[2]/div/p</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>ca634300-62c2-43c5-bf4c-999469678d6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fredhopperItem-brand-1mr</value>
+      <webElementGuid>8ed79439-14e7-4edd-a199-b524e7a34026</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Asics</value>
+      <webElementGuid>6ec03302-0335-4c7f-8e1d-bc7c85a3ab5e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;container fredhopper-fredhopper-3i4 fredhopper-noBreadcrumbs-3g1&quot;]/div[@class=&quot;fredhopper-content-boK&quot;]/section[2]/div[@class=&quot;fredhopper-item-list-root fredhopperItems-fredhopperItems-2di&quot;]/a[@class=&quot;fredhopper-item-root&quot;]/div[@class=&quot;Stack-stack-1rt fredhopperItem-meta-3F3 Stack-stackMedium-2TH&quot;]/div[1]/p[@class=&quot;fredhopperItem-brand-1mr&quot;]</value>
+      <webElementGuid>6a3b9a48-424a-48ea-acf0-a0e295a4bf06</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div[3]/section[2]/div[2]/a[2]/div[2]/div/p</value>
+      <webElementGuid>c4b71f2d-3a72-4ca9-b8a4-e77638f5196a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular!'])[1]/following::p[1]</value>
+      <webElementGuid>724ab6c4-9ffb-44d8-a129-15bbe29b8591</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::p[1]</value>
+      <webElementGuid>ad9239c2-7c85-4a84-a76f-1161c9749fdc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Asics Gel-Quantum 360 6 Mens Grey Trainers'])[1]/preceding::p[1]</value>
+      <webElementGuid>a5c45c46-4b9f-4d27-bbb0-12c4675c0f8b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£149.99'])[1]/preceding::p[1]</value>
+      <webElementGuid>78cd317a-147f-4186-8f38-55c1afb7c856</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div[2]/div/p</value>
+      <webElementGuid>de194f9f-215f-4937-9c45-9931840de821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Asics' or . = 'Asics')]</value>
+      <webElementGuid>bc27d8fc-dae1-475f-b9bd-186e6135ffc3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Continue Shopping</name>
+   <tag></tag>
+   <elementGuidId>dae29a85-76ce-4611-9457-a5e72617705f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div[2]/div/div/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.cartPage-continueLink-1JM.Button-buttonSecondary-2h9.Button-buttonSkeleton-1iP.button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>4e6242d1-2499-4c70-a7c7-e52702494bff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cartPage-continueLink-1JM Button-buttonSecondary-2h9 Button-buttonSkeleton-1iP button</value>
+      <webElementGuid>03106d4b-17e5-498e-a878-a51ac951978e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/</value>
+      <webElementGuid>381646d6-8e9c-4c30-98d4-0321b8251460</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Continue Shopping</value>
+      <webElementGuid>ee08d972-f829-42a1-9049-d1d907b51a71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;container grid&quot;]/div[@class=&quot;col-span-12 col-span-8--desktop&quot;]/div[@class=&quot;cartPage-emptyContainer-3Aa&quot;]/a[@class=&quot;cartPage-continueLink-1JM Button-buttonSecondary-2h9 Button-buttonSkeleton-1iP button&quot;]</value>
+      <webElementGuid>7299d10d-2b9d-4b29-b388-198d88723642</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[2]/div/div/a</value>
+      <webElementGuid>a03d43e0-ef80-4c5f-8eec-90bac6641354</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Continue Shopping')]</value>
+      <webElementGuid>a4683b78-3b9d-4ff5-bfea-b42d1482225d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have no items in your bag.'])[1]/following::a[1]</value>
+      <webElementGuid>6c31524e-d139-4dc3-910d-28bdbf51b768</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Bag'])[1]/following::a[1]</value>
+      <webElementGuid>6768133f-2e16-40e3-961d-3c07bc5f09b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Secret Sales'])[1]/preceding::a[1]</value>
+      <webElementGuid>ff2ce9b5-5c3b-43cb-91ee-4f2df42aa3a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='About us'])[1]/preceding::a[1]</value>
+      <webElementGuid>4f4ebcee-1b71-45dd-a3e6-23bfc53e3203</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Continue Shopping']/parent::*</value>
+      <webElementGuid>8553f0ed-5ebf-481e-92c7-0521b4afa98f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/')])[551]</value>
+      <webElementGuid>537d370d-0985-465d-b920-e9c99fe431ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div/div/a</value>
+      <webElementGuid>58cebb2c-f36e-421b-968c-7f25eb8ea0b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/' and (text() = 'Continue Shopping' or . = 'Continue Shopping')]</value>
+      <webElementGuid>4ecee82e-b171-49d8-bb4f-12ad1b042d15</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

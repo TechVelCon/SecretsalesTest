@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>p</value>
-      <webElementGuid>71e9d059-bad4-4040-bb54-8c6ffdfbe9db</webElementGuid>
+      <webElementGuid>1130633c-a382-46a0-912c-1caee33025bd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fredhopperItem-brand-1mr</value>
-      <webElementGuid>b89cc5b0-06e6-4d9e-bd9a-c2fda0675002</webElementGuid>
+      <webElementGuid>c63465c8-0cf9-4a2e-b621-f35f28836f0a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Nike</value>
-      <webElementGuid>c3746f52-03e7-4aad-bb74-5d964b3b0979</webElementGuid>
+      <webElementGuid>64160049-3a48-4164-ad2a-790020a450e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;container fredhopper-fredhopper-3i4&quot;]/div[@class=&quot;fredhopper-content-boK&quot;]/section[2]/div[@class=&quot;fredhopper-item-list-root fredhopperItems-fredhopperItems-2di&quot;]/a[@class=&quot;fredhopper-item-root&quot;]/div[@class=&quot;Stack-stack-1rt fredhopperItem-meta-3F3 Stack-stackMedium-2TH&quot;]/div[1]/p[@class=&quot;fredhopperItem-brand-1mr&quot;]</value>
-      <webElementGuid>1f3de853-d0af-4e8c-a9b6-703c683cb367</webElementGuid>
+      <webElementGuid>a4ae0c06-9210-4b9e-92e8-f067c80882e6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,55 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div[2]/div/div[3]/section[2]/div[2]/a[2]/div[2]/div/p</value>
-      <webElementGuid>1489ce36-b127-43e2-b9ad-5196e323dafe</webElementGuid>
+      <webElementGuid>1f6ef538-8e20-43cc-9de7-4ba163bd230b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£35.00'])[1]/following::p[1]</value>
+      <webElementGuid>c77102c8-bc2f-4ff8-b170-511919d280a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£42.00'])[1]/following::p[1]</value>
+      <webElementGuid>cb9626c4-ed6a-444c-87b3-f80f229e4416</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nike Air AW77 Mens Fleece Joggers Grey'])[1]/preceding::p[1]</value>
+      <webElementGuid>3721df4b-d79c-4dd9-9211-1f2c6514092b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£45.00'])[1]/preceding::p[1]</value>
+      <webElementGuid>6b49292d-dc64-4b05-90d3-275f71bbc7a4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[2]/div[2]/div/p</value>
+      <webElementGuid>b2902400-a249-4fd0-b61b-40797c42b3c7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//p[(text() = 'Nike' or . = 'Nike')]</value>
+      <webElementGuid>84347da9-abcc-4555-ab95-824e921892c3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -87,22 +135,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='£42.00'])[1]/preceding::p[1]</value>
       <webElementGuid>bc9258eb-0247-44c6-8ebe-7627fe8f90d9</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//a[2]/div[2]/div/p</value>
-      <webElementGuid>2e5137e5-7cd4-4e9c-ab8d-bf88d4126ba7</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//p[(text() = 'Nike' or . = 'Nike')]</value>
-      <webElementGuid>ee095d0a-3bc7-4381-a8c5-315fddf310fb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

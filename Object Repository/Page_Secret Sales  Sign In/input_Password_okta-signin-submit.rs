@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>a8c5bff6-8b43-48b5-9b3c-d76c6fc39193</webElementGuid>
+      <webElementGuid>e357778d-8797-421c-ba40-9c10a8f14df5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button button-primary pwa-button</value>
-      <webElementGuid>5f4dcd10-0cd1-4ff8-a980-ca96a700af51</webElementGuid>
+      <webElementGuid>2fa2703b-c2c9-4aeb-aa34-09b374d08ee6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>69d008b4-f866-48f9-9002-d8ef7ff62b36</webElementGuid>
+      <webElementGuid>246869ba-c09c-4077-9773-10de59321a44</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>value</name>
       <type>Main</type>
       <value>Sign In</value>
-      <webElementGuid>700102a0-b069-4346-a48b-a795f203f0a0</webElementGuid>
+      <webElementGuid>9fa26706-193f-4f1c-8a97-af70b2dccc98</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>okta-signin-submit</value>
-      <webElementGuid>f98c58b3-fd3b-482e-aa58-510b7ca6eea0</webElementGuid>
+      <webElementGuid>38b5f6f6-6de6-427a-90f5-69ca59214721</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>data-type</name>
       <type>Main</type>
       <value>save</value>
-      <webElementGuid>2a486aef-dc08-47ad-9a07-7e4b5af84332</webElementGuid>
+      <webElementGuid>0a5fd568-6fdd-433b-a8dd-e7cff051b2b7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;okta-signin-submit&quot;)</value>
-      <webElementGuid>b13e6d2e-d101-4ffa-acda-20fe8b37c7ce</webElementGuid>
+      <webElementGuid>d65dce8d-4ad6-4614-b438-229e09f7b02d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='okta-signin-submit']</value>
-      <webElementGuid>4e9cdcba-bdef-4005-a4f7-dc9b48855576</webElementGuid>
+      <webElementGuid>8b9be28f-3b4a-4dbe-ba8e-e47ee8d9195a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form2']/div[2]/input</value>
-      <webElementGuid>2161878b-258c-48f3-87fb-b50c8dd78140</webElementGuid>
+      <webElementGuid>4c0bffe1-90cd-4f09-b98c-03bbc0b69bc7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/input</value>
-      <webElementGuid>9ce0a5bb-9546-4d36-857b-156bff307802</webElementGuid>
+      <webElementGuid>c5ee7fd2-71aa-4775-bfe3-93673e132d66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'submit' and @id = 'okta-signin-submit']</value>
-      <webElementGuid>b5839604-808e-4e73-898f-1c72be66a6bb</webElementGuid>
+      <webElementGuid>1d29f398-f139-4b7a-b091-61e5a6ca16c8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
