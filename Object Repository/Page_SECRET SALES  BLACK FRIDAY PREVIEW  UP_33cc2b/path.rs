@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>path</value>
-      <webElementGuid>50450947-cec5-4367-ad84-8194f7a1c876</webElementGuid>
+      <webElementGuid>6aa63a64-5825-4952-a9bf-b0c7c3b9c666</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>d</name>
       <type>Main</type>
       <value>M4.17-3v-1.714C4.17-7.08 2.246-9-.125-9S-4.42-7.08-4.42-4.714V-3h-.859a1.72 1.72 0 0 0-1.718 1.714L-8 7.286A1.72 1.72 0 0 0-6.282 9H6.032A1.72 1.72 0 0 0 7.75 7.286L6.748-1.286A1.72 1.72 0 0 0 5.03-3H4.17zM2.538-3h-5.326v-1.714c0-1.466 1.194-2.657 2.663-2.657S2.538-6.18 2.538-4.714V-3h0z</value>
-      <webElementGuid>f2e09870-cd6b-471d-8a64-288ec4e2a1b2</webElementGuid>
+      <webElementGuid>2aabee7a-244e-4896-8682-d29f72deaaff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>fill-rule</name>
       <type>Main</type>
       <value>evenodd</value>
-      <webElementGuid>a86446c5-c49a-47c1-9479-5742efe654e2</webElementGuid>
+      <webElementGuid>1d8a388e-f8fe-428f-a265-66436012013f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>vector-effect</name>
       <type>Main</type>
       <value>non-scaling-stroke</value>
-      <webElementGuid>90a4a550-737f-4801-b7fd-53ddb2e5d0ba</webElementGuid>
+      <webElementGuid>a3035691-dc99-42af-9116-7a40170bd6e4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>transform</name>
       <type>Main</type>
       <value>matrix(54.3262 0 0 54.3262 500.0001 500.0001)</value>
-      <webElementGuid>55c2c2f2-e24a-4c4a-be55-0cd870a651b4</webElementGuid>
+      <webElementGuid>bc4b6110-380d-42f5-b899-a07a177c1ed1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,6 +62,6 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/header[@class=&quot;header-root header-root-2P7&quot;]/div[@class=&quot;container header-content-BBd&quot;]/div[@class=&quot;header-actionsWrapper-1gF&quot;]/div[@class=&quot;header-search-bar header-secondaryActions-1if&quot;]/div[@class=&quot;header-userIconsWrapper-1bS&quot;]/button[@class=&quot;mobile-mini-cart cartTrigger-link-1us cartTrigger-trigger-3Ke clickable-root-2gB&quot;]/div[1]/div[1]/svg[@class=&quot;injected-svg&quot;]/path[2]</value>
-      <webElementGuid>bb8db9cd-a40d-49c2-b17e-ad2be2ac9924</webElementGuid>
+      <webElementGuid>afa24328-4b57-4ba0-9a9e-06fb78232c2f</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

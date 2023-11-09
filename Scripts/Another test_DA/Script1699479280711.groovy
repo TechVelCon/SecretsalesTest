@@ -19,16 +19,11 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('https://www.earthfromearth.com/')
+WebUI.navigateToUrl('https://www.secretsales.com/')
 
-WebUI.click(findTestObject('Object Repository/Page_EARTH FROM EARTH/a_SHOP NOW'))
+WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/line'))
 
-WebUI.click(findTestObject('Object Repository/Page_Shop  EARTH FROM EARTH/div_SKIN BALM - SIGNATURE BLEND - 100 G'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/Page_SKIN BALM - SIGNATURE BLEND - 100 G  E_bebfd9/select_Select Size        Standard SizeStan_0c6747'), 
-    'Standard Size', true)
-
-WebUI.click(findTestObject('Object Repository/Page_SKIN BALM - SIGNATURE BLEND - 100 G  E_bebfd9/div_Add To Cart'))
+WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/a_Outlet'))
 
 WebUI.closeBrowser()
 

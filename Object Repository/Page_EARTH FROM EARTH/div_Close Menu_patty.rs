@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Close Menu_patty</name>
+   <tag></tag>
+   <elementGuidId>a981ec1c-5741-4270-b5fb-ef51b949f833</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='yui_3_17_2_1_1699533476058_624']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1699533476058_624 > div.burger-box > div.burger-inner.header-menu-icon-tripleLineHamburger</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>c363e4ad-2bc7-4583-b7de-9b32be02ebaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>burger-inner header-menu-icon-tripleLineHamburger</value>
+      <webElementGuid>7ff3eca5-266f-43ba-9edc-f62f1dca3f9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1699533476058_624&quot;)/div[@class=&quot;burger-box&quot;]/div[@class=&quot;burger-inner header-menu-icon-tripleLineHamburger&quot;]</value>
+      <webElementGuid>ad31a6ec-dfd0-416a-80e6-603629b2c4b8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='yui_3_17_2_1_1699533476058_624']/div/div</value>
+      <webElementGuid>70206908-0247-4f66-b8e4-cd0bdef325f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Close Menu'])[2]/following::div[2]</value>
+      <webElementGuid>a4a3201d-3a07-4f4d-9904-937657a4ddab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Open Menu'])[2]/following::div[2]</value>
+      <webElementGuid>aa3f4cd3-8e6c-434f-b784-2dd9e7cc7780</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Home'])[3]/preceding::div[5]</value>
+      <webElementGuid>134f5cd6-2f9e-4308-beb4-dc721a98d373</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Folder:'])[1]/preceding::div[7]</value>
+      <webElementGuid>f9780946-91b6-40b3-88a7-7a7a5b6a92bc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/div/div</value>
+      <webElementGuid>cd3e9296-120c-4a35-a393-766e0706ae99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='yui_3_17_2_1_1699532655990_624']/div/div</value>
+      <webElementGuid>b475aed4-6cc1-417b-b53d-df10ec763d52</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='yui_3_17_2_1_1699532411128_624']/div/div/div[2]</value>
+      <webElementGuid>ea6e1af7-ed62-4edf-83d5-64399906490f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/button/div/div/div[2]</value>
+      <webElementGuid>2b88ffd5-b407-498d-b8e8-4376bb57fdbe</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

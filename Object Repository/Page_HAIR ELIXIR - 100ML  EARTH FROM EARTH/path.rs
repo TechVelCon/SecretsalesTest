@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>005525be-df9e-45c7-9869-a79583e705b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1699532695744_407 > span.Cart-inner > svg.icon.icon--cart > g.svg-icon.cart-icon--odd > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>56b04cb7-fa4b-4404-8294-c44b2f206ac2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>none</value>
+      <webElementGuid>bc8e49b3-4b72-48f9-9ad1-efd18fea1ad7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>stroke-miterlimit</name>
+      <type>Main</type>
+      <value>10</value>
+      <webElementGuid>459f89a3-e3c0-4a41-8e31-f648dbac8c68</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M0,1.5h5c0.6,0,1.1,0.4,1.1,1l1.7,13
+      c0.1,0.5,0.6,1,1.1,1h15c0.5,0,1.2-0.4,1.4-0.9l3.3-8.1c0.2-0.5-0.1-0.9-0.6-0.9H12</value>
+      <webElementGuid>6c9166e0-e2f1-493d-8cf9-d6c23ea1cd86</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1699532695744_407&quot;)/span[@class=&quot;Cart-inner&quot;]/svg[@class=&quot;icon icon--cart&quot;]/g[@class=&quot;svg-icon cart-icon--odd&quot;]/path[1]</value>
+      <webElementGuid>c13ee185-0216-429f-a472-d842baf40fcb</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

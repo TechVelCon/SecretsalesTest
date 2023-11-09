@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>a_Continue Shopping</name>
+   <name>a_HAIR</name>
    <tag></tag>
-   <elementGuidId>dae29a85-76ce-4611-9457-a5e72617705f</elementGuidId>
+   <elementGuidId>a60bced8-3b0f-46a4-8f9b-9e0902c9827a</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='root']/main/div[2]/div[2]/div/div/a</value>
+         <value>//a[@id='yui_3_17_2_1_1699532655990_661']</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>a.cartPage-continueLink-1JM.Button-buttonSecondary-2h9.Button-buttonSkeleton-1iP.button</value>
+         <value>#yui_3_17_2_1_1699532655990_661</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,118 +22,126 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>772b734b-e647-4d0e-8353-b8c8645de0c9</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>cartPage-continueLink-1JM Button-buttonSecondary-2h9 Button-buttonSkeleton-1iP button</value>
-      <webElementGuid>a8233a01-5747-4654-95cf-d101b2d22212</webElementGuid>
+      <webElementGuid>7fd3a07b-51a1-40c2-abad-9901b6368ac1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>href</name>
       <type>Main</type>
-      <value>/</value>
-      <webElementGuid>540f365c-796f-4b34-8cfe-96a7ddf661f7</webElementGuid>
+      <value>/shop/hair</value>
+      <webElementGuid>b3064790-3ebf-4bd7-9d4f-0de6c7176264</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>0</value>
+      <webElementGuid>1b0cd076-8292-4686-a676-2d7dd01bd3db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_3_17_2_1_1699532655990_661</value>
+      <webElementGuid>0c5829f4-c0c8-4742-b689-d30649897534</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>text</name>
       <type>Main</type>
-      <value>Continue Shopping</value>
-      <webElementGuid>54b1c8df-4ca7-47c4-9b53-ec4114705957</webElementGuid>
+      <value>HAIR</value>
+      <webElementGuid>385a339f-e40c-4812-bc9c-4b17cf86b84e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;container grid&quot;]/div[@class=&quot;col-span-12 col-span-8--desktop&quot;]/div[@class=&quot;cartPage-emptyContainer-3Aa&quot;]/a[@class=&quot;cartPage-continueLink-1JM Button-buttonSecondary-2h9 Button-buttonSkeleton-1iP button&quot;]</value>
-      <webElementGuid>9fbc51e0-7553-4360-8006-ef051702874b</webElementGuid>
+      <value>id(&quot;yui_3_17_2_1_1699532655990_661&quot;)</value>
+      <webElementGuid>a87d385a-e5b8-4194-96ec-8ab835f52fa2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1699532655990_661']</value>
+      <webElementGuid>212f1fcb-6f44-420f-b801-ea3a42d5c7e5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div[2]/div[2]/div/div/a</value>
-      <webElementGuid>39ec1e20-dd73-439e-9fd6-4345f562ad1a</webElementGuid>
+      <value>//div[@id='yui_3_17_2_1_1699532655990_662']/a</value>
+      <webElementGuid>e447cb3e-34e5-49cf-bc6f-da5cd41ac9c6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:link</name>
       <type>Main</type>
-      <value>//a[contains(text(),'Continue Shopping')]</value>
-      <webElementGuid>c688dc46-6768-42d6-b9c9-c1e9f8b950b1</webElementGuid>
+      <value>(//a[contains(text(),'HAIR')])[3]</value>
+      <webElementGuid>a4e3d661-fbe1-4631-a5cd-6397bd6c39c4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='You have no items in your bag.'])[1]/following::a[1]</value>
-      <webElementGuid>007938a6-061b-4907-8aab-fc91ff8bd3a7</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FACE'])[3]/following::a[1]</value>
+      <webElementGuid>9728b00f-0b11-470f-b7c5-a43a8fe42aff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Your Bag'])[1]/following::a[1]</value>
-      <webElementGuid>e0174caf-2c2a-4a51-8658-46b412ce4025</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BODY'])[3]/following::a[2]</value>
+      <webElementGuid>a11f5f2b-9f80-4000-a109-4d295c7421dc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About Secret Sales'])[1]/preceding::a[1]</value>
-      <webElementGuid>aa45568c-84aa-43f7-a3c1-a6447e04aa1b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WELLNESS'])[3]/preceding::a[1]</value>
+      <webElementGuid>7b630d13-cfb4-4e49-982b-222ced75ce5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='About us'])[1]/preceding::a[1]</value>
-      <webElementGuid>ba245d0d-52b7-45b8-a867-b8051eb47f30</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Continue Shopping']/parent::*</value>
-      <webElementGuid>ee2f7760-ccd9-40fb-98f1-a484a5b491fb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAN'])[3]/preceding::a[2]</value>
+      <webElementGuid>ef36c333-79d8-4489-8bdf-0c5265dfa153</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '/')])[551]</value>
-      <webElementGuid>3bdb3c1b-4dcd-4996-92c2-17f1f2d4b355</webElementGuid>
+      <value>(//a[contains(@href, '/shop/hair')])[3]</value>
+      <webElementGuid>da7c2b54-f906-41ec-b01b-ee112f945180</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/div/div/a</value>
-      <webElementGuid>9a06c718-ec8a-4922-862c-9493ea8bd984</webElementGuid>
+      <value>//div[2]/nav/div[2]/div/div[5]/a</value>
+      <webElementGuid>9f5ced34-5285-4004-bd95-95ad8d6dab7f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//a[@href = '/' and (text() = 'Continue Shopping' or . = 'Continue Shopping')]</value>
-      <webElementGuid>4f823833-d308-4f6c-9940-f434a0613b7e</webElementGuid>
+      <value>//a[@href = '/shop/hair' and @id = 'yui_3_17_2_1_1699532655990_661' and (text() = 'HAIR' or . = 'HAIR')]</value>
+      <webElementGuid>45b9d2c8-5db7-49fb-aea2-5fbefaf55133</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>line</value>
-      <webElementGuid>1c5a97f7-2997-45a4-8b61-fd9886d6e484</webElementGuid>
+      <webElementGuid>3eabffc8-f525-4fdf-aac6-639c1575735d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>x1</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>467493c1-c3be-429c-b227-acbdb7b61008</webElementGuid>
+      <webElementGuid>410a20bf-6690-4df4-b1de-2a3f0cff1eef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>x2</name>
       <type>Main</type>
       <value>40</value>
-      <webElementGuid>8ad6e6a2-e19f-41a7-96ee-3f8073865171</webElementGuid>
+      <webElementGuid>b9914fdf-7270-4260-92b3-508e91e74ae6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>y1</name>
       <type>Main</type>
       <value>40</value>
-      <webElementGuid>c12e6481-41bf-47c3-98ed-b394e9367f35</webElementGuid>
+      <webElementGuid>6cd10418-b10c-48dd-9572-6e6c046538c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>y2</name>
       <type>Main</type>
       <value>5</value>
-      <webElementGuid>ebaec939-8735-4e72-aae2-2b42fbd26a2c</webElementGuid>
+      <webElementGuid>4cc77e35-eabf-4b41-aa1a-06c34437ea5a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;closeIconSvg&quot;)/line[2]</value>
-      <webElementGuid>94db14a7-c258-40f2-b367-31315af08d07</webElementGuid>
+      <webElementGuid>666b35af-55b2-4dfc-87b2-6fe93ee27ff1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,6 +70,6 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/iframe_concat(id(, , attentive_creative, , _24add5</value>
-      <webElementGuid>664ce97c-bd4d-4e0e-bf9d-f9ae58c7acf8</webElementGuid>
+      <webElementGuid>58d2885b-8538-4985-8953-420618f35d1e</webElementGuid>
    </webElementProperties>
 </WebElementEntity>

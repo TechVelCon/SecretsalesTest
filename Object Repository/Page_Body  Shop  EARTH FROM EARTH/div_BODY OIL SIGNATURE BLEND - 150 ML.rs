@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_BODY OIL SIGNATURE BLEND - 150 ML</name>
+   <tag></tag>
+   <elementGuidId>ce069c8b-c012-43b5-a843-39e2b55acf28</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='yui_3_17_2_1_1699532846441_418']/section/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.grid-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>d5de0bf7-6557-4998-a28b-82d7bafaf274</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-title</value>
+      <webElementGuid>4f4d2357-c64e-4b89-9545-ad4ec13b7465</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>plp-grid-title</value>
+      <webElementGuid>16bdf615-1b4d-4123-9ccf-83e726420b1e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        BODY OIL SIGNATURE BLEND - 150 ML
+      </value>
+      <webElementGuid>e3bf916d-7685-49c8-9418-90427ce709be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1699532846441_418&quot;)/section[@class=&quot;grid-meta-wrapper&quot;]/div[@class=&quot;grid-main-meta&quot;]/div[@class=&quot;grid-title&quot;]</value>
+      <webElementGuid>17449332-cd6f-44cc-b08c-c8b9d481cb5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1699532846441_418']/section/div/div</value>
+      <webElementGuid>035ce883-2920-4e24-96a1-a1c248469f6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gifts'])[1]/following::div[6]</value>
+      <webElementGuid>e5e7d49e-bf5c-4376-aebe-ea12eaf8ad8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bundles &amp; Duo'])[1]/following::div[6]</value>
+      <webElementGuid>5517e87d-1647-4444-8fd2-e93d99dea437</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='from £43.00'])[1]/preceding::div[1]</value>
+      <webElementGuid>7b0f11ef-5bbd-4cbf-a8e7-dfa3a54c479a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add To Cart'])[1]/preceding::div[7]</value>
+      <webElementGuid>49cd7468-24a8-4eac-9bb3-4c289daaae70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BODY OIL SIGNATURE BLEND - 150 ML']/parent::*</value>
+      <webElementGuid>c4965316-eaf8-4037-bc76-905e61663bc3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/section/div/div</value>
+      <webElementGuid>d726b1d8-dbac-4a02-8dd6-4e9614410a2c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+        BODY OIL SIGNATURE BLEND - 150 ML
+      ' or . = '
+        BODY OIL SIGNATURE BLEND - 150 ML
+      ')]</value>
+      <webElementGuid>fdd5b12d-36e8-46e3-a0c2-13e96c959f94</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1699532442043_418']/section/div/div</value>
+      <webElementGuid>5ac91d9d-7985-4f57-8433-fa33cefa2755</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

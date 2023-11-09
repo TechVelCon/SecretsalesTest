@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>iframe</value>
-      <webElementGuid>01f95d3f-2e3f-4bcd-beee-8490cc132d8e</webElementGuid>
+      <webElementGuid>987783b5-b8f0-4a86-8dd7-ad1c3de36982</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>referrerpolicy</name>
       <type>Main</type>
       <value>origin</value>
-      <webElementGuid>6850c886-78ca-4083-a557-a13869888291</webElementGuid>
+      <webElementGuid>8469ae11-b3d6-4d67-a0d3-f8da21595307</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>attentive_creative</value>
-      <webElementGuid>843081a3-e15e-4726-9d57-b927b94bf6f9</webElementGuid>
+      <webElementGuid>8ba58c7c-e53e-46e2-942a-72630cb95a7a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>title</name>
       <type>Main</type>
       <value>Sign Up via Text for Offers</value>
-      <webElementGuid>bdebac3d-6443-460c-888d-d5a6f2819276</webElementGuid>
+      <webElementGuid>20a4da60-3e3f-43d3-8fb3-da2d01c91704</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>src</name>
       <type>Main</type>
       <value>https://creatives.attn.tv/creatives-dynamic/multiPage/index.html</value>
-      <webElementGuid>5c155563-c07b-4ed0-b5ca-c97290856e0e</webElementGuid>
+      <webElementGuid>1006f73f-e178-4017-bb94-0d649ee10e4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;attentive_creative&quot;)</value>
-      <webElementGuid>36a36439-abe1-4660-b196-2353d44545f5</webElementGuid>
+      <webElementGuid>424cb4ca-e1fb-47dc-8b15-3393a2d82e6f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//iframe[@id='attentive_creative']</value>
-      <webElementGuid>0afaa530-bcc9-46ee-a458-fe3416c12366</webElementGuid>
+      <webElementGuid>e269b711-11d0-4765-bfea-52728cfe30e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='attentive_overlay']/iframe</value>
-      <webElementGuid>f15ece8b-495c-4c1e-9e71-ecd725a58c8c</webElementGuid>
+      <webElementGuid>6c0a9396-9e0e-4b1c-a6c7-a80bf53dde98</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[8]/iframe</value>
-      <webElementGuid>a6908919-9fb8-4236-9cd2-bae9b91b45ce</webElementGuid>
+      <webElementGuid>05982494-69c0-494f-b83c-c9ad026ba887</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//iframe[@id = 'attentive_creative' and @title = 'Sign Up via Text for Offers' and @src = 'https://creatives.attn.tv/creatives-dynamic/multiPage/index.html']</value>
-      <webElementGuid>9c326ba9-8640-4a8f-9393-d728b6ac3b82</webElementGuid>
+      <webElementGuid>027e3153-fa06-4a73-8726-622b8bbbafcb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
