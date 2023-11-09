@@ -3,7 +3,7 @@
    <description></description>
    <name>button_Add to Bag</name>
    <tag></tag>
-   <elementGuidId>f19b9bbe-98f6-4466-a6d9-c50136c2027b</elementGuidId>
+   <elementGuidId>cb63a377-bc03-42e9-a307-756b381119c2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>67162774-9ffb-4211-8b2b-dc73bc681331</webElementGuid>
+      <webElementGuid>78a2945f-8cde-49a8-a71f-c70b030684e1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>aria-disabled</name>
       <type>Main</type>
       <value>false</value>
-      <webElementGuid>db1e2fd7-6cab-46d8-84a4-63cb83bc7223</webElementGuid>
+      <webElementGuid>ca4ae04b-e1d9-4f29-8e03-7e46ef8e6249</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>button-button-34E Button-button-3NM productFullDetail-cartActionsAdd-39t button-buttonPrimary-3TM Button-buttonPrimary-1JG</value>
-      <webElementGuid>ad03d97b-d7c7-4ed6-9878-ec8a00d45113</webElementGuid>
+      <webElementGuid>867f9704-b9a2-4e0c-8912-1ffe54f90580</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>type</name>
       <type>Main</type>
       <value>submit</value>
-      <webElementGuid>f286bf28-8f75-47b5-8d4e-1c7dca19a1ad</webElementGuid>
+      <webElementGuid>8f76ba96-a432-4b7d-aecc-0428f0c76390</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>data-test-id</name>
       <type>Main</type>
       <value>product-add-to-basket</value>
-      <webElementGuid>563d1b2d-f124-4373-a58c-28b2940f2aa3</webElementGuid>
+      <webElementGuid>d55749e1-c048-491f-84b3-667948a1ab5f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>priority</name>
       <type>Main</type>
       <value>high</value>
-      <webElementGuid>0b5db3f1-d2d7-4ac2-bd0c-70463bfd146f</webElementGuid>
+      <webElementGuid>b9b18b36-08fc-4169-9b85-2b075c0194fb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add to Bag</value>
-      <webElementGuid>b4b83250-dc99-450c-b62e-40a4147c35de</webElementGuid>
+      <webElementGuid>9131f63b-b380-444d-9db2-be431f66936e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;product-full-detail-root container&quot;]/div[@class=&quot;grid productFullDetail-root-1o4&quot;]/div[@class=&quot;product-details-root col-span-12 col-span-5--tablet col-span-4--desktop&quot;]/form[1]/section[2]/button[@class=&quot;button-button-34E Button-button-3NM productFullDetail-cartActionsAdd-39t button-buttonPrimary-3TM Button-buttonPrimary-1JG&quot;]</value>
-      <webElementGuid>775f4932-2ea6-4856-b320-96928cc6db74</webElementGuid>
+      <webElementGuid>615a7986-fd93-400b-849e-640f37bcae80</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,15 +86,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@type='submit']</value>
-      <webElementGuid>f3a88582-d46b-470f-99e8-75dd961fca49</webElementGuid>
+      <webElementGuid>f6bb09f7-53f7-45e6-bdd8-76f2664a4561</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='root']/main/div[2]/div/div[3]/div/form/section[2]/button</value>
-      <webElementGuid>c5497c6b-3705-49e1-8341-d52d8532d4bc</webElementGuid>
+      <value>//div[@id='root']/main/div[2]/div/div[2]/div/form/section[2]/button</value>
+      <webElementGuid>1285f7b6-7ba9-4dfb-b844-258a94eacfa9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Qty'])[1]/following::button[1]</value>
-      <webElementGuid>fa971322-07be-48e0-81cc-94408a6e9d91</webElementGuid>
+      <webElementGuid>2e93b9af-1f09-4077-9602-8c8b7a52958a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,7 +110,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Size'])[1]/following::button[1]</value>
-      <webElementGuid>e3f9e9ac-5ba7-444e-ba35-d57672e24e98</webElementGuid>
+      <webElementGuid>66ec1fc3-81ff-44be-9167-d0158fcda5b5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,15 +118,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Learn more'])[1]/preceding::button[1]</value>
-      <webElementGuid>be2091dd-0e0e-4f3f-86c9-365592cfc376</webElementGuid>
+      <webElementGuid>66012018-fb01-48c7-8a7d-35804269822f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOP 20+ SIMILAR STYLES'])[1]/preceding::button[1]</value>
-      <webElementGuid>1942452f-973f-43dd-a5a3-5698b7fa2beb</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PRODUCT INFO'])[1]/preceding::button[1]</value>
+      <webElementGuid>8313449a-90da-4777-8979-aed40a599676</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -134,15 +134,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add to Bag']/parent::*</value>
-      <webElementGuid>8699d543-27c6-4356-beef-53f8f5ea679b</webElementGuid>
+      <webElementGuid>747aaca4-f51d-4aef-bcbe-d1ec31084398</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//form/section[2]/button</value>
-      <webElementGuid>1c587400-ecfc-4281-b65f-c4774654b90b</webElementGuid>
+      <value>//section[2]/button</value>
+      <webElementGuid>2d4f9088-9aa0-4d46-baa8-73e6154657f3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -150,6 +150,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'submit' and (text() = 'Add to Bag' or . = 'Add to Bag')]</value>
-      <webElementGuid>acb2bed0-57e7-4905-9d7b-650661652521</webElementGuid>
+      <webElementGuid>540cbece-49a0-43e1-8b33-f20fab814a02</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
