@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>select</value>
-      <webElementGuid>80c70128-ad33-483c-b554-83626965d2e3</webElementGuid>
+      <webElementGuid>62197893-8768-46d6-9272-0d33e8fe5aa9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>fredhopperSort-select-3Sh select-input-1FY field-input-23y</value>
-      <webElementGuid>9122a205-2057-40a9-a977-874648be2552</webElementGuid>
+      <webElementGuid>174e65d1-1797-4b27-99ef-6b612093c7ba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>id</name>
       <type>Main</type>
       <value>sortBy</value>
-      <webElementGuid>3791a352-a630-49c6-9c8c-10dc1c7e7827</webElementGuid>
+      <webElementGuid>39dc80d9-d657-4bba-9b55-4eae29360bf7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>sortBy</value>
-      <webElementGuid>234e8574-c2d8-4caf-a0ef-54f15913eec2</webElementGuid>
+      <webElementGuid>f6cc0860-d3a5-441d-a0f4-d85d76ccbd60</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>text</name>
       <type>Main</type>
       <value>RecommendedPrice low to highPrice high to lowNewest inDiscount %</value>
-      <webElementGuid>8d96f20a-de07-4463-949c-380517df339e</webElementGuid>
+      <webElementGuid>0d2d39a2-33ab-40fd-a4ac-5692f8130f49</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;container fredhopper-fredhopper-3i4 fredhopper-noBreadcrumbs-3g1&quot;]/div[@class=&quot;fredhopper-content-boK&quot;]/section[1]/div[@class=&quot;visuallyHiddenUntilDesktop&quot;]/div[@class=&quot;fredhopper-itemCountAndSort-2Aw&quot;]/div[@class=&quot;fredhopper-sort-1Ml&quot;]/form[@class=&quot;fredhopperSort-form-31N&quot;]/div[@class=&quot;fredhopperSort-field-16M&quot;]/div[@class=&quot;Inline-inline-1-W Inline-inlineXSmall-2fw&quot;]/span[@class=&quot;fieldIcons-root-1cS&quot;]/span[@class=&quot;fieldIcons-input-2we&quot;]/select[@id=&quot;sortBy&quot;]</value>
-      <webElementGuid>89a970ee-0c29-48ec-a6a4-b6ba98e0b41d</webElementGuid>
+      <webElementGuid>9b0470ad-2907-445c-9e96-564c4b64cc94</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//select[@id='sortBy']</value>
-      <webElementGuid>5bb206c4-fcd3-4a62-ada8-6212bcf5fc5e</webElementGuid>
+      <webElementGuid>adb87b1f-1472-4020-b431-2a6b6f278dff</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/main/div[2]/div/div[3]/section/div/div/div[2]/form/div/div/span/span/select</value>
-      <webElementGuid>edcfeac3-dd9e-4d40-b8ea-0004c0859f51</webElementGuid>
+      <webElementGuid>0964cfe5-f65d-448b-9d49-aaff71dfbcbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,39 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[1]/following::select[1]</value>
-      <webElementGuid>a0f14b92-b708-4281-880f-d06ea40b9872</webElementGuid>
+      <webElementGuid>f9f25265-1552-4dd5-b628-9d77e5773141</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items 1 - 48 of 27766'])[1]/following::select[1]</value>
+      <webElementGuid>21b8158b-4327-4681-ac1f-6cc99a88a48e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[2]/preceding::select[1]</value>
+      <webElementGuid>b4207686-dde4-4845-b4a5-2e7189168f82</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//select</value>
+      <webElementGuid>b1c2f4fe-75cf-4ea4-92f6-797f706822e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//select[@id = 'sortBy' and @name = 'sortBy' and (text() = 'RecommendedPrice low to highPrice high to lowNewest inDiscount %' or . = 'RecommendedPrice low to highPrice high to lowNewest inDiscount %')]</value>
+      <webElementGuid>bed02f8d-007e-49e4-adbf-6d454298b7e0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -95,30 +127,6 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Items 1 - 48 of 10296'])[1]/following::select[1]</value>
       <webElementGuid>ccd1935c-16e8-4aa6-9386-e926ced21603</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sort By'])[2]/preceding::select[1]</value>
-      <webElementGuid>0fec76ea-a3cb-42da-a678-683e9e088d43</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:position</name>
-      <type>Main</type>
-      <value>//select</value>
-      <webElementGuid>63d5ded5-e591-47e1-a82f-81cfed997769</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:customAttributes</name>
-      <type>Main</type>
-      <value>//select[@id = 'sortBy' and @name = 'sortBy' and (text() = 'RecommendedPrice low to highPrice high to lowNewest inDiscount %' or . = 'RecommendedPrice low to highPrice high to lowNewest inDiscount %')]</value>
-      <webElementGuid>5f645967-5b2f-443f-b4f9-9e432cc5c81c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

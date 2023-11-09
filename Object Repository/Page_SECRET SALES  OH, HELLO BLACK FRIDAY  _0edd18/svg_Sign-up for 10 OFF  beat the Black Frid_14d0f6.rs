@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>svg</value>
-      <webElementGuid>db4772fb-f650-4285-9970-127861dd7e29</webElementGuid>
+      <webElementGuid>1e19ff81-28bc-4048-8b99-e51a09c322c3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>closeIconSvg</value>
-      <webElementGuid>06f3d4a9-fa72-4c07-8745-b3cff54a1c55</webElementGuid>
+      <webElementGuid>f7494083-3119-497b-90bc-9faf6366db6d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>viewBox</name>
       <type>Main</type>
       <value>0 0 45 45</value>
-      <webElementGuid>2c448b8d-2177-46e0-bc5a-cbb3fe4e877b</webElementGuid>
+      <webElementGuid>bc1c73b2-d1db-471f-8cee-fef34f31df25</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>color</name>
       <type>Main</type>
       <value>#000000</value>
-      <webElementGuid>d8c82700-bc2a-41ea-84cc-0acf2e9211b6</webElementGuid>
+      <webElementGuid>7b9baf94-2807-430b-8769-d31481ffd24e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>aria-hidden</name>
       <type>Main</type>
       <value>true</value>
-      <webElementGuid>44e4893b-1b3e-4b19-832e-171b6195589d</webElementGuid>
+      <webElementGuid>4c6f8b96-15e6-42a7-9001-ade062d4b8b0</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>class</name>
       <type>Main</type>
       <value>css-oohciz</value>
-      <webElementGuid>22a7f978-0eb3-43ff-ab60-5d9c74ebbe61</webElementGuid>
+      <webElementGuid>803a53c7-8295-4cfb-b267-df09117cab83</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;closeIconSvg&quot;)</value>
-      <webElementGuid>6530439b-8e6e-4249-94f7-9b07ee786c0f</webElementGuid>
+      <webElementGuid>e1c12075-de1b-4311-8ae4-497bc2423af7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -78,7 +78,7 @@
       <name>ref_element</name>
       <type>Main</type>
       <value>Object Repository/Page_SECRET SALES  OH, HELLO BLACK FRIDAY  _0edd18/iframe_concat(id(, , attentive_creative, , _24add5</value>
-      <webElementGuid>9e52837a-772a-43bd-a54a-aecb71dae428</webElementGuid>
+      <webElementGuid>71ffc91a-2bc1-43c0-94c2-5cf949a42ccf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign-up for 10% OFF + beat the Black Friday rush'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>5e64764f-0e0f-40f2-b643-cdb05034b98a</webElementGuid>
+      <webElementGuid>d4431252-e5bc-47e7-b3b5-dd17d459e4e4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='✓ Unmissable Black Friday deals'])[1]/preceding::*[name()='svg'][1]</value>
-      <webElementGuid>488d5930-ba7b-4771-8caf-5b68da440ad5</webElementGuid>
+      <webElementGuid>8515d621-734b-48c5-b965-a3efc7ae603a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//svg[@id = 'closeIconSvg']</value>
-      <webElementGuid>29fcfed1-0d27-4496-825d-997f2e5f4194</webElementGuid>
+      <webElementGuid>155cd6f3-d90c-474b-b7ff-693857c2b7ad</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
