@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_BODY</name>
+   <tag></tag>
+   <elementGuidId>709874a0-4e7c-48ee-bc7b-45e66fed7135</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='yui_3_17_2_1_1699532831187_629']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1699532831187_629 > span.sqsrte-text-color--black</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9ad9930b-f0c8-4acf-bbdd-b6abc72921df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sqsrte-text-color--black</value>
+      <webElementGuid>dbe73acc-30fa-4869-bc77-e2685e32447a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BODY</value>
+      <webElementGuid>738a1d35-bb46-474a-9247-79ba31fa86ca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1699532831187_629&quot;)/span[@class=&quot;sqsrte-text-color--black&quot;]</value>
+      <webElementGuid>0d3a1419-72c5-4bba-bb51-c7bcb7184f74</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1699532831187_629']/span</value>
+      <webElementGuid>47bd3a27-bdaa-4c2d-b982-66a1f39924fc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='COLLECTION'])[5]/following::span[1]</value>
+      <webElementGuid>1891335f-3488-4585-b672-5b656450bb04</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SHOP'])[4]/following::span[2]</value>
+      <webElementGuid>792103d4-cabe-4f60-88d0-d3a0b805f5c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FACE'])[6]/preceding::span[1]</value>
+      <webElementGuid>60ca6f0c-62e7-4108-b484-7fa3282ff72c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='MAN'])[6]/preceding::span[2]</value>
+      <webElementGuid>47afbb9a-1a25-4d2b-8bd8-4ef79b282b64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/section/div[2]/div/div/div/div[3]/div/div/div/p[2]/a/span</value>
+      <webElementGuid>8ed72ce4-ae81-47b4-a0dd-00f3cade282c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'BODY' or . = 'BODY')]</value>
+      <webElementGuid>7eaa1a69-893e-4e32-b221-29409dda9c03</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

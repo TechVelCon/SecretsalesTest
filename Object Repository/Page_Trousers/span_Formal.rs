@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Formal</name>
+   <tag></tag>
+   <elementGuidId>7ba5d96f-38e3-43c4-b74b-a9d402870e7a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Categories']/div/a[4]/label/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>389a48d8-f5f1-48d8-a410-24727614eb07</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fredhopperFacets-fredhopperLabelText-2Ae</value>
+      <webElementGuid>ea0cbd37-2710-4d5d-bc5e-cb0e63c018e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Formal</value>
+      <webElementGuid>a90115c6-c3b7-46b5-aa62-b577d5e22e8c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Categories&quot;)/div[@class=&quot;Stack-stack-1rt fredhopperFacets-contentChildren-15M Stack-stackSmall-1NU&quot;]/a[@class=&quot;Link-link-1RL fredhopperFacets-optionLink-3Rt fredhopperFacets-linkGray-z6M undefined&quot;]/label[@class=&quot;Inline-inline-1-W fredhopperFacets-fredhopperLabel-1-J Inline-inlineSmall-pBt Inline-alignItemsCenter-3Z5&quot;]/label[@class=&quot;Inline-inline-1-W fredhopperFacets-fredhopperLabel-1-J Inline-inlineSmall-pBt Inline-alignItemsCenter-3Z5&quot;]/span[@class=&quot;fredhopperFacets-fredhopperLabelText-2Ae&quot;]</value>
+      <webElementGuid>340ef412-d571-4924-be71-a9f46b2b8f63</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Categories']/div/a[4]/label/label/span</value>
+      <webElementGuid>6af7ceab-660c-4754-8dbd-5ecf1450d62c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(15)'])[1]/following::span[1]</value>
+      <webElementGuid>36dce4ec-50c9-44ba-9e20-dda8394d62db</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cords'])[1]/following::span[2]</value>
+      <webElementGuid>b4fc802f-da3d-49ae-b7eb-e791c081bab4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(123)'])[1]/preceding::span[1]</value>
+      <webElementGuid>0f564a8d-0b02-408d-b67f-b35d9f54e0d4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Joggers'])[1]/preceding::span[2]</value>
+      <webElementGuid>6e8c8b9c-30c0-4865-b66a-c0fb908011e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[4]/label/label/span</value>
+      <webElementGuid>2139800d-2dc4-4f7c-a300-7082b24a565f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Formal' or . = 'Formal')]</value>
+      <webElementGuid>c63ab402-c750-4b05-8c7b-f8234584b914</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

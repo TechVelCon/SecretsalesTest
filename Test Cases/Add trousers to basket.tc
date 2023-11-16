@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Add trousers to basket</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d84067ed-c45a-481b-ad99-1ac0e86dbe1e</testCaseGuid>
+   <testDataLinks>
+      <combinationType>ONE</combinationType>
+      <id>d5b5a597-3360-45d2-b5ad-382edf869f95</id>
+      <iterationEntity>
+         <iterationType>ALL</iterationType>
+         <value></value>
+      </iterationEntity>
+      <testDataId>Data Files/Add to basket</testDataId>
+   </testDataLinks>
+</TestCaseEntity>

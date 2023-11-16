@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Tops</name>
+   <tag></tag>
+   <elementGuidId>8583ac99-874f-4790-8f8f-e66789cdc69a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/aside[4]/div/div/div/div/div/ul/li[4]/div/ul/li[5]/div/ul/li[19]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.c-mobile-nav__sub-nav-container.c-mobile-nav__sub-nav-container--active > ul > li:nth-of-type(19) > a.c-mobile-nav__nav-link.c-ev-attached</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f3b21f4f-1ac9-43cf-8cf8-78d966390197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-mobile-nav__nav-link c-ev-attached</value>
+      <webElementGuid>258739ea-b269-4b40-a77b-c7889b5d0ebd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.secretsales.com/search/shop-by/q/view%20all%20tops/categories/root_clothing/gender/gender_male,gender_unisex/</value>
+      <webElementGuid>bdc21399-145d-4671-bc6b-142339f20431</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Tops</value>
+      <webElementGuid>5104e79e-46da-4fee-815c-4ea89f0b1060</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/aside[@class=&quot;navigation-root_open-3KH navigation-root-3v2 navigation-exit-2Xc navigation-hidden-1Ft navigation-enter-1rs navigation-visible-1M_&quot;]/div[@class=&quot;navigation-body-1TM navigation-exit-2Xc navigation-visible-1M_&quot;]/div[1]/div[@class=&quot;cmsBlock-content-_Ac&quot;]/div[1]/div[@class=&quot;html-root-2b-&quot;]/ul[@class=&quot;c-mobile-nav__categories js-mobile-nav-category c-mobile-nav__categories--hide-scrollbar&quot;]/li[4]/div[@class=&quot;c-mobile-nav__sub-nav-container&quot;]/ul[1]/li[5]/div[@class=&quot;c-mobile-nav__sub-nav-container c-mobile-nav__sub-nav-container--active&quot;]/ul[1]/li[19]/a[@class=&quot;c-mobile-nav__nav-link c-ev-attached&quot;]</value>
+      <webElementGuid>ec8cb229-5d56-4142-9a2c-944f9a0171e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/aside[4]/div/div/div/div/div/ul/li[4]/div/ul/li[5]/div/ul/li[19]/a</value>
+      <webElementGuid>54afeedb-0a47-44a8-b828-b9cce08b57a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Tops')])[13]</value>
+      <webElementGuid>5a9f570b-153d-4281-966b-97681480d664</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Swimwear'])[10]/following::a[1]</value>
+      <webElementGuid>26b9908a-f98b-454c-907a-436e8912d9a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sweatshirts &amp; Hoodies'])[10]/following::a[2]</value>
+      <webElementGuid>f9068bd8-e64c-4439-bff2-583f421f5f03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tracksuits'])[5]/preceding::a[1]</value>
+      <webElementGuid>0190b8a2-e813-4499-b3ea-26e0fe9bb6d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Trousers'])[10]/preceding::a[2]</value>
+      <webElementGuid>ab6c645c-51a4-4dfe-ada4-540e1b410330</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.secretsales.com/search/shop-by/q/view%20all%20tops/categories/root_clothing/gender/gender_male,gender_unisex/')])[2]</value>
+      <webElementGuid>b3f8e6a6-2200-4026-bb4d-e3f0aecaa40d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[4]/div/ul/li[5]/div/ul/li[19]/a</value>
+      <webElementGuid>e21322b2-91f5-4bc6-b289-45687e40d84a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.secretsales.com/search/shop-by/q/view%20all%20tops/categories/root_clothing/gender/gender_male,gender_unisex/' and (text() = 'Tops' or . = 'Tops')]</value>
+      <webElementGuid>ec4f65ed-3c7d-4aa9-8e1e-e632c9c28e16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

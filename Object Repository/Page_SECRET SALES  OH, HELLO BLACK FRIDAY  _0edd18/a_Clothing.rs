@@ -3,7 +3,7 @@
    <description></description>
    <name>a_Clothing</name>
    <tag></tag>
-   <elementGuidId>b14e6d98-35a1-40a3-a0d3-e252a901d253</elementGuidId>
+   <elementGuidId>894aa2e5-ac08-4841-89b3-133df56a8b0b</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>a</value>
-      <webElementGuid>dac31df3-133b-4954-b489-c050f3007fe3</webElementGuid>
+      <webElementGuid>8978c722-197c-495e-bf7e-e93c7491cf2b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>href</name>
       <type>Main</type>
       <value>/</value>
-      <webElementGuid>8d84cf6e-f275-4e2d-8244-fe385479b3d4</webElementGuid>
+      <webElementGuid>59e94ecb-f47e-4516-af5a-bb4aacb859d8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>class</name>
       <type>Main</type>
       <value>c-mobile-nav__nav-link</value>
-      <webElementGuid>a7749c96-e5f5-4f67-88d7-48ce870573a2</webElementGuid>
+      <webElementGuid>c214c852-938d-41d2-b8fc-4eca63f96fe8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Clothing</value>
-      <webElementGuid>5eb6398b-d547-4ac5-a3e9-ca8f371e3873</webElementGuid>
+      <webElementGuid>925d4c54-0bd3-4f7e-8230-f7bbc3f7d96d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;root&quot;)/aside[@class=&quot;navigation-root_open-3KH navigation-root-3v2 navigation-exit-2Xc navigation-hidden-1Ft navigation-enter-1rs navigation-visible-1M_&quot;]/div[@class=&quot;navigation-body-1TM navigation-exit-2Xc navigation-visible-1M_&quot;]/div[1]/div[@class=&quot;cmsBlock-content-_Ac&quot;]/div[1]/div[@class=&quot;html-root-2b-&quot;]/ul[@class=&quot;c-mobile-nav__categories js-mobile-nav-category c-mobile-nav__categories--hide-scrollbar&quot;]/li[4]/div[@class=&quot;c-mobile-nav__sub-nav-container c-mobile-nav__sub-nav-container--active&quot;]/ul[1]/li[5]/a[@class=&quot;c-mobile-nav__nav-link&quot;]</value>
-      <webElementGuid>f9c6602b-f93e-449e-8d99-080696e57d34</webElementGuid>
+      <webElementGuid>cd215566-a88f-40ed-b566-810b0a4560dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='root']/aside[4]/div/div/div/div/div/ul/li[4]/div/ul/li[5]/a</value>
-      <webElementGuid>7ad22de8-6797-4d56-a1d2-014fa27056b0</webElementGuid>
+      <webElementGuid>8aaf9934-da54-4d2f-9ce0-89d81e38a883</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:link</name>
       <type>Main</type>
       <value>(//a[contains(text(),'Clothing')])[9]</value>
-      <webElementGuid>23073c03-7a68-492a-84a8-32b0123642ef</webElementGuid>
+      <webElementGuid>bae0755c-9c2b-44de-8907-4e8580ca2c77</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Timberland'])[2]/following::a[1]</value>
-      <webElementGuid>c5400f31-07b3-4837-917f-f15ebef08356</webElementGuid>
+      <webElementGuid>56b89b1f-c027-45f1-8a4f-b675d86a10b1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Superdry'])[8]/following::a[2]</value>
-      <webElementGuid>e03c21a4-2629-4fff-a1c4-ec8daf116944</webElementGuid>
+      <webElementGuid>ab34d656-efcd-45ea-b3c9-5c5bb8d82a27</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Black Friday'])[16]/preceding::a[1]</value>
-      <webElementGuid>d921941f-3116-43ea-804b-deba65e90c47</webElementGuid>
+      <webElementGuid>c2571475-2103-47d7-8dbb-25a94a1d1ad4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,15 +102,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop All'])[37]/preceding::a[2]</value>
-      <webElementGuid>d26d4bdb-c7de-4120-810a-836e1f721b19</webElementGuid>
+      <webElementGuid>feeee04e-b7a6-497d-8d13-2f3a6029ad00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:href</name>
       <type>Main</type>
-      <value>(//a[contains(@href, '/')])[1133]</value>
-      <webElementGuid>499eac32-5a58-4b46-a2cb-b2d0318ca631</webElementGuid>
+      <value>(//a[contains(@href, '/')])[1132]</value>
+      <webElementGuid>1a622291-7850-438b-97b2-72168ad13e5a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -118,7 +118,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[4]/div/ul/li[5]/a</value>
-      <webElementGuid>58093556-72e6-4767-aea8-69dd1c87d25c</webElementGuid>
+      <webElementGuid>ab880906-360d-4018-9ac2-1b76ad6dc5f8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -126,6 +126,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//a[@href = '/' and (text() = 'Clothing' or . = 'Clothing')]</value>
-      <webElementGuid>d0f0161f-ea80-4213-9bf5-816a831b0b03</webElementGuid>
+      <webElementGuid>5a909cb7-95ec-474d-aa09-25e98fa9ea20</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

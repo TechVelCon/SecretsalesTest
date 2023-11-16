@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_LEARN MORE</name>
+   <tag></tag>
+   <elementGuidId>34ec435e-203a-4156-a07b-cb0eff6ad4ca</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='yui_3_17_2_1_1699533677717_626']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1699533677717_626</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>725657c6-aaef-436f-8718-4813e036bec8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/our-essence</value>
+      <webElementGuid>c47363a4-790a-4fe1-ab19-e695db04f7c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sqs-block-button-element--medium sqs-button-element--primary sqs-block-button-element</value>
+      <webElementGuid>6cc554b5-129d-4f7e-9770-1e70b6b997ff</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-initialized</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>f6332e02-4cdc-4cec-8c88-7a0f97501d4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>yui_3_17_2_1_1699533677717_626</value>
+      <webElementGuid>2ffacf57-1b53-455d-911e-8f9237ba2197</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+    LEARN MORE
+  </value>
+      <webElementGuid>b39c4fbe-e1e3-4cd6-acdc-35b77713ba76</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1699533677717_626&quot;)</value>
+      <webElementGuid>02b53428-c64e-4458-8403-78f953b20229</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1699533677717_626']</value>
+      <webElementGuid>184c405c-e1d0-4e8c-82b3-70045c48f9be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1699533677717_483']/a</value>
+      <webElementGuid>54f80d30-1879-4901-9035-dd8aad855a3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'LEARN MORE')]</value>
+      <webElementGuid>3d04df82-c25c-44be-9aa9-abe2ce32e22a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=concat('Responsibly crafted in England', &quot;'&quot;, 's Heart')])[1]/following::a[1]</value>
+      <webElementGuid>6aea17a3-79dc-4982-98f5-a65704879189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Herbs as Catalysts'])[1]/following::a[1]</value>
+      <webElementGuid>3fe4ca58-a69d-4891-a5f7-b6ec241f6ad8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='INTENSELY INFUSED BODY OILS'])[1]/preceding::a[1]</value>
+      <webElementGuid>79034903-3743-4ea3-a623-adbc1244a233</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BODY OIL SIGNATURE BLEND - 150 ML'])[1]/preceding::a[3]</value>
+      <webElementGuid>5d86d022-fd45-4dae-86c3-ca742531288b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='LEARN MORE']/parent::*</value>
+      <webElementGuid>b4e65714-6427-48f4-9c50-a5043ad32ecb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, '/our-essence')])[4]</value>
+      <webElementGuid>681b599b-479b-4966-ada6-92abd299bb07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/a</value>
+      <webElementGuid>c50426c9-3698-4584-967b-8c2140a46356</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/our-essence' and @id = 'yui_3_17_2_1_1699533677717_626' and (text() = '
+    LEARN MORE
+  ' or . = '
+    LEARN MORE
+  ')]</value>
+      <webElementGuid>fdc337dd-6207-41c9-8e49-73ebde1babe0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

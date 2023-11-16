@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Clothing</name>
+   <tag></tag>
+   <elementGuidId>add2c5c6-900b-4fc0-a13a-97bcc1c1a49a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Categories']/div/a[3]/label/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>2f58ca45-f285-45f5-a350-b95322d65f8a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fredhopperFacets-fredhopperLabelText-2Ae</value>
+      <webElementGuid>6e158c69-2cab-4c60-8c1a-1741880642bf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Clothing</value>
+      <webElementGuid>59475bdd-42eb-479c-8728-314f9d57a334</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Categories&quot;)/div[@class=&quot;Stack-stack-1rt fredhopperFacets-contentChildren-15M Stack-stackSmall-1NU&quot;]/a[@class=&quot;Link-link-1RL fredhopperFacets-optionLink-3Rt fredhopperFacets-linkGray-z6M undefined&quot;]/label[@class=&quot;Inline-inline-1-W fredhopperFacets-fredhopperLabel-1-J Inline-inlineSmall-pBt Inline-alignItemsCenter-3Z5&quot;]/label[@class=&quot;Inline-inline-1-W fredhopperFacets-fredhopperLabel-1-J Inline-inlineSmall-pBt Inline-alignItemsCenter-3Z5&quot;]/span[@class=&quot;fredhopperFacets-fredhopperLabelText-2Ae&quot;]</value>
+      <webElementGuid>b216ed20-69a1-4f96-9004-9b746119d58c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Categories']/div/a[3]/label/label/span</value>
+      <webElementGuid>c0f26bab-f62b-4bf6-8d30-ab3c142c579a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(12)'])[1]/following::span[1]</value>
+      <webElementGuid>6744cd76-92cb-43d6-98fe-ced91dbf1a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Beauty &amp; Grooming'])[1]/following::span[2]</value>
+      <webElementGuid>31690c27-5804-4c07-8954-9e49e60b5685</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(239)'])[1]/preceding::span[1]</value>
+      <webElementGuid>0c6e9a8e-b542-4b7b-868e-341c622b4250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eyewear'])[1]/preceding::span[2]</value>
+      <webElementGuid>c3f91286-ced3-47b9-82e6-4b6b6b973e20</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a[3]/label/label/span</value>
+      <webElementGuid>5414e388-7634-48ab-b628-5f7ab69a1526</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Clothing' or . = 'Clothing')]</value>
+      <webElementGuid>1dca8676-5f85-4230-b169-7d686950dfb0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

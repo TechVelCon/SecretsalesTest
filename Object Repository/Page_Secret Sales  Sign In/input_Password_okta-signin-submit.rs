@@ -3,6 +3,7 @@
    <description></description>
    <name>input_Password_okta-signin-submit</name>
    <tag></tag>
+<<<<<<< HEAD
    <elementGuidId>6b07ea91-752a-4407-9969-edddd13041cc</elementGuidId>
    <selectorCollection>
       <entry>
@@ -103,5 +104,107 @@
       <type>Main</type>
       <value>//input[@type = 'submit' and @id = 'okta-signin-submit']</value>
       <webElementGuid>aff07960-dc89-4f81-93a8-863fe96a285d</webElementGuid>
+=======
+   <elementGuidId>5d84f34d-6699-440d-9355-b134ec7c1e05</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='okta-signin-submit']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#okta-signin-submit</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>e357778d-8797-421c-ba40-9c10a8f14df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button-primary pwa-button</value>
+      <webElementGuid>2fa2703b-c2c9-4aeb-aa34-09b374d08ee6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>246869ba-c09c-4077-9773-10de59321a44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>9fa26706-193f-4f1c-8a97-af70b2dccc98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>okta-signin-submit</value>
+      <webElementGuid>38b5f6f6-6de6-427a-90f5-69ca59214721</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>save</value>
+      <webElementGuid>0a5fd568-6fdd-433b-a8dd-e7cff051b2b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;okta-signin-submit&quot;)</value>
+      <webElementGuid>d65dce8d-4ad6-4614-b438-229e09f7b02d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='okta-signin-submit']</value>
+      <webElementGuid>8b9be28f-3b4a-4dbe-ba8e-e47ee8d9195a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form2']/div[2]/input</value>
+      <webElementGuid>4c0bffe1-90cd-4f09-b98c-03bbc0b69bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>c5ee7fd2-71aa-4775-bfe3-93673e132d66</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit' and @id = 'okta-signin-submit']</value>
+      <webElementGuid>1d29f398-f139-4b7a-b091-61e5a6ca16c8</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/TechVelCon/SecretsalesTest
    </webElementXpaths>
 </WebElementEntity>

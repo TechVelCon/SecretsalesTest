@@ -3,6 +3,7 @@
    <description></description>
    <name>svg_Sign-up for 10 OFF  beat the Black Frid_14d0f6</name>
    <tag></tag>
+<<<<<<< HEAD
    <elementGuidId>b699d63d-8d2b-45f9-96a3-4c90d56f9e16</elementGuidId>
    <selectorCollection>
       <entry>
@@ -103,5 +104,107 @@
       <type>Main</type>
       <value>//svg[@id = 'closeIconSvg']</value>
       <webElementGuid>86d62bd9-bd6b-4d53-badd-80cac91ff0eb</webElementGuid>
+=======
+   <elementGuidId>13c07c81-5e1f-4691-a0e9-aa4a28a3ec56</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign-up for 10% OFF + beat the Black Friday rush'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#closeIconSvg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>1e19ff81-28bc-4048-8b99-e51a09c322c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>closeIconSvg</value>
+      <webElementGuid>f7494083-3119-497b-90bc-9faf6366db6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 45 45</value>
+      <webElementGuid>bc1c73b2-d1db-471f-8cee-fef34f31df25</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#000000</value>
+      <webElementGuid>7b9baf94-2807-430b-8769-d31481ffd24e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>4c6f8b96-15e6-42a7-9001-ade062d4b8b0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-oohciz</value>
+      <webElementGuid>803a53c7-8295-4cfb-b267-df09117cab83</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;closeIconSvg&quot;)</value>
+      <webElementGuid>e1c12075-de1b-4311-8ae4-497bc2423af7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_SECRET SALES  OH, HELLO BLACK FRIDAY  _0edd18/iframe_concat(id(, , attentive_creative, , _24add5</value>
+      <webElementGuid>71ffc91a-2bc1-43c0-94c2-5cf949a42ccf</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign-up for 10% OFF + beat the Black Friday rush'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>d4431252-e5bc-47e7-b3b5-dd17d459e4e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✓ Unmissable Black Friday deals'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>8515d621-734b-48c5-b965-a3efc7ae603a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@id = 'closeIconSvg']</value>
+      <webElementGuid>155cd6f3-d90c-474b-b7ff-693857c2b7ad</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/TechVelCon/SecretsalesTest
    </webElementXpaths>
 </WebElementEntity>

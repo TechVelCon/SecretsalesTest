@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Sign-up for 10 OFF  beat the Black Frid_14d0f6</name>
+   <tag></tag>
+   <elementGuidId>abd38435-301b-49ec-bdb0-4af2308aa7f6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign-up for 10% OFF + beat the Black Friday rush'])[1]/preceding::*[name()='svg'][1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#closeIconSvg</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+      <webElementGuid>9c692b21-6458-4b10-821f-594492465046</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>closeIconSvg</value>
+      <webElementGuid>f8cd329a-1537-4fca-9730-997622c77196</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 45 45</value>
+      <webElementGuid>bb6ab0f9-a823-4995-8e70-7b2bf0ee6a8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>color</name>
+      <type>Main</type>
+      <value>#000000</value>
+      <webElementGuid>c25782e2-b9d2-4c3e-a782-3f0513b25375</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>00f5c6da-6268-4ca3-a4a4-1e0ea7825f5a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-oohciz</value>
+      <webElementGuid>5ee935f6-fe4c-4dd8-a171-79e6a826d55b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;closeIconSvg&quot;)</value>
+      <webElementGuid>7062f42e-8cea-4b44-b237-e04b779b5afd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/iframe_concat(id(, , attentive_creative, , _24add5</value>
+      <webElementGuid>dfd3e0ef-b95b-4fd4-b176-b089478aaeee</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sign-up for 10% OFF + beat the Black Friday rush'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>59fe11e0-2697-4605-8964-276cada6c8e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='✓ Unmissable Black Friday deals'])[1]/preceding::*[name()='svg'][1]</value>
+      <webElementGuid>ab54ac9a-c32b-4828-94a1-faea9001dfc8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//svg[@id = 'closeIconSvg']</value>
+      <webElementGuid>e5ed2345-e95f-435a-b892-a5fd0bf400d1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

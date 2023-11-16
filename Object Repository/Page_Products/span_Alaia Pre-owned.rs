@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Alaia Pre-owned</name>
+   <tag></tag>
+   <elementGuidId>ab221246-6b16-4572-aaa7-9d4ed4522753</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='Brand']/div/a[2]/label/label/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4815aef0-e65a-4a9a-b9cc-6353c44a9ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fredhopperFacets-fredhopperLabelText-2Ae</value>
+      <webElementGuid>b63440d0-3d38-4e94-92d0-8845f0d2fe11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Alaia Pre-owned</value>
+      <webElementGuid>27b1dbca-d615-476e-8d64-9514bdf9361b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;Brand&quot;)/div[@class=&quot;Stack-stack-1rt fredhopperFacets-contentChildren-15M Stack-stackSmall-1NU&quot;]/a[@class=&quot;Link-link-1RL fredhopperFacets-optionLink-3Rt fredhopperFacets-linkGray-z6M undefined&quot;]/label[@class=&quot;Inline-inline-1-W fredhopperFacets-fredhopperLabel-1-J Inline-inlineSmall-pBt Inline-alignItemsCenter-3Z5&quot;]/label[@class=&quot;Inline-inline-1-W fredhopperFacets-fredhopperLabel-1-J Inline-inlineSmall-pBt Inline-alignItemsCenter-3Z5&quot;]/span[@class=&quot;fredhopperFacets-fredhopperLabelText-2Ae&quot;]</value>
+      <webElementGuid>53133bec-c886-4658-9ea3-479c5c687f83</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='Brand']/div/a[2]/label/label/span</value>
+      <webElementGuid>e1e3cc3e-84fe-4eac-8851-cff46e0421dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(1)'])[1]/following::span[1]</value>
+      <webElementGuid>7740f2b9-c8ba-49fe-84f4-937c9964499f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Brand'])[1]/following::span[3]</value>
+      <webElementGuid>adafe9e6-fdf1-4ad9-a093-831c477cb5d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(2)'])[1]/preceding::span[1]</value>
+      <webElementGuid>e4c81cdb-eb97-4db0-9240-601211b19aa7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Alexander Mcqueen'])[1]/preceding::span[2]</value>
+      <webElementGuid>bdb74c94-df9b-4cb0-8c71-d58ce5e74ebe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Alaia Pre-owned']/parent::*</value>
+      <webElementGuid>7ee749ef-93cf-4114-a321-550eb672164a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/a[2]/label/label/span</value>
+      <webElementGuid>11965bad-17a3-4a51-a035-12cda88064cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Alaia Pre-owned' or . = 'Alaia Pre-owned')]</value>
+      <webElementGuid>2ace3fa9-3142-46ad-9397-a9f750c42efc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

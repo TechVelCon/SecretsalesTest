@@ -3,6 +3,7 @@
    <description></description>
    <name>input_Email Address_username</name>
    <tag></tag>
+<<<<<<< HEAD
    <elementGuidId>3ca52023-f0ee-403c-8382-d2932c6b2047</elementGuidId>
    <selectorCollection>
       <entry>
@@ -103,5 +104,107 @@
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Enter your email address' and @name = 'username' and @id = 'okta-signin-username']</value>
       <webElementGuid>09110e88-8ab2-45ae-a2d1-f627236cdfed</webElementGuid>
+=======
+   <elementGuidId>1da56ac8-7eb2-4893-82b8-05172070df7f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='okta-signin-username']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#okta-signin-username</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>80ee91f9-e0ce-4b72-8dce-01985ab3faaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>text</value>
+      <webElementGuid>884e496a-0b26-49db-98ee-91f79364b661</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Enter your email address</value>
+      <webElementGuid>e6219a5f-c740-4337-ba42-616692d6b13d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>username</value>
+      <webElementGuid>43979d9f-d9f4-456c-88ec-bd16a44824f9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>okta-signin-username</value>
+      <webElementGuid>adc5e3d6-fa19-47ef-8e04-b0ed866e398c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>autocomplete</name>
+      <type>Main</type>
+      <value>off</value>
+      <webElementGuid>eb803ea4-8762-4494-8be0-005782775df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;okta-signin-username&quot;)</value>
+      <webElementGuid>3973f111-4f4e-4e1b-84bd-c71621b17bb5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@id='okta-signin-username']</value>
+      <webElementGuid>945fb451-8a7b-4826-b8de-ce80cfd06bc4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form2']/div/div[2]/div/div[2]/span/input</value>
+      <webElementGuid>fcbfe828-bd9f-407c-b576-70ed912fc97a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//input</value>
+      <webElementGuid>c6d1a5f9-b1b9-40ab-a73d-16e19893071e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'text' and @placeholder = 'Enter your email address' and @name = 'username' and @id = 'okta-signin-username']</value>
+      <webElementGuid>a072e94c-13a6-4614-a7ff-73db099e30aa</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/TechVelCon/SecretsalesTest
    </webElementXpaths>
 </WebElementEntity>

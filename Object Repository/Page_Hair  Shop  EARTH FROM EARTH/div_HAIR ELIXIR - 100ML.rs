@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_HAIR ELIXIR - 100ML</name>
+   <tag></tag>
+   <elementGuidId>49ba6d53-ff95-49ee-9112-d750234269ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='yui_3_17_2_1_1699532689314_336']/section/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.grid-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>91070dc0-5810-47ac-b27c-d741a143b6a6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>grid-title</value>
+      <webElementGuid>6ad18d2c-05a9-43ac-8212-50d9e0986b9c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-test</name>
+      <type>Main</type>
+      <value>plp-grid-title</value>
+      <webElementGuid>e46d790e-38fb-4f3e-956e-41b6c2c1ea37</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+        HAIR ELIXIR - 100ML
+      </value>
+      <webElementGuid>e52d677f-8116-4b52-b500-d529e67873ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1699532689314_336&quot;)/section[@class=&quot;grid-meta-wrapper&quot;]/div[@class=&quot;grid-main-meta&quot;]/div[@class=&quot;grid-title&quot;]</value>
+      <webElementGuid>fec1e890-2408-4ecf-9bde-3396d0d845c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1699532689314_336']/section/div/div</value>
+      <webElementGuid>cb6cb46b-7405-46b5-8b01-4c8531f99189</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gifts'])[1]/following::div[6]</value>
+      <webElementGuid>fb18a0a8-f2a1-4088-9b51-d60d59314dac</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Bundles &amp; Duo'])[1]/following::div[6]</value>
+      <webElementGuid>1b1465a9-235c-452b-b645-9dfef6fe6845</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='from £53.00'])[1]/preceding::div[1]</value>
+      <webElementGuid>15959fb3-3b12-4467-a9c3-0d990526b616</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add To Cart'])[1]/preceding::div[7]</value>
+      <webElementGuid>7ddca293-eaa3-4d79-a96b-2117c65cc6f4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='HAIR ELIXIR - 100ML']/parent::*</value>
+      <webElementGuid>e88f5292-a143-4e5e-9732-750323e398c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//a/section/div/div</value>
+      <webElementGuid>11d73d6a-3b88-4a33-ac00-719ec688254c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+        HAIR ELIXIR - 100ML
+      ' or . = '
+        HAIR ELIXIR - 100ML
+      ')]</value>
+      <webElementGuid>2f01598d-76ba-48f3-8abe-ea3d945fafba</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

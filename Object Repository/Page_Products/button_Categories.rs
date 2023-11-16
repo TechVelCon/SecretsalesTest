@@ -3,6 +3,7 @@
    <description></description>
    <name>button_Categories</name>
    <tag></tag>
+<<<<<<< HEAD
    <elementGuidId>7286e561-37d4-45ca-85fc-be04389ee66e</elementGuidId>
    <selectorCollection>
       <entry>
@@ -159,5 +160,203 @@
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='(143)'])[1]/following::button[1]</value>
       <webElementGuid>d561451d-de4c-491e-bc2a-c607d40ebab1</webElementGuid>
+=======
+   <elementGuidId>eb5ab64b-2294-4936-a2d2-c7ff9a364fec</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[9]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>60d692fb-cc4b-453e-9f34-3db3b918268e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>86235718-d1e2-40bd-ad3f-70fa845d5cc6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-label</name>
+      <type>Main</type>
+      <value>Categories</value>
+      <webElementGuid>d53146d8-7e04-480a-9947-783596ae45cc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-expanded</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>bd24bf23-0807-41a7-8f62-6b1480847421</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-controls</name>
+      <type>Main</type>
+      <value>Categories</value>
+      <webElementGuid>75440cc6-6990-4cd3-bab6-50779e7bde6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fredhopperFacets-button-f6L Expandable-button-1Cy</value>
+      <webElementGuid>9a2ff9ec-ed07-444c-be10-2fb1f24da965</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Categories</value>
+      <webElementGuid>595c3ff9-149a-4323-ab1a-61dc7733a9de</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;container fredhopper-fredhopper-3i4 fredhopper-noBreadcrumbs-3g1&quot;]/aside[@class=&quot;fredhopper-facets-1Oo visuallyHiddenUntilDesktop&quot;]/div[@class=&quot;fredhopper-facetsWrapper-1JE&quot;]/div[@class=&quot;Stack-stack-1rt Stack-stackSmall-1NU&quot;]/div[@class=&quot;fredhopper-facets-root fredhopperFacets-facetsList-1Gi&quot;]/div[@class=&quot;fredhopperFacets-expandable-cUj&quot;]/button[@class=&quot;fredhopperFacets-button-f6L Expandable-button-1Cy&quot;]</value>
+      <webElementGuid>0c0166fc-3fa3-413c-9b51-e3389d39144a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[9]</value>
+      <webElementGuid>de60b06e-4eec-4830-8cec-07170ea7cdc5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/aside/div/div/div[2]/div[2]/button</value>
+      <webElementGuid>b2665ff0-a7a3-4659-b351-d8b6b075bdfd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(135)'])[1]/following::button[1]</value>
+      <webElementGuid>2e3c9d66-404d-46cf-99f7-b9bdbcc00bc7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Girls'])[3]/following::button[1]</value>
+      <webElementGuid>779c32eb-0a17-4f6e-8551-738c23142f0b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessories'])[9]/preceding::button[1]</value>
+      <webElementGuid>f8c82e94-9374-4f1d-ad01-fd74c579581d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/button</value>
+      <webElementGuid>ba2ec43d-4a2b-4b2e-b2bd-4c609fa160cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Categories' or . = 'Categories')]</value>
+      <webElementGuid>3fbe1679-9c81-4c77-b030-9a560ff6b784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Girls'])[2]/following::button[1]</value>
+      <webElementGuid>3eb12884-6f90-4f37-abea-1473f1911c56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessories'])[7]/preceding::button[1]</value>
+      <webElementGuid>e7bc97b6-f149-444d-b9ed-6e799d59ab44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/aside/div/div/div[2]/div/button</value>
+      <webElementGuid>8f210afa-56c5-4f9b-9f87-b08a208610ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Clear all'])[1]/following::button[1]</value>
+      <webElementGuid>27aeb916-30b8-4bba-9163-9e18290cf33d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Gifting'])[1]/following::button[1]</value>
+      <webElementGuid>8cbf5e1b-dba9-488d-a709-a9fe9ae7294b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Accessories'])[11]/preceding::button[1]</value>
+      <webElementGuid>bee2803b-432f-4b47-9f16-74ac044b6820</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//aside/div/div/div[2]/div/button</value>
+      <webElementGuid>822fb776-370e-432e-b3ff-320a115e100f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Black Coats'])[1]/following::button[2]</value>
+      <webElementGuid>3bbb7eea-9fe5-4edd-bf7c-c7d964145e8f</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/TechVelCon/SecretsalesTest
    </webElementXpaths>
 </WebElementEntity>

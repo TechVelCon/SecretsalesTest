@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Shop Womens</name>
+   <tag></tag>
+   <elementGuidId>08dec212-a2b0-41f9-b020-b5424e919d76</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div[3]/div/div[5]/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.button-content-31o</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>51c6a813-4a02-458c-b051-6b165b65660b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button-content-31o</value>
+      <webElementGuid>9e1d7bc8-cde9-494b-9a5b-25970391334e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Shop Womens</value>
+      <webElementGuid>4ff594fc-3dee-49c7-9156-83afb7bfd0ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;cms-root&quot;]/div[@class=&quot;row-root-3E7 mainhero-block&quot;]/div[@class=&quot;buttons-root-3lJ buttons-inline-3IH mainhero-cta&quot;]/div[@class=&quot;uxtracking_HPHero1&quot;]/button[@class=&quot;button-root_highPriority-tpS button-root-wXq clickable-root-2gB&quot;]/span[@class=&quot;button-content-31o&quot;]</value>
+      <webElementGuid>1545316e-6810-4e29-8162-77f1bad10498</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[3]/div/div[5]/div/button/span</value>
+      <webElementGuid>3a92a003-fe12-4bf6-b2f5-333e57585ac4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/ 1000s OF NEW PRICE DROPS /'])[1]/following::span[1]</value>
+      <webElementGuid>07c5e072-3177-4019-9a98-36d6fdad5602</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BLACK FRIDAY PREVIEW'])[1]/following::span[2]</value>
+      <webElementGuid>9eb36641-ce81-4aec-af7c-3db1f222af3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Shop Mens'])[1]/preceding::span[1]</value>
+      <webElementGuid>b63bbc3a-8300-4b0b-ae80-7b058e1c6a96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UP TO 80% OFF'])[1]/preceding::span[4]</value>
+      <webElementGuid>66851d15-2993-4f34-b383-77d44b8317f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Shop Womens']/parent::*</value>
+      <webElementGuid>c6021d5a-9e42-48c8-9516-c05c4dc2da6e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/div/button/span</value>
+      <webElementGuid>bd03e581-a613-4bbf-8074-ca4854dfb0e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Shop Womens' or . = 'Shop Womens')]</value>
+      <webElementGuid>94f9f048-f313-4375-bc23-536be3bdf16a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

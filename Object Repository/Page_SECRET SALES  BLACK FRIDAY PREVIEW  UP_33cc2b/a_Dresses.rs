@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Dresses</name>
+   <tag></tag>
+   <elementGuidId>e01b1f5c-724a-42ea-af55-f50e8ad25a21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/aside[4]/div/div/div/div/div/ul/li[3]/div/ul/li[6]/div/ul/li[6]/a</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.c-mobile-nav__sub-nav-container.c-mobile-nav__sub-nav-container--active > ul > li:nth-of-type(6) > a.c-mobile-nav__nav-link.c-ev-attached</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f1874974-a708-4a75-9628-a9531afa6b2a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>c-mobile-nav__nav-link c-ev-attached</value>
+      <webElementGuid>5ad8c0ae-3b08-4fed-b3e9-e0ef2765af2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://www.secretsales.com/clothing/dresses/shop-by/gender/gender_female/</value>
+      <webElementGuid>4bd60718-7fe9-469c-b0ac-95b3c12585be</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Dresses</value>
+      <webElementGuid>57a83bbc-4e13-4d8e-99fa-fcbd513e505f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/aside[@class=&quot;navigation-root_open-3KH navigation-root-3v2 navigation-exit-2Xc navigation-hidden-1Ft navigation-enter-1rs navigation-visible-1M_&quot;]/div[@class=&quot;navigation-body-1TM navigation-exit-2Xc navigation-visible-1M_&quot;]/div[1]/div[@class=&quot;cmsBlock-content-_Ac&quot;]/div[1]/div[@class=&quot;html-root-2b-&quot;]/ul[@class=&quot;c-mobile-nav__categories js-mobile-nav-category c-mobile-nav__categories--hide-scrollbar&quot;]/li[3]/div[@class=&quot;c-mobile-nav__sub-nav-container&quot;]/ul[1]/li[6]/div[@class=&quot;c-mobile-nav__sub-nav-container c-mobile-nav__sub-nav-container--active&quot;]/ul[1]/li[6]/a[@class=&quot;c-mobile-nav__nav-link c-ev-attached&quot;]</value>
+      <webElementGuid>02c34cd3-5777-496c-8536-d2b83eb5530b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/aside[4]/div/div/div/div/div/ul/li[3]/div/ul/li[6]/div/ul/li[6]/a</value>
+      <webElementGuid>08ccc339-b1c3-4332-83d3-2f81b7813bbe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>(//a[contains(text(),'Dresses')])[6]</value>
+      <webElementGuid>e646fb81-5fd0-4a1d-9c7a-b4819765c3de</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Coats &amp; Jackets'])[9]/following::a[1]</value>
+      <webElementGuid>ae18698d-e92b-47c4-89fe-aa2117813913</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Activewear'])[7]/following::a[2]</value>
+      <webElementGuid>cf14e44a-6e1f-4501-9803-f1fcb209bb50</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Fleeces'])[3]/preceding::a[1]</value>
+      <webElementGuid>e500db58-761c-4b42-9684-155ceaa32efa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jeans'])[5]/preceding::a[2]</value>
+      <webElementGuid>94961237-b4a6-4606-b73e-98b2f552d277</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://www.secretsales.com/clothing/dresses/shop-by/gender/gender_female/')])[2]</value>
+      <webElementGuid>746cf848-1ed1-4159-9332-fba2f9059ff5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[3]/div/ul/li[6]/div/ul/li[6]/a</value>
+      <webElementGuid>902d2e3c-07a9-43c0-8a73-0264e18a1773</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://www.secretsales.com/clothing/dresses/shop-by/gender/gender_female/' and (text() = 'Dresses' or . = 'Dresses')]</value>
+      <webElementGuid>62ed4370-2d46-4fd5-a9f1-6d72099d9368</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

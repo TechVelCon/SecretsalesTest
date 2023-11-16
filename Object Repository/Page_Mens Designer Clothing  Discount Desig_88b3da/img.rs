@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>f11e566d-d1f7-478b-8a37-dd4f0ee49f42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div[2]/div/div/div[3]/div/div/div/div/span/div[3]/figure/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>figure.uxtracking-LOGOCAROUSEL_lacoste > a > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>5f9d9259-e1b0-429e-9160-2725651c2767</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media.secretsales.com/wysiwyg/lacoste.jpg</value>
+      <webElementGuid>a4a6f002-ee11-4906-afc5-06eb71be6281</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;cms-root&quot;]/div[@class=&quot;row-contained-9Ys row-root-3E7&quot;]/div[1]/div[@class=&quot;html-root-2b-&quot;]/div[@class=&quot;logobanner-pwamargin&quot;]/div[1]/div[@class=&quot;marquee&quot;]/div[@class=&quot;marquee--inner&quot;]/span[1]/div[@class=&quot;orb&quot;]/figure[@class=&quot;uxtracking-LOGOCAROUSEL_lacoste&quot;]/a[1]/img[1]</value>
+      <webElementGuid>46609cc5-db65-4452-8b6e-0280e06b4cac</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[2]/div/div/div[3]/div/div/div/div/span/div[3]/figure/a/img</value>
+      <webElementGuid>41439c6a-a6f0-4c37-8f2a-162563af9065</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://media.secretsales.com/wysiwyg/lacoste.jpg')]</value>
+      <webElementGuid>93b9548f-863b-4a8c-ab57-a75a4d8d90e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/figure/a/img</value>
+      <webElementGuid>85622e34-000e-49a8-9eea-02cbb7c4cbf2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://media.secretsales.com/wysiwyg/lacoste.jpg']</value>
+      <webElementGuid>a3150cb7-71c3-430a-925b-eb6f2992cd9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

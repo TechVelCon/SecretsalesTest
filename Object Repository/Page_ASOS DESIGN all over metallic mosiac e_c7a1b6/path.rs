@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>c5d190d1-3fe6-40c1-8e70-b7e8c9eadd53</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.mobile-mini-cart.cartTrigger-link-1us.cartTrigger-trigger-3Ke.clickable-root-2gB > div > div > svg.injected-svg > path</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>33894748-e6f7-424d-8c19-19d4f479deb9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#fff</value>
+      <webElementGuid>1ad96ba3-e8f1-46f6-9d6c-31c32eea4556</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M0 0h1000v1000H0z</value>
+      <webElementGuid>b5841791-f5cd-4b64-870d-982b303b7579</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/header[@class=&quot;header-root header-root-2P7&quot;]/div[@class=&quot;container header-content-BBd&quot;]/div[@class=&quot;header-actionsWrapper-1gF&quot;]/div[@class=&quot;header-search-bar header-secondaryActions-1if&quot;]/div[@class=&quot;header-userIconsWrapper-1bS&quot;]/button[@class=&quot;mobile-mini-cart cartTrigger-link-1us cartTrigger-trigger-3Ke clickable-root-2gB&quot;]/div[1]/div[1]/svg[@class=&quot;injected-svg&quot;]/path[1]</value>
+      <webElementGuid>e452acd6-8837-41ff-b26b-f603455337d2</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

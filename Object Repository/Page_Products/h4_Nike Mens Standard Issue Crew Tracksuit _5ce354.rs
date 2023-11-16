@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h4_Nike Mens Standard Issue Crew Tracksuit _5ce354</name>
+   <tag></tag>
+   <elementGuidId>09892c98-4712-401d-9edf-f50e46780cd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div/div[3]/section[2]/div[2]/a/div[2]/div/h4</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h4.fredhopperItem-productName-2tH</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h4</value>
+      <webElementGuid>88f091b4-72e3-4a94-9704-884265d7849b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>fredhopperItem-productName-2tH</value>
+      <webElementGuid>30ba5666-6161-4e82-95f7-6ea274597845</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Nike Mens Standard Issue Crew Tracksuit in Dark Smoke Grey</value>
+      <webElementGuid>f2c32ca3-b86d-431c-9bfd-2a8f6e172770</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;container fredhopper-fredhopper-3i4 fredhopper-noBreadcrumbs-3g1&quot;]/div[@class=&quot;fredhopper-content-boK&quot;]/section[2]/div[@class=&quot;fredhopper-item-list-root fredhopperItems-fredhopperItems-2di&quot;]/a[@class=&quot;fredhopper-item-root&quot;]/div[@class=&quot;Stack-stack-1rt fredhopperItem-meta-3F3 Stack-stackMedium-2TH&quot;]/div[1]/h4[@class=&quot;fredhopperItem-productName-2tH&quot;]</value>
+      <webElementGuid>9da5c38b-e299-4525-a88f-ce3dda35d235</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div/div[3]/section[2]/div[2]/a/div[2]/div/h4</value>
+      <webElementGuid>84182667-d8fa-477b-ada7-6f9fb590622a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Popular!'])[1]/following::h4[1]</value>
+      <webElementGuid>e56a9f04-a4bb-4dd1-86ce-e360e5cbc87f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=''])[1]/following::h4[1]</value>
+      <webElementGuid>4f9abd45-18d0-4c32-a6e6-32652033ee6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£110.00'])[1]/preceding::h4[1]</value>
+      <webElementGuid>189aede2-35c2-4888-97b6-20608d9b3301</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='£74.00'])[1]/preceding::h4[1]</value>
+      <webElementGuid>a44d1aff-27dd-41a8-b7e4-95154ba34b03</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Nike Mens Standard Issue Crew Tracksuit in Dark Smoke Grey']/parent::*</value>
+      <webElementGuid>df748fa4-691f-4d6a-8006-d479a7796152</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/h4</value>
+      <webElementGuid>bd06b169-59b6-480f-b6da-fed9bc2ecf48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h4[(text() = 'Nike Mens Standard Issue Crew Tracksuit in Dark Smoke Grey' or . = 'Nike Mens Standard Issue Crew Tracksuit in Dark Smoke Grey')]</value>
+      <webElementGuid>5c5fe9bc-ebc3-485a-bf23-fc528e515e61</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

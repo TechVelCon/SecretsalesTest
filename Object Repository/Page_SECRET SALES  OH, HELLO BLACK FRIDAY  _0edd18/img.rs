@@ -3,6 +3,7 @@
    <description></description>
    <name>img</name>
    <tag></tag>
+<<<<<<< HEAD
    <elementGuidId>a1e2c63a-34c5-4a7c-8ca9-35ae31f06a0e</elementGuidId>
    <selectorCollection>
       <entry>
@@ -95,5 +96,75 @@
       <type>Main</type>
       <value>//img[@src = 'https://media.secretsales.com/wysiwyg/ck.jpg' and @alt = 'calvin']</value>
       <webElementGuid>63408e57-33e6-44e6-8edc-01ce8fd2cdeb</webElementGuid>
+=======
+   <elementGuidId>bacff320-0fe5-4c2c-82b2-b4b75036eb1f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/header/div[3]/div/div/nav/div/div/div/div/div/ul/li[10]/a/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.c-ev-attached > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6dfd8364-189d-4409-af31-2ffdae7946f0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media.secretsales.com/wysiwyg/vip-NEW-2.png</value>
+      <webElementGuid>1798b7d8-3ee1-4d37-97de-44116838a0cd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/header[@class=&quot;header-root header-root-2P7&quot;]/div[@class=&quot;container header-content-BBd&quot;]/div[@class=&quot;header-actionsWrapper-1gF&quot;]/div[@class=&quot;header-store-nav header-primaryActions-2bB&quot;]/nav[@class=&quot;visuallyHiddenUntilDesktop&quot;]/div[@class=&quot;header-desktopNavWrapper-S9Y&quot;]/div[@class=&quot;c-navigation__categories&quot;]/div[@class=&quot;cmsBlock-content-_Ac&quot;]/div[1]/div[@class=&quot;html-root-2b-&quot;]/ul[@class=&quot;c-navigation__categories&quot;]/li[10]/a[@class=&quot;c-ev-attached&quot;]/img[1]</value>
+      <webElementGuid>02325e83-59da-4e3b-8fcc-d7beea1ab1e8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/header/div[3]/div/div/nav/div/div/div/div/div/ul/li[10]/a/img</value>
+      <webElementGuid>88ac8650-53d8-4e53-be77-8837d73d3a19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://media.secretsales.com/wysiwyg/vip-NEW-2.png')]</value>
+      <webElementGuid>de0b67be-30b3-4bde-af7c-cf44ade1331e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[10]/a/img</value>
+      <webElementGuid>2eefdc7b-4c9c-49fd-b22f-f5e1b438dfbb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://media.secretsales.com/wysiwyg/vip-NEW-2.png']</value>
+      <webElementGuid>12e97bb0-e4fc-4c80-ae6f-1b430e24d448</webElementGuid>
+>>>>>>> branch 'main' of https://github.com/TechVelCon/SecretsalesTest
    </webElementXpaths>
 </WebElementEntity>

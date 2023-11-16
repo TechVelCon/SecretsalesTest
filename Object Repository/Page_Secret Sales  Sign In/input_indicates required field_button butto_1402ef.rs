@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_indicates required field_button butto_1402ef</name>
+   <tag></tag>
+   <elementGuidId>479f1b78-d45d-4b9c-80bc-8869c25be142</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@value='Sign up']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>input.button.button-primary.pwa-button</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>f211e718-2c19-403f-9cce-f9351d35f37c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button button-primary pwa-button</value>
+      <webElementGuid>aa10f582-a995-4ed0-816c-07b7fe94320a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>a9fa4ad8-2bff-4b36-86e3-d713cb914562</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Sign up</value>
+      <webElementGuid>a89208ed-d2d5-4c5c-8022-86aded64d6d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>save</value>
+      <webElementGuid>2b15d931-abdb-4536-b253-d4c9cff1d5db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;form7&quot;)/div[@class=&quot;o-form-button-bar&quot;]/input[@class=&quot;button button-primary pwa-button&quot;]</value>
+      <webElementGuid>7eb37a66-3c5d-44ff-9e0b-63627d7811f2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//input[@value='Sign up']</value>
+      <webElementGuid>c85b8230-575c-433a-b2c0-7b4ec9d24bd1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='form7']/div[2]/input</value>
+      <webElementGuid>3a9a488d-49ff-4e18-806e-e81b0e9b163e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/input</value>
+      <webElementGuid>72a7fca9-2e9a-4907-9c0c-4de4a043cd6a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@type = 'submit']</value>
+      <webElementGuid>61422aba-11de-451b-afb7-dd98dc9b1549</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

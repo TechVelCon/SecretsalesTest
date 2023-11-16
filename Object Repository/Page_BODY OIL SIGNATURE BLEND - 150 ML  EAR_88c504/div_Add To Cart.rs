@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add To Cart</name>
+   <tag></tag>
+   <elementGuidId>312f8592-cbff-4882-8061-7c5acac158a0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='yui_3_17_2_1_1699532854792_187']/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.sqs-add-to-cart-button-inner</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>514f1c1d-4169-4fd2-bbb6-180790439140</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sqs-add-to-cart-button-inner</value>
+      <webElementGuid>1da0d12a-9646-497f-85cb-7014c940d108</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add To Cart</value>
+      <webElementGuid>301719ed-5b41-491d-bd6b-c925c6971a3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1699532854792_187&quot;)/div[@class=&quot;sqs-add-to-cart-button-inner&quot;]</value>
+      <webElementGuid>ac225b65-4369-425f-a4d2-f0c9ca785a78</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1699532854792_187']/div</value>
+      <webElementGuid>ee2b24d7-64ba-462d-9ac6-8a67f7aa33e9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Quantity:'])[1]/following::div[3]</value>
+      <webElementGuid>cb1ed020-d091-4c5a-9819-7507cbc0050b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Eco/Refill - w/o pump &amp; box'])[2]/following::div[5]</value>
+      <webElementGuid>332408d9-cea2-456a-938a-540205e2e79e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BODY OIL SIGNATURE BLEND - 150 ML'])[3]/preceding::div[1]</value>
+      <webElementGuid>007e2312-5beb-48a3-8e94-5e275c11691f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='from £43.00'])[1]/preceding::div[3]</value>
+      <webElementGuid>5b77a514-9664-4640-aefc-6e5625951aae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Add To Cart']/parent::*</value>
+      <webElementGuid>40fcf4c7-6448-41b3-9311-a9be9dc008af</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div</value>
+      <webElementGuid>d782c1ef-8d9c-4b27-84b3-522555e5bb99</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Add To Cart' or . = 'Add To Cart')]</value>
+      <webElementGuid>e7ddcb98-2042-45a9-94fa-2d95e825ddb6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='yui_3_17_2_1_1699532447884_187']/div</value>
+      <webElementGuid>fbf27825-8508-4e69-9fbb-f841ebb43c26</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
