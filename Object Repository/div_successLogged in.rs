@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_successLogged in</name>
+   <tag></tag>
+   <elementGuidId>021cabb3-ca73-4a67-a313-844b95124365</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.toast-contentWrapper-mDK.toast-successToast-19p</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='toast-root']/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>6a12fa93-9ecd-4771-b4fb-b854a5d636a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>toast-contentWrapper-mDK toast-successToast-19p</value>
+      <webElementGuid>8468b935-da60-4082-b778-d25c6414cd20</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>successLogged in.</value>
+      <webElementGuid>d638be3a-799d-465e-8426-694b440f219d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;toast-root&quot;)/div[@class=&quot;toast-root-3xB&quot;]/div[@class=&quot;toast-contentWrapper-mDK toast-successToast-19p&quot;]</value>
+      <webElementGuid>7a20f0ba-7120-4772-a9a9-4c9aa59227c5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='toast-root']/div/div</value>
+      <webElementGuid>864eadc3-cce2-4846-b4bd-85ff243998ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='adidas TERREX'])[1]/following::div[6]</value>
+      <webElementGuid>8f00cff4-7190-4173-bed6-cc8960af42ca</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='adidas Sportswear'])[2]/following::div[6]</value>
+      <webElementGuid>85f927cd-b2f4-4c42-b601-5048efb201a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div</value>
+      <webElementGuid>b6173168-175a-4a93-971f-cadfbd11e1e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'successLogged in.' or . = 'successLogged in.')]</value>
+      <webElementGuid>b74a2cfd-390a-40f2-955d-ff92003c29e2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

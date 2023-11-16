@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>7a1edf9d-381f-40af-aa87-130fa6918f96</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>figure.uxtracking-LOGOCAROUSEL_calvinklein > a > img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/div[2]/div[2]/div/div/div[3]/div/div/div/div/span/div[2]/figure/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>28ef917a-3ae3-4b3c-83b2-6040f03ebf5b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media.secretsales.com/wysiwyg/ck.jpg</value>
+      <webElementGuid>e4172ce3-8d70-40e2-8b4d-52571b53eea4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/div[@class=&quot;cms-block-container-root&quot;]/div[@class=&quot;cms-root&quot;]/div[@class=&quot;row-contained-9Ys row-root-3E7&quot;]/div[1]/div[@class=&quot;html-root-2b-&quot;]/div[@class=&quot;logobanner-pwamargin&quot;]/div[1]/div[@class=&quot;marquee&quot;]/div[@class=&quot;marquee--inner&quot;]/span[1]/div[@class=&quot;orb&quot;]/figure[@class=&quot;uxtracking-LOGOCAROUSEL_calvinklein&quot;]/a[1]/img[1]</value>
+      <webElementGuid>b1fe17c1-0461-48e9-aefd-df5d7eadcb9b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/div[2]/div[2]/div/div/div[3]/div/div/div/div/span/div[2]/figure/a/img</value>
+      <webElementGuid>fbb42929-8b04-4ce7-8214-d3be8da5cf55</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://media.secretsales.com/wysiwyg/ck.jpg')]</value>
+      <webElementGuid>ededfb05-6534-4162-9bb0-3fca01224578</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/figure/a/img</value>
+      <webElementGuid>abd1a945-5791-44ce-bfab-17e63fa94c1e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://media.secretsales.com/wysiwyg/ck.jpg']</value>
+      <webElementGuid>babf776f-b0a3-4994-b236-1a3d6500a756</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

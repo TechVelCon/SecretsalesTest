@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>check bag</description>
+   <name>LA_Add T Shirt to basket</name>
+   <tag>tee in bag</tag>
+   <comment></comment>
+   <testCaseGuid>c1f83fe9-044a-43d3-aa6b-78b5b45b57ca</testCaseGuid>
+</TestCaseEntity>

@@ -1,17 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Password_password</name>
+   <name>input_Password_okta-signin-submit</name>
    <tag></tag>
-   <elementGuidId>e30f9193-8a21-4491-a0d6-f03d41af56ce</elementGuidId>
+   <elementGuidId>6b07ea91-752a-4407-9969-edddd13041cc</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#okta-signin-password</value>
+         <value>#okta-signin-submit</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='okta-signin-password']</value>
+         <value>//input[@id='okta-signin-submit']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,94 +22,86 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bea72008-d25e-4ffb-8014-aee5d04fb9c6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>5ce837d1-e79c-43ed-b150-3bd1883dc140</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Enter your password</value>
-      <webElementGuid>d371adac-ddac-4f25-a5af-dee2a10d1e52</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>password</value>
-      <webElementGuid>2a48d079-21c0-4f14-9f8a-59aeebe02c45</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>id</name>
-      <type>Main</type>
-      <value>okta-signin-password</value>
-      <webElementGuid>291ddad8-b998-4cba-b7cf-9eaca9f8813a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>ade22811-8b7e-4bd8-8c93-988d944ab6d6</webElementGuid>
+      <webElementGuid>c2c408d7-dc16-4631-b5d3-0e46f6b0e9f6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>password-with-toggle</value>
-      <webElementGuid>9816e1d6-7acc-4490-8d67-75431aa7f913</webElementGuid>
+      <value>button button-primary pwa-button</value>
+      <webElementGuid>e861e4cc-c4ac-4530-8020-b0d89721dfe9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>03463879-d9ea-4cc8-a45c-2e8bc6783664</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>Sign In</value>
+      <webElementGuid>cdb4a574-5ca5-4879-b025-36c0f8a25f3b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>okta-signin-submit</value>
+      <webElementGuid>e48b489a-ea07-4e0d-85da-8f3b3c2788e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-type</name>
+      <type>Main</type>
+      <value>save</value>
+      <webElementGuid>ff3564b4-0295-48f3-a8a1-576fbad808dc</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;okta-signin-password&quot;)</value>
-      <webElementGuid>073b6314-c132-4ffe-b538-9fb1b94e2bee</webElementGuid>
+      <value>id(&quot;okta-signin-submit&quot;)</value>
+      <webElementGuid>dd97d3fb-ccee-4137-ac1d-fb877844e1e0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='okta-signin-password']</value>
-      <webElementGuid>3ec0a4ca-0dbe-483c-906c-7c3dc9a97e28</webElementGuid>
+      <value>//input[@id='okta-signin-submit']</value>
+      <webElementGuid>114e312f-e22e-4fdc-8c0e-6a557d722089</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//form[@id='form2']/div/div[2]/div[2]/div[2]/span/input</value>
-      <webElementGuid>5a5e4d87-6065-4157-ade4-5bb924683687</webElementGuid>
+      <value>//form[@id='form2']/div[2]/input</value>
+      <webElementGuid>dfbcb5da-fa9a-47a1-b7be-e25052ccdc35</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div[2]/span/input</value>
-      <webElementGuid>af0eda9a-3999-4cf3-9601-b74a98c07e2d</webElementGuid>
+      <value>//div[2]/input</value>
+      <webElementGuid>ea7f1dc9-c28d-40c2-943f-b1332175f148</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'password' and @placeholder = 'Enter your password' and @name = 'password' and @id = 'okta-signin-password']</value>
-      <webElementGuid>216a1aec-f258-49e3-99f0-cdb0dbc8d5ee</webElementGuid>
+      <value>//input[@type = 'submit' and @id = 'okta-signin-submit']</value>
+      <webElementGuid>aff07960-dc89-4f81-93a8-863fe96a285d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

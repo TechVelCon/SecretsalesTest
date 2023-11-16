@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_MAN</name>
+   <tag></tag>
+   <elementGuidId>73c4fcd0-51c1-4542-b1b6-9a742315e640</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#yui_3_17_2_1_1699619180855_650 > span.sqsrte-text-color--black</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='yui_3_17_2_1_1699619180855_650']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>25bde5ac-751a-4a59-983c-958a8cb80df5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>sqsrte-text-color--black</value>
+      <webElementGuid>aaebf1e2-e8eb-4612-a9c1-c0360ff382e6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>MAN</value>
+      <webElementGuid>086cb2ed-8016-443a-a530-fcb810ebfae1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yui_3_17_2_1_1699619180855_650&quot;)/span[@class=&quot;sqsrte-text-color--black&quot;]</value>
+      <webElementGuid>c183c42c-c6a8-456c-b80c-3f0d97d4292b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='yui_3_17_2_1_1699619180855_650']/span</value>
+      <webElementGuid>99c94b78-94f5-4924-a10d-ddbd60e9898d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='FACE'])[6]/following::span[1]</value>
+      <webElementGuid>b1b501d1-4335-4720-99c5-4702d1433695</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='BODY'])[6]/following::span[2]</value>
+      <webElementGuid>0d1558cd-09f6-492d-a029-53eab11eb24d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='HAIR'])[6]/preceding::span[1]</value>
+      <webElementGuid>55d63d72-177c-4fe1-82b0-1596b38f9588</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='WELLNESS'])[6]/preceding::span[2]</value>
+      <webElementGuid>56b4d1bb-89d0-46e9-9cde-634ad4d88c34</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/section/div[2]/div/div/div/div[3]/div/div/div/p[4]/a/span</value>
+      <webElementGuid>00a389a4-b6e7-4c3b-ab0b-3309146e8cf5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'MAN' or . = 'MAN')]</value>
+      <webElementGuid>8f2236a4-49a5-4dd3-ac6f-cb819e609b76</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

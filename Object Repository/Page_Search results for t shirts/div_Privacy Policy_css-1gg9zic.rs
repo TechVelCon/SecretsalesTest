@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Privacy Policy_css-1gg9zic</name>
+   <tag></tag>
+   <elementGuidId>83efe554-7501-497f-920c-5dd3ae37d807</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.css-1gg9zic</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='sideimageframe']/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3676212e-b971-431f-a6b5-d43f93bf4958</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>css-1gg9zic</value>
+      <webElementGuid>5be2a5d7-f928-4653-a5e1-7c002e65ff9f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;sideimageframe&quot;)/div[@class=&quot;css-1gg9zic&quot;]</value>
+      <webElementGuid>3f8cedce-6f9a-4eeb-894a-927bc88820dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>ref_element</name>
+      <type>Main</type>
+      <value>Object Repository/Page_Search results for t shirts/iframe_concat(id(, , attentive_creative, , _24add5</value>
+      <webElementGuid>d51d79f5-42fb-483c-9d51-c9416104062b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='sideimageframe']/div</value>
+      <webElementGuid>f1732662-7336-4a0c-84cb-0a3da5339e4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div</value>
+      <webElementGuid>1ba50ff3-a707-4fc2-9957-27d3680c58d4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

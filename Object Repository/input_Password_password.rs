@@ -3,7 +3,7 @@
    <description></description>
    <name>input_Password_password</name>
    <tag></tag>
-   <elementGuidId>e30f9193-8a21-4491-a0d6-f03d41af56ce</elementGuidId>
+   <elementGuidId>442684f4-e84b-4a6b-ba03-16e440b744cd</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>bea72008-d25e-4ffb-8014-aee5d04fb9c6</webElementGuid>
+      <webElementGuid>ee545052-469f-4474-88cf-e8e6bfba495b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>type</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>5ce837d1-e79c-43ed-b150-3bd1883dc140</webElementGuid>
+      <webElementGuid>f910be95-4627-49e9-8b30-9a55faff05ab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter your password</value>
-      <webElementGuid>d371adac-ddac-4f25-a5af-dee2a10d1e52</webElementGuid>
+      <webElementGuid>9bd8ebb3-1be7-43b9-b542-0bd72ea0e6df</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>name</name>
       <type>Main</type>
       <value>password</value>
-      <webElementGuid>2a48d079-21c0-4f14-9f8a-59aeebe02c45</webElementGuid>
+      <webElementGuid>a061c086-2174-4c5e-88f0-15c4bb18bf74</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>id</name>
       <type>Main</type>
       <value>okta-signin-password</value>
-      <webElementGuid>291ddad8-b998-4cba-b7cf-9eaca9f8813a</webElementGuid>
+      <webElementGuid>b65043c2-ec89-461d-8f2e-6e290767fa7f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>ade22811-8b7e-4bd8-8c93-988d944ab6d6</webElementGuid>
+      <webElementGuid>226652c9-9196-4773-9e38-2bb62d9370ef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>class</name>
       <type>Main</type>
       <value>password-with-toggle</value>
-      <webElementGuid>9816e1d6-7acc-4490-8d67-75431aa7f913</webElementGuid>
+      <webElementGuid>1e1e60d2-229c-4ddb-ad4d-f0695ea92730</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;okta-signin-password&quot;)</value>
-      <webElementGuid>073b6314-c132-4ffe-b538-9fb1b94e2bee</webElementGuid>
+      <webElementGuid>0db10f06-9ea7-4c58-8add-95307b4d42cf</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='okta-signin-password']</value>
-      <webElementGuid>3ec0a4ca-0dbe-483c-906c-7c3dc9a97e28</webElementGuid>
+      <webElementGuid>686512a7-aff0-48a2-8786-6a6fffcf6cf1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='form2']/div/div[2]/div[2]/div[2]/span/input</value>
-      <webElementGuid>5a5e4d87-6065-4157-ade4-5bb924683687</webElementGuid>
+      <webElementGuid>f0cfd371-0dfa-4f45-9bac-8295e860100a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div[2]/span/input</value>
-      <webElementGuid>af0eda9a-3999-4cf3-9601-b74a98c07e2d</webElementGuid>
+      <webElementGuid>0e59e0d8-359c-4118-b7d9-4e52fa4784d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'password' and @placeholder = 'Enter your password' and @name = 'password' and @id = 'okta-signin-password']</value>
-      <webElementGuid>216a1aec-f258-49e3-99f0-cdb0dbc8d5ee</webElementGuid>
+      <webElementGuid>dce6aa36-a4f4-42fc-9c02-79518e51d173</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Follow us_instagramIcon</name>
+   <tag></tag>
+   <elementGuidId>ae33ceac-f315-4cf0-976e-671a21661b44</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>img.instagramIcon</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='root']/main/footer/div/div/div/div/div/div[3]/ul/li/a/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>b4808a90-9ecd-439a-ad5b-82b55fcaf59a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>alt</name>
+      <type>Main</type>
+      <value>Instagram icon</value>
+      <webElementGuid>a4b2561f-f24f-444c-9709-f115cb98ff16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>instagramIcon</value>
+      <webElementGuid>b841b686-c653-4eca-b996-50d342f7070e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://media.secretsales.com/images/instagram.svg</value>
+      <webElementGuid>18a8d2b9-9ef4-45b0-97e6-268abdb95bb6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/footer[@class=&quot;footer-root footer-root-33Q&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;footer-cms-root&quot;]/div[1]/div[@class=&quot;html-root-2b-&quot;]/div[@class=&quot;inner&quot;]/div[@class=&quot;innerItem&quot;]/ul[@class=&quot;linksList linksListSocials&quot;]/li[1]/a[1]/img[@class=&quot;instagramIcon&quot;]</value>
+      <webElementGuid>a7a8389e-a0e6-4655-87ff-fc63444d08b5</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='root']/main/footer/div/div/div/div/div/div[3]/ul/li/a/img</value>
+      <webElementGuid>17934e4b-63c8-47e0-b5c9-5aba2e3ddf7f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[@alt='Instagram icon']</value>
+      <webElementGuid>59163841-6b0c-4029-8139-ef2dab05a250</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/ul/li/a/img</value>
+      <webElementGuid>b55aa595-6d46-4185-9cf1-34d4df97aafb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@alt = 'Instagram icon' and @src = 'https://media.secretsales.com/images/instagram.svg']</value>
+      <webElementGuid>9a3f6adb-7cb9-45d0-961c-655adbdf6ebc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

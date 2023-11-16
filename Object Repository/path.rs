@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path</name>
+   <tag></tag>
+   <elementGuidId>040ba8be-5705-4083-a583-9a3d43c31580</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.cartTrigger-trigger-3Ke.clickable-root-2gB > div > div > svg.injected-svg > path:nth-of-type(2)</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>7945b9fc-ec16-4729-8670-4dcb877c5f52</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M4.17-3v-1.714C4.17-7.08 2.246-9-.125-9S-4.42-7.08-4.42-4.714V-3h-.859a1.72 1.72 0 0 0-1.718 1.714L-8 7.286A1.72 1.72 0 0 0-6.282 9H6.032A1.72 1.72 0 0 0 7.75 7.286L6.748-1.286A1.72 1.72 0 0 0 5.03-3H4.17zM2.538-3h-5.326v-1.714c0-1.466 1.194-2.657 2.663-2.657S2.538-6.18 2.538-4.714V-3h0z</value>
+      <webElementGuid>8907a1f5-bca0-4823-b646-3246697bc3ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill-rule</name>
+      <type>Main</type>
+      <value>evenodd</value>
+      <webElementGuid>28724bfb-dd9b-4fc0-8bfd-f5af9868f00e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>vector-effect</name>
+      <type>Main</type>
+      <value>non-scaling-stroke</value>
+      <webElementGuid>e60262ac-4866-4669-b037-d96a01bcaa7a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>transform</name>
+      <type>Main</type>
+      <value>matrix(54.3262 0 0 54.3262 500.0001 500.0001)</value>
+      <webElementGuid>604193bd-2aa8-4ada-bf24-d872b8d9db90</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/main[@class=&quot;main-root-2Er&quot;]/header[@class=&quot;header-root header-root-2P7&quot;]/div[@class=&quot;container header-content-BBd&quot;]/div[@class=&quot;header-actionsWrapper-1gF&quot;]/div[@class=&quot;header-search-bar header-secondaryActions-1if&quot;]/div[@class=&quot;header-userIconsWrapper-1bS&quot;]/div[@class=&quot;visuallyHiddenUntilDesktop&quot;]/div[@class=&quot;desktop-mini-cart&quot;]/button[@class=&quot;cartTrigger-trigger-3Ke clickable-root-2gB&quot;]/div[1]/div[1]/svg[@class=&quot;injected-svg&quot;]/path[2]</value>
+      <webElementGuid>5c562db6-2a13-4461-8978-5b3ccd1625cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>#fff</value>
+      <webElementGuid>6a8e2dd4-271f-4abb-9421-5d32a89e31f6</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
