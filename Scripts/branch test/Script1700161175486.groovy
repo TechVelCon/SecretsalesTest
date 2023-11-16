@@ -17,22 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
+WebUI.acceptAlert()
 
-WebUI.navigateToUrl('https://www.secretsales.com/')
+WebUI.acceptAlert()
 
-WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/svg_Sign-up for 10 OFF  beat the Black Frid_14d0f6'))
+WebUI.acceptAlert()
 
-WebUI.click(findTestObject('Object Repository/Page_SECRET SALES  BLACK FRIDAY PREVIEW  UP_33cc2b/a_Sign in'))
+WebUI.acceptAlert()
 
-WebUI.setText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Email Address_username'), 'teenble@hotmail.com')
+WebUI.acceptAlert()
 
-WebUI.setEncryptedText(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Password_password'), 'wSYNOlxD3GMRoRI8ED+3qQ==')
+WebUI.acceptAlert()
 
-WebUI.click(findTestObject('Object Repository/Page_Secret Sales  Sign In/input_Password_okta-signin-submit'))
+WebUI.acceptAlert()
 
-WebUI.closeBrowser()
+WebUI.acceptAlert()
 
-WebUI.openBrowser('')
+WebUI.acceptAlert()
 
-WebUI.navigateToUrl('http://www.Tedbaker.co.uk/')
